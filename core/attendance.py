@@ -222,7 +222,8 @@ def sessions_for_student(matric) -> dict:
 # ---------------------------------------------------------------------------
 def record_scan(session: dict, student: dict, device_id, ip,
                 gps_lat, gps_lon, gps_distance, inside_zone, qr_ok,
-                location_shared, reason="", device_known=True) -> str:
+                location_shared, reason="", device_known=True,
+                device_reused=False) -> str:
     """
     Record one scan. It counts as 'present' only when the live QR was valid
     AND the student was inside the lecturer's zone. Anything else is stored
@@ -231,7 +232,8 @@ def record_scan(session: dict, student: dict, device_id, ip,
     aid = db.new_id()
     # A device that cannot be fingerprinted is treated the same as any other
     # failed check: recorded, but flagged for the lecturer.
-    present = bool(qr_ok and inside_zone and device_known)
+    present = bool(qr_ok and inside_zone and device_known
+                   and not device_reused)
     db.add_document("attendance", aid, {
         "attendance_id": aid, "session_id": session["session_id"],
         "course_id": session.get("course_id", session.get("course_code")),
@@ -243,6 +245,7 @@ def record_scan(session: dict, student: dict, device_id, ip,
         "gps_distance": gps_distance,
         "geofence_ok": bool(inside_zone), "qr_ok": bool(qr_ok),
         "device_known": bool(device_known),
+        "device_reused": bool(device_reused),
         "location_shared": location_shared,
         "status": "present" if present else "flagged",
         "flagged": (not present),
@@ -256,6 +259,14 @@ def already_scanned(session_id, matric) -> bool:
     recs = db.query_where("attendance", "session_id", session_id)
     return any(r.get("matric") == matric for r in recs.values())
 
+def device_used_in_session(session_id, device_id, matric) -> bool:
+    """True if this device already scanned for a DIFFERENT student
+    in this session."""
+    if not device_id or device_id == "unreadable":
+        return False
+    recs = db.query_where("attendance", "session_id", session_id)
+    return any(r.get("device_id") == device_id and r.get("matric") != matric
+               for r in recs.values())
 
 def session_scans(session_id) -> dict:
     return db.query_where("attendance", "session_id", session_id)
