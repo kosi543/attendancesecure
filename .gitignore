@@ -2,3 +2,4 @@ firebase_credentials.json
 demo_database.json
 *.pem
 __pycache__/
+firebase_credentials.toml
