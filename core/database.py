@@ -134,10 +134,25 @@ def new_id() -> str:
     return uuid.uuid4().hex[:12]
 
 
+def _safe_id(doc_id: str) -> str:
+    """
+    Firestore treats '/' in a document id as a path separator, so a matric
+    number such as SWE/2022/005 would be split into nested subcollections
+    rather than stored as one document. The slash is therefore replaced on
+    the way in, and put back on the way out by _real_id.
+    """
+    return str(doc_id).replace("/", "__")
+
+
+def _real_id(doc_id: str) -> str:
+    """Turn a stored Firestore id back into the original key."""
+    return str(doc_id).replace("__", "/")
+
+
 def add_document(collection: str, doc_id: str, data: dict) -> None:
     with _lock:
         if USING_FIREBASE:
-            _db.collection(collection).document(doc_id).set(data)
+            _db.collection(collection).document(_safe_id(doc_id)).set(data)
         else:
             store = _load_demo()
             store.setdefault(collection, {})[doc_id] = data
@@ -147,7 +162,7 @@ def add_document(collection: str, doc_id: str, data: dict) -> None:
 def update_document(collection: str, doc_id: str, data: dict) -> None:
     with _lock:
         if USING_FIREBASE:
-            _db.collection(collection).document(doc_id).update(data)
+            _db.collection(collection).document(_safe_id(doc_id)).update(data)
         else:
             store = _load_demo()
             store.setdefault(collection, {}).setdefault(doc_id, {}).update(data)
@@ -156,7 +171,7 @@ def update_document(collection: str, doc_id: str, data: dict) -> None:
 
 def get_document(collection: str, doc_id: str) -> dict | None:
     if USING_FIREBASE:
-        snap = _db.collection(collection).document(doc_id).get()
+        snap = _db.collection(collection).document(_safe_id(doc_id)).get()
         return snap.to_dict() if snap.exists else None
     store = _load_demo()
     return store.get(collection, {}).get(doc_id)
@@ -165,7 +180,8 @@ def get_document(collection: str, doc_id: str) -> dict | None:
 def get_collection(collection: str) -> dict:
     """Return {doc_id: data} for the whole collection."""
     if USING_FIREBASE:
-        return {d.id: d.to_dict() for d in _db.collection(collection).stream()}
+        return {_real_id(d.id): d.to_dict()
+                for d in _db.collection(collection).stream()}
     return _load_demo().get(collection, {})
 
 
@@ -178,7 +194,7 @@ def query_where(collection: str, field: str, value) -> dict:
 def delete_document(collection: str, doc_id: str) -> None:
     with _lock:
         if USING_FIREBASE:
-            _db.collection(collection).document(doc_id).delete()
+            _db.collection(collection).document(_safe_id(doc_id)).delete()
         else:
             store = _load_demo()
             store.get(collection, {}).pop(doc_id, None)
