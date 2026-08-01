@@ -1,0 +1,4456 @@
+dataset,attendance_rate,attendance_band,risk_label,at_risk
+A (primary),65.0,50-70%,At risk,1
+A (primary),98.0,Above 85%,At risk,1
+A (primary),71.0,70-85%,At risk,1
+A (primary),63.0,50-70%,At risk,1
+A (primary),98.0,Above 85%,At risk,1
+A (primary),68.0,50-70%,At risk,1
+A (primary),80.0,70-85%,At risk,1
+A (primary),96.0,Above 85%,Not at risk,0
+A (primary),89.0,Above 85%,Not at risk,0
+A (primary),67.0,50-70%,At risk,1
+A (primary),68.0,50-70%,At risk,1
+A (primary),94.0,Above 85%,At risk,1
+A (primary),88.0,Above 85%,Not at risk,0
+A (primary),71.0,70-85%,At risk,1
+A (primary),96.0,Above 85%,Not at risk,0
+A (primary),92.0,Above 85%,Not at risk,0
+A (primary),84.0,70-85%,At risk,1
+A (primary),97.0,Above 85%,Not at risk,0
+A (primary),85.0,70-85%,Not at risk,0
+A (primary),96.0,Above 85%,Not at risk,0
+A (primary),97.0,Above 85%,Not at risk,0
+A (primary),82.0,70-85%,At risk,1
+A (primary),93.0,Above 85%,At risk,1
+A (primary),92.0,Above 85%,Not at risk,0
+A (primary),87.0,Above 85%,Not at risk,0
+A (primary),83.0,70-85%,At risk,1
+A (primary),67.0,50-70%,At risk,1
+A (primary),60.0,50-70%,At risk,1
+A (primary),97.0,Above 85%,At risk,1
+A (primary),92.0,Above 85%,At risk,1
+A (primary),71.0,70-85%,At risk,1
+A (primary),73.0,70-85%,At risk,1
+A (primary),73.0,70-85%,At risk,1
+A (primary),68.0,50-70%,At risk,1
+A (primary),91.0,Above 85%,At risk,1
+A (primary),71.0,70-85%,At risk,1
+A (primary),92.0,Above 85%,Not at risk,0
+A (primary),97.0,Above 85%,At risk,1
+A (primary),86.0,Above 85%,Not at risk,0
+A (primary),86.0,Above 85%,Not at risk,0
+A (primary),81.0,70-85%,At risk,1
+A (primary),67.0,50-70%,At risk,1
+A (primary),84.0,70-85%,At risk,1
+A (primary),94.0,Above 85%,At risk,1
+A (primary),65.0,50-70%,At risk,1
+A (primary),96.0,Above 85%,Not at risk,0
+A (primary),61.0,50-70%,At risk,1
+A (primary),95.0,Above 85%,Not at risk,0
+A (primary),95.0,Above 85%,Not at risk,0
+A (primary),79.0,70-85%,At risk,1
+A (primary),98.0,Above 85%,Not at risk,0
+A (primary),90.0,Above 85%,At risk,1
+A (primary),97.0,Above 85%,Not at risk,0
+A (primary),91.0,Above 85%,At risk,1
+A (primary),88.0,Above 85%,Not at risk,0
+A (primary),97.0,Above 85%,Not at risk,0
+A (primary),98.0,Above 85%,Not at risk,0
+A (primary),64.0,50-70%,At risk,1
+A (primary),69.0,50-70%,At risk,1
+A (primary),65.0,50-70%,At risk,1
+A (primary),91.0,Above 85%,At risk,1
+A (primary),100.0,Above 85%,Not at risk,0
+A (primary),87.0,Above 85%,Not at risk,0
+A (primary),96.0,Above 85%,Not at risk,0
+A (primary),94.0,Above 85%,Not at risk,0
+A (primary),69.0,50-70%,At risk,1
+A (primary),96.0,Above 85%,Not at risk,0
+A (primary),69.0,50-70%,At risk,1
+A (primary),71.0,70-85%,At risk,1
+A (primary),97.0,Above 85%,Not at risk,0
+A (primary),89.0,Above 85%,Not at risk,0
+A (primary),62.0,50-70%,At risk,1
+A (primary),86.0,Above 85%,Not at risk,0
+A (primary),87.0,Above 85%,Not at risk,0
+A (primary),63.0,50-70%,At risk,1
+A (primary),87.0,Above 85%,At risk,1
+A (primary),87.0,Above 85%,Not at risk,0
+A (primary),60.0,50-70%,At risk,1
+A (primary),99.0,Above 85%,Not at risk,0
+A (primary),87.0,Above 85%,Not at risk,0
+A (primary),65.0,50-70%,At risk,1
+A (primary),78.0,70-85%,At risk,1
+A (primary),64.0,50-70%,At risk,1
+A (primary),89.0,Above 85%,Not at risk,0
+A (primary),94.0,Above 85%,Not at risk,0
+A (primary),96.0,Above 85%,Not at risk,0
+A (primary),65.0,50-70%,At risk,1
+A (primary),82.0,70-85%,At risk,1
+A (primary),85.0,70-85%,At risk,1
+A (primary),74.0,70-85%,At risk,1
+A (primary),85.0,70-85%,At risk,1
+A (primary),96.0,Above 85%,Not at risk,0
+A (primary),65.0,50-70%,At risk,1
+A (primary),71.0,70-85%,At risk,1
+A (primary),70.0,50-70%,At risk,1
+A (primary),62.0,50-70%,At risk,1
+A (primary),93.0,Above 85%,Not at risk,0
+A (primary),88.0,Above 85%,Not at risk,0
+A (primary),78.0,70-85%,At risk,1
+A (primary),85.0,70-85%,Not at risk,0
+A (primary),71.0,70-85%,At risk,1
+A (primary),85.0,70-85%,Not at risk,0
+A (primary),73.0,70-85%,At risk,1
+A (primary),81.0,70-85%,At risk,1
+A (primary),94.0,Above 85%,Not at risk,0
+A (primary),62.0,50-70%,At risk,1
+A (primary),87.0,Above 85%,Not at risk,0
+A (primary),65.0,50-70%,At risk,1
+A (primary),92.0,Above 85%,Not at risk,0
+A (primary),70.0,50-70%,At risk,1
+A (primary),86.0,Above 85%,Not at risk,0
+A (primary),65.0,50-70%,At risk,1
+A (primary),96.0,Above 85%,Not at risk,0
+A (primary),80.0,70-85%,At risk,1
+A (primary),96.0,Above 85%,At risk,1
+A (primary),68.0,50-70%,At risk,1
+A (primary),94.0,Above 85%,Not at risk,0
+A (primary),73.0,70-85%,At risk,1
+A (primary),92.0,Above 85%,Not at risk,0
+A (primary),72.0,70-85%,At risk,1
+A (primary),71.0,70-85%,At risk,1
+A (primary),63.0,50-70%,At risk,1
+A (primary),90.0,Above 85%,Not at risk,0
+A (primary),61.0,50-70%,At risk,1
+A (primary),68.0,50-70%,At risk,1
+A (primary),91.0,Above 85%,At risk,1
+A (primary),93.0,Above 85%,Not at risk,0
+A (primary),65.0,50-70%,At risk,1
+A (primary),63.0,50-70%,At risk,1
+A (primary),89.0,Above 85%,At risk,1
+A (primary),96.0,Above 85%,Not at risk,0
+A (primary),75.0,70-85%,At risk,1
+A (primary),61.0,50-70%,At risk,1
+A (primary),93.0,Above 85%,Not at risk,0
+A (primary),72.0,70-85%,At risk,1
+A (primary),65.0,50-70%,At risk,1
+A (primary),87.0,Above 85%,Not at risk,0
+A (primary),100.0,Above 85%,Not at risk,0
+A (primary),88.0,Above 85%,Not at risk,0
+A (primary),97.0,Above 85%,Not at risk,0
+A (primary),88.0,Above 85%,Not at risk,0
+A (primary),69.0,50-70%,At risk,1
+A (primary),86.0,Above 85%,At risk,1
+A (primary),64.0,50-70%,At risk,1
+A (primary),65.0,50-70%,At risk,1
+A (primary),86.0,Above 85%,Not at risk,0
+A (primary),90.0,Above 85%,Not at risk,0
+A (primary),95.0,Above 85%,Not at risk,0
+A (primary),63.0,50-70%,At risk,1
+A (primary),85.0,70-85%,Not at risk,0
+A (primary),90.0,Above 85%,Not at risk,0
+A (primary),90.0,Above 85%,At risk,1
+A (primary),92.0,Above 85%,Not at risk,0
+A (primary),94.0,Above 85%,Not at risk,0
+A (primary),66.0,50-70%,At risk,1
+A (primary),70.0,50-70%,At risk,1
+A (primary),86.0,Above 85%,Not at risk,0
+A (primary),64.0,50-70%,At risk,1
+A (primary),80.0,70-85%,At risk,1
+A (primary),98.0,Above 85%,Not at risk,0
+A (primary),86.0,Above 85%,Not at risk,0
+A (primary),79.0,70-85%,At risk,1
+A (primary),99.0,Above 85%,Not at risk,0
+A (primary),60.0,50-70%,At risk,1
+A (primary),70.0,50-70%,At risk,1
+A (primary),92.0,Above 85%,Not at risk,0
+A (primary),69.0,50-70%,At risk,1
+A (primary),69.0,50-70%,At risk,1
+A (primary),69.0,50-70%,At risk,1
+A (primary),65.0,50-70%,At risk,1
+A (primary),64.0,50-70%,At risk,1
+A (primary),64.0,50-70%,At risk,1
+A (primary),95.0,Above 85%,Not at risk,0
+A (primary),90.0,Above 85%,Not at risk,0
+A (primary),88.0,Above 85%,At risk,1
+A (primary),93.0,Above 85%,Not at risk,0
+A (primary),97.0,Above 85%,Not at risk,0
+A (primary),69.0,50-70%,At risk,1
+A (primary),97.0,Above 85%,Not at risk,0
+A (primary),65.0,50-70%,At risk,1
+A (primary),85.0,70-85%,At risk,1
+A (primary),92.0,Above 85%,At risk,1
+A (primary),62.0,50-70%,At risk,1
+A (primary),98.0,Above 85%,At risk,1
+A (primary),100.0,Above 85%,Not at risk,0
+A (primary),86.0,Above 85%,Not at risk,0
+A (primary),96.0,Above 85%,Not at risk,0
+A (primary),92.0,Above 85%,Not at risk,0
+A (primary),67.0,50-70%,At risk,1
+A (primary),97.0,Above 85%,Not at risk,0
+A (primary),70.0,50-70%,At risk,1
+A (primary),63.0,50-70%,At risk,1
+A (primary),95.0,Above 85%,Not at risk,0
+A (primary),68.0,50-70%,At risk,1
+A (primary),74.0,70-85%,At risk,1
+A (primary),73.0,70-85%,At risk,1
+A (primary),100.0,Above 85%,Not at risk,0
+A (primary),73.0,70-85%,At risk,1
+A (primary),60.0,50-70%,At risk,1
+A (primary),95.0,Above 85%,Not at risk,0
+A (primary),70.0,50-70%,At risk,1
+A (primary),63.0,50-70%,At risk,1
+A (primary),61.0,50-70%,At risk,1
+A (primary),94.0,Above 85%,Not at risk,0
+A (primary),92.0,Above 85%,At risk,1
+A (primary),87.0,Above 85%,Not at risk,0
+A (primary),75.0,70-85%,At risk,1
+A (primary),88.0,Above 85%,Not at risk,0
+A (primary),89.0,Above 85%,Not at risk,0
+A (primary),62.0,50-70%,At risk,1
+A (primary),96.0,Above 85%,At risk,1
+A (primary),72.0,70-85%,At risk,1
+A (primary),86.0,Above 85%,Not at risk,0
+A (primary),96.0,Above 85%,Not at risk,0
+A (primary),68.0,50-70%,At risk,1
+A (primary),68.0,50-70%,At risk,1
+A (primary),84.0,70-85%,At risk,1
+A (primary),88.0,Above 85%,Not at risk,0
+A (primary),69.0,50-70%,At risk,1
+A (primary),89.0,Above 85%,At risk,1
+A (primary),72.0,70-85%,At risk,1
+A (primary),86.0,Above 85%,Not at risk,0
+A (primary),79.0,70-85%,At risk,1
+A (primary),88.0,Above 85%,Not at risk,0
+A (primary),82.0,70-85%,At risk,1
+A (primary),90.0,Above 85%,Not at risk,0
+A (primary),93.0,Above 85%,Not at risk,0
+A (primary),66.0,50-70%,At risk,1
+A (primary),97.0,Above 85%,Not at risk,0
+A (primary),88.0,Above 85%,Not at risk,0
+A (primary),98.0,Above 85%,Not at risk,0
+A (primary),68.0,50-70%,At risk,1
+A (primary),100.0,Above 85%,Not at risk,0
+A (primary),66.0,50-70%,At risk,1
+A (primary),97.0,Above 85%,Not at risk,0
+A (primary),81.0,70-85%,At risk,1
+A (primary),87.0,Above 85%,Not at risk,0
+A (primary),64.0,50-70%,At risk,1
+A (primary),87.0,Above 85%,Not at risk,0
+A (primary),65.0,50-70%,At risk,1
+A (primary),88.0,Above 85%,At risk,1
+A (primary),70.0,50-70%,At risk,1
+A (primary),66.0,50-70%,At risk,1
+A (primary),99.0,Above 85%,At risk,1
+A (primary),86.0,Above 85%,Not at risk,0
+A (primary),96.0,Above 85%,Not at risk,0
+A (primary),97.0,Above 85%,Not at risk,0
+A (primary),61.0,50-70%,At risk,1
+A (primary),91.0,Above 85%,Not at risk,0
+A (primary),99.0,Above 85%,Not at risk,0
+A (primary),97.0,Above 85%,Not at risk,0
+A (primary),87.0,Above 85%,Not at risk,0
+A (primary),91.0,Above 85%,Not at risk,0
+A (primary),92.0,Above 85%,Not at risk,0
+A (primary),87.0,Above 85%,Not at risk,0
+A (primary),62.0,50-70%,At risk,1
+A (primary),88.0,Above 85%,Not at risk,0
+A (primary),74.0,70-85%,At risk,1
+A (primary),69.0,50-70%,At risk,1
+A (primary),62.0,50-70%,At risk,1
+A (primary),88.0,Above 85%,Not at risk,0
+A (primary),66.0,50-70%,At risk,1
+A (primary),98.0,Above 85%,Not at risk,0
+A (primary),85.0,70-85%,Not at risk,0
+A (primary),66.0,50-70%,At risk,1
+A (primary),73.0,70-85%,At risk,1
+A (primary),91.0,Above 85%,Not at risk,0
+A (primary),87.0,Above 85%,At risk,1
+A (primary),89.0,Above 85%,Not at risk,0
+A (primary),73.0,70-85%,At risk,1
+A (primary),75.0,70-85%,At risk,1
+A (primary),65.0,50-70%,At risk,1
+A (primary),70.0,50-70%,At risk,1
+A (primary),85.0,70-85%,Not at risk,0
+A (primary),62.0,50-70%,At risk,1
+A (primary),79.0,70-85%,At risk,1
+A (primary),75.0,70-85%,At risk,1
+A (primary),72.0,70-85%,At risk,1
+A (primary),70.0,50-70%,At risk,1
+A (primary),96.0,Above 85%,Not at risk,0
+A (primary),73.0,70-85%,At risk,1
+A (primary),62.0,50-70%,At risk,1
+A (primary),60.0,50-70%,At risk,1
+A (primary),93.0,Above 85%,Not at risk,0
+A (primary),73.0,70-85%,At risk,1
+A (primary),87.0,Above 85%,Not at risk,0
+A (primary),96.0,Above 85%,At risk,1
+A (primary),61.0,50-70%,At risk,1
+A (primary),90.0,Above 85%,Not at risk,0
+A (primary),64.0,50-70%,At risk,1
+A (primary),94.0,Above 85%,Not at risk,0
+A (primary),92.0,Above 85%,Not at risk,0
+A (primary),61.0,50-70%,At risk,1
+A (primary),90.0,Above 85%,Not at risk,0
+A (primary),94.0,Above 85%,Not at risk,0
+A (primary),68.0,50-70%,At risk,1
+A (primary),68.0,50-70%,At risk,1
+A (primary),93.0,Above 85%,Not at risk,0
+A (primary),85.0,70-85%,At risk,1
+A (primary),98.0,Above 85%,Not at risk,0
+A (primary),89.0,Above 85%,Not at risk,0
+A (primary),93.0,Above 85%,Not at risk,0
+A (primary),96.0,Above 85%,Not at risk,0
+A (primary),81.0,70-85%,At risk,1
+A (primary),73.0,70-85%,At risk,1
+A (primary),74.0,70-85%,At risk,1
+A (primary),88.0,Above 85%,Not at risk,0
+A (primary),76.0,70-85%,At risk,1
+A (primary),93.0,Above 85%,Not at risk,0
+A (primary),74.0,70-85%,At risk,1
+A (primary),86.0,Above 85%,At risk,1
+A (primary),94.0,Above 85%,Not at risk,0
+A (primary),71.0,70-85%,At risk,1
+A (primary),78.0,70-85%,At risk,1
+A (primary),68.0,50-70%,At risk,1
+A (primary),63.0,50-70%,At risk,1
+A (primary),63.0,50-70%,At risk,1
+A (primary),77.0,70-85%,At risk,1
+A (primary),85.0,70-85%,Not at risk,0
+A (primary),100.0,Above 85%,Not at risk,0
+A (primary),71.0,70-85%,At risk,1
+A (primary),69.0,50-70%,At risk,1
+A (primary),85.0,70-85%,Not at risk,0
+A (primary),92.0,Above 85%,Not at risk,0
+A (primary),65.0,50-70%,At risk,1
+A (primary),72.0,70-85%,At risk,1
+A (primary),90.0,Above 85%,Not at risk,0
+A (primary),85.0,70-85%,Not at risk,0
+A (primary),91.0,Above 85%,Not at risk,0
+A (primary),95.0,Above 85%,Not at risk,0
+A (primary),95.0,Above 85%,Not at risk,0
+A (primary),90.0,Above 85%,Not at risk,0
+A (primary),96.0,Above 85%,Not at risk,0
+A (primary),61.0,50-70%,At risk,1
+A (primary),83.0,70-85%,At risk,1
+A (primary),95.0,Above 85%,Not at risk,0
+A (primary),70.0,50-70%,At risk,1
+A (primary),68.0,50-70%,At risk,1
+A (primary),95.0,Above 85%,At risk,1
+A (primary),91.0,Above 85%,Not at risk,0
+A (primary),95.0,Above 85%,At risk,1
+A (primary),72.0,70-85%,At risk,1
+A (primary),83.0,70-85%,At risk,1
+A (primary),85.0,70-85%,At risk,1
+A (primary),94.0,Above 85%,Not at risk,0
+A (primary),89.0,Above 85%,At risk,1
+A (primary),65.0,50-70%,At risk,1
+A (primary),100.0,Above 85%,Not at risk,0
+A (primary),94.0,Above 85%,At risk,1
+A (primary),88.0,Above 85%,Not at risk,0
+A (primary),62.0,50-70%,At risk,1
+A (primary),67.0,50-70%,At risk,1
+A (primary),83.0,70-85%,At risk,1
+A (primary),87.0,Above 85%,Not at risk,0
+A (primary),85.0,70-85%,Not at risk,0
+A (primary),95.0,Above 85%,Not at risk,0
+A (primary),88.0,Above 85%,At risk,1
+A (primary),62.0,50-70%,At risk,1
+A (primary),66.0,50-70%,At risk,1
+A (primary),93.0,Above 85%,Not at risk,0
+A (primary),68.0,50-70%,At risk,1
+A (primary),87.0,Above 85%,Not at risk,0
+A (primary),87.0,Above 85%,Not at risk,0
+A (primary),100.0,Above 85%,Not at risk,0
+A (primary),96.0,Above 85%,Not at risk,0
+A (primary),92.0,Above 85%,Not at risk,0
+A (primary),96.0,Above 85%,Not at risk,0
+A (primary),91.0,Above 85%,Not at risk,0
+A (primary),85.0,70-85%,Not at risk,0
+A (primary),67.0,50-70%,At risk,1
+A (primary),65.0,50-70%,At risk,1
+A (primary),97.0,Above 85%,Not at risk,0
+A (primary),85.0,70-85%,Not at risk,0
+A (primary),92.0,Above 85%,Not at risk,0
+A (primary),96.0,Above 85%,Not at risk,0
+A (primary),62.0,50-70%,At risk,1
+A (primary),97.0,Above 85%,Not at risk,0
+A (primary),64.0,50-70%,At risk,1
+A (primary),87.0,Above 85%,At risk,1
+A (primary),74.0,70-85%,At risk,1
+A (primary),81.0,70-85%,At risk,1
+A (primary),68.0,50-70%,At risk,1
+A (primary),61.0,50-70%,At risk,1
+A (primary),97.0,Above 85%,Not at risk,0
+A (primary),60.0,50-70%,At risk,1
+A (primary),74.0,70-85%,At risk,1
+A (primary),93.0,Above 85%,Not at risk,0
+A (primary),61.0,50-70%,At risk,1
+A (primary),87.0,Above 85%,Not at risk,0
+A (primary),87.0,Above 85%,At risk,1
+A (primary),95.0,Above 85%,Not at risk,0
+A (primary),92.0,Above 85%,Not at risk,0
+A (primary),63.0,50-70%,At risk,1
+A (primary),96.0,Above 85%,Not at risk,0
+A (primary),80.0,70-85%,At risk,1
+A (primary),68.0,50-70%,At risk,1
+A (primary),69.0,50-70%,At risk,1
+A (primary),63.0,50-70%,At risk,1
+A (primary),97.0,Above 85%,Not at risk,0
+A (primary),65.0,50-70%,At risk,1
+A (primary),64.0,50-70%,At risk,1
+A (primary),85.0,70-85%,Not at risk,0
+A (primary),64.0,50-70%,At risk,1
+A (primary),63.0,50-70%,At risk,1
+A (primary),96.0,Above 85%,Not at risk,0
+A (primary),73.0,70-85%,At risk,1
+A (primary),70.0,50-70%,At risk,1
+A (primary),65.0,50-70%,At risk,1
+A (primary),69.0,50-70%,At risk,1
+A (primary),92.0,Above 85%,At risk,1
+A (primary),68.0,50-70%,At risk,1
+A (primary),94.0,Above 85%,At risk,1
+A (primary),85.0,70-85%,Not at risk,0
+A (primary),61.0,50-70%,At risk,1
+A (primary),63.0,50-70%,At risk,1
+A (primary),85.0,70-85%,At risk,1
+A (primary),65.0,50-70%,At risk,1
+A (primary),65.0,50-70%,At risk,1
+A (primary),84.0,70-85%,At risk,1
+A (primary),93.0,Above 85%,Not at risk,0
+A (primary),69.0,50-70%,At risk,1
+A (primary),73.0,70-85%,At risk,1
+A (primary),96.0,Above 85%,Not at risk,0
+A (primary),97.0,Above 85%,Not at risk,0
+A (primary),74.0,70-85%,At risk,1
+A (primary),88.0,Above 85%,At risk,1
+A (primary),87.0,Above 85%,Not at risk,0
+A (primary),73.0,70-85%,At risk,1
+A (primary),94.0,Above 85%,Not at risk,0
+A (primary),99.0,Above 85%,Not at risk,0
+A (primary),87.0,Above 85%,Not at risk,0
+A (primary),64.0,50-70%,At risk,1
+A (primary),88.0,Above 85%,At risk,1
+A (primary),97.0,Above 85%,Not at risk,0
+A (primary),91.0,Above 85%,Not at risk,0
+A (primary),96.0,Above 85%,Not at risk,0
+A (primary),74.0,70-85%,At risk,1
+A (primary),98.0,Above 85%,Not at risk,0
+A (primary),65.0,50-70%,At risk,1
+A (primary),70.0,50-70%,At risk,1
+A (primary),94.0,Above 85%,Not at risk,0
+A (primary),84.0,70-85%,At risk,1
+A (primary),74.0,70-85%,At risk,1
+A (primary),61.0,50-70%,At risk,1
+A (primary),68.0,50-70%,At risk,1
+A (primary),89.0,Above 85%,Not at risk,0
+A (primary),67.0,50-70%,At risk,1
+A (primary),92.0,Above 85%,Not at risk,0
+A (primary),62.0,50-70%,At risk,1
+A (primary),95.0,Above 85%,Not at risk,0
+A (primary),96.0,Above 85%,Not at risk,0
+A (primary),88.0,Above 85%,Not at risk,0
+A (primary),61.0,50-70%,At risk,1
+A (primary),98.0,Above 85%,Not at risk,0
+A (primary),94.0,Above 85%,Not at risk,0
+A (primary),94.0,Above 85%,Not at risk,0
+A (primary),63.0,50-70%,At risk,1
+A (primary),98.0,Above 85%,Not at risk,0
+A (primary),73.0,70-85%,At risk,1
+A (primary),86.0,Above 85%,At risk,1
+A (primary),67.0,50-70%,At risk,1
+A (primary),97.0,Above 85%,At risk,1
+A (primary),88.0,Above 85%,Not at risk,0
+A (primary),72.0,70-85%,At risk,1
+A (primary),69.0,50-70%,At risk,1
+A (primary),66.0,50-70%,At risk,1
+A (primary),97.0,Above 85%,Not at risk,0
+A (primary),88.0,Above 85%,Not at risk,0
+A (primary),63.0,50-70%,At risk,1
+A (primary),86.0,Above 85%,Not at risk,0
+A (primary),93.0,Above 85%,At risk,1
+A (primary),67.0,50-70%,At risk,1
+A (primary),73.0,70-85%,At risk,1
+A (primary),90.0,Above 85%,Not at risk,0
+A (primary),92.0,Above 85%,Not at risk,0
+A (primary),62.0,50-70%,At risk,1
+A (primary),92.0,Above 85%,At risk,1
+A (primary),64.0,50-70%,At risk,1
+A (primary),88.0,Above 85%,Not at risk,0
+A (primary),66.0,50-70%,At risk,1
+A (primary),85.0,70-85%,Not at risk,0
+A (primary),88.0,Above 85%,At risk,1
+A (primary),71.0,70-85%,At risk,1
+A (primary),74.0,70-85%,At risk,1
+A (primary),94.0,Above 85%,Not at risk,0
+A (primary),99.0,Above 85%,At risk,1
+A (primary),64.0,50-70%,At risk,1
+A (primary),88.0,Above 85%,Not at risk,0
+A (primary),89.0,Above 85%,Not at risk,0
+A (primary),98.0,Above 85%,Not at risk,0
+A (primary),67.0,50-70%,At risk,1
+A (primary),73.0,70-85%,At risk,1
+A (primary),74.0,70-85%,At risk,1
+A (primary),72.0,70-85%,At risk,1
+A (primary),71.0,70-85%,At risk,1
+A (primary),99.0,Above 85%,Not at risk,0
+A (primary),61.0,50-70%,At risk,1
+A (primary),70.0,50-70%,At risk,1
+A (primary),97.0,Above 85%,Not at risk,0
+A (primary),90.0,Above 85%,At risk,1
+A (primary),90.0,Above 85%,Not at risk,0
+A (primary),63.0,50-70%,At risk,1
+A (primary),66.0,50-70%,At risk,1
+A (primary),68.0,50-70%,At risk,1
+A (primary),71.0,70-85%,At risk,1
+A (primary),63.0,50-70%,At risk,1
+A (primary),98.0,Above 85%,Not at risk,0
+A (primary),62.0,50-70%,At risk,1
+A (primary),60.0,50-70%,At risk,1
+A (primary),66.0,50-70%,At risk,1
+A (primary),67.0,50-70%,At risk,1
+A (primary),66.0,50-70%,At risk,1
+A (primary),96.0,Above 85%,Not at risk,0
+A (primary),96.0,Above 85%,Not at risk,0
+A (primary),88.0,Above 85%,Not at risk,0
+A (primary),66.0,50-70%,At risk,1
+A (primary),68.0,50-70%,At risk,1
+A (primary),89.0,Above 85%,Not at risk,0
+A (primary),93.0,Above 85%,Not at risk,0
+A (primary),77.0,70-85%,At risk,1
+A (primary),70.0,50-70%,At risk,1
+A (primary),62.0,50-70%,At risk,1
+A (primary),65.0,50-70%,At risk,1
+A (primary),65.0,50-70%,At risk,1
+A (primary),62.0,50-70%,At risk,1
+A (primary),87.0,Above 85%,Not at risk,0
+A (primary),93.0,Above 85%,Not at risk,0
+A (primary),68.0,50-70%,At risk,1
+A (primary),63.0,50-70%,At risk,1
+A (primary),86.0,Above 85%,Not at risk,0
+A (primary),92.0,Above 85%,Not at risk,0
+A (primary),63.0,50-70%,At risk,1
+A (primary),65.0,50-70%,At risk,1
+A (primary),87.0,Above 85%,Not at risk,0
+A (primary),97.0,Above 85%,Not at risk,0
+A (primary),96.0,Above 85%,At risk,1
+A (primary),68.0,50-70%,At risk,1
+A (primary),95.0,Above 85%,Not at risk,0
+A (primary),72.0,70-85%,At risk,1
+A (primary),98.0,Above 85%,Not at risk,0
+A (primary),73.0,70-85%,At risk,1
+A (primary),92.0,Above 85%,Not at risk,0
+A (primary),90.0,Above 85%,Not at risk,0
+A (primary),63.0,50-70%,At risk,1
+A (primary),65.0,50-70%,At risk,1
+A (primary),70.0,50-70%,At risk,1
+A (primary),63.0,50-70%,At risk,1
+A (primary),91.0,Above 85%,Not at risk,0
+A (primary),81.0,70-85%,At risk,1
+A (primary),93.0,Above 85%,At risk,1
+A (primary),60.0,50-70%,At risk,1
+A (primary),83.0,70-85%,At risk,1
+A (primary),72.0,70-85%,At risk,1
+A (primary),65.0,50-70%,At risk,1
+A (primary),65.0,50-70%,At risk,1
+A (primary),88.0,Above 85%,Not at risk,0
+A (primary),94.0,Above 85%,Not at risk,0
+A (primary),69.0,50-70%,At risk,1
+A (primary),63.0,50-70%,At risk,1
+A (primary),66.0,50-70%,At risk,1
+A (primary),97.0,Above 85%,Not at risk,0
+A (primary),95.0,Above 85%,At risk,1
+A (primary),62.0,50-70%,At risk,1
+A (primary),92.0,Above 85%,Not at risk,0
+A (primary),95.0,Above 85%,At risk,1
+A (primary),63.0,50-70%,At risk,1
+A (primary),61.0,50-70%,At risk,1
+A (primary),68.0,50-70%,At risk,1
+A (primary),98.0,Above 85%,Not at risk,0
+A (primary),93.0,Above 85%,Not at risk,0
+A (primary),63.0,50-70%,At risk,1
+A (primary),70.0,50-70%,At risk,1
+A (primary),62.0,50-70%,At risk,1
+A (primary),88.0,Above 85%,Not at risk,0
+A (primary),96.0,Above 85%,Not at risk,0
+A (primary),86.0,Above 85%,At risk,1
+A (primary),72.0,70-85%,At risk,1
+A (primary),70.0,50-70%,At risk,1
+A (primary),73.0,70-85%,At risk,1
+A (primary),69.0,50-70%,At risk,1
+A (primary),96.0,Above 85%,At risk,1
+A (primary),100.0,Above 85%,Not at risk,0
+A (primary),64.0,50-70%,At risk,1
+A (primary),62.0,50-70%,At risk,1
+A (primary),66.0,50-70%,At risk,1
+A (primary),64.0,50-70%,At risk,1
+A (primary),81.0,70-85%,At risk,1
+A (primary),61.0,50-70%,At risk,1
+A (primary),69.0,50-70%,At risk,1
+A (primary),65.0,50-70%,At risk,1
+A (primary),68.0,50-70%,At risk,1
+A (primary),73.0,70-85%,At risk,1
+A (primary),90.0,Above 85%,Not at risk,0
+A (primary),70.0,50-70%,At risk,1
+A (primary),62.0,50-70%,At risk,1
+A (primary),96.0,Above 85%,Not at risk,0
+A (primary),88.0,Above 85%,Not at risk,0
+A (primary),62.0,50-70%,At risk,1
+A (primary),98.0,Above 85%,Not at risk,0
+A (primary),97.0,Above 85%,Not at risk,0
+A (primary),69.0,50-70%,At risk,1
+A (primary),68.0,50-70%,At risk,1
+A (primary),64.0,50-70%,At risk,1
+A (primary),91.0,Above 85%,At risk,1
+A (primary),71.0,70-85%,At risk,1
+A (primary),72.0,70-85%,At risk,1
+A (primary),79.0,70-85%,At risk,1
+A (primary),74.0,70-85%,At risk,1
+A (primary),97.0,Above 85%,Not at risk,0
+A (primary),98.0,Above 85%,Not at risk,0
+A (primary),87.0,Above 85%,Not at risk,0
+A (primary),86.0,Above 85%,Not at risk,0
+A (primary),95.0,Above 85%,Not at risk,0
+A (primary),62.0,50-70%,At risk,1
+A (primary),74.0,70-85%,At risk,1
+A (primary),61.0,50-70%,At risk,1
+A (primary),89.0,Above 85%,Not at risk,0
+A (primary),67.0,50-70%,At risk,1
+A (primary),71.0,70-85%,At risk,1
+A (primary),97.0,Above 85%,Not at risk,0
+A (primary),68.0,50-70%,At risk,1
+A (primary),62.0,50-70%,At risk,1
+A (primary),60.0,50-70%,At risk,1
+A (primary),98.0,Above 85%,Not at risk,0
+A (primary),67.0,50-70%,At risk,1
+A (primary),92.0,Above 85%,Not at risk,0
+A (primary),64.0,50-70%,At risk,1
+A (primary),74.0,70-85%,At risk,1
+A (primary),97.0,Above 85%,Not at risk,0
+A (primary),95.0,Above 85%,At risk,1
+A (primary),71.0,70-85%,At risk,1
+A (primary),97.0,Above 85%,Not at risk,0
+A (primary),72.0,70-85%,At risk,1
+A (primary),60.0,50-70%,At risk,1
+A (primary),68.0,50-70%,At risk,1
+A (primary),93.0,Above 85%,Not at risk,0
+A (primary),88.0,Above 85%,Not at risk,0
+A (primary),97.0,Above 85%,Not at risk,0
+A (primary),67.0,50-70%,At risk,1
+A (primary),70.0,50-70%,At risk,1
+A (primary),76.0,70-85%,At risk,1
+A (primary),82.0,70-85%,At risk,1
+A (primary),85.0,70-85%,Not at risk,0
+A (primary),86.0,Above 85%,Not at risk,0
+A (primary),98.0,Above 85%,Not at risk,0
+A (primary),65.0,50-70%,At risk,1
+A (primary),81.0,70-85%,At risk,1
+A (primary),66.0,50-70%,At risk,1
+A (primary),67.0,50-70%,At risk,1
+A (primary),98.0,Above 85%,Not at risk,0
+A (primary),93.0,Above 85%,At risk,1
+A (primary),69.0,50-70%,At risk,1
+A (primary),88.0,Above 85%,Not at risk,0
+A (primary),93.0,Above 85%,At risk,1
+A (primary),94.0,Above 85%,Not at risk,0
+A (primary),68.0,50-70%,At risk,1
+A (primary),74.0,70-85%,At risk,1
+A (primary),79.0,70-85%,At risk,1
+A (primary),61.0,50-70%,At risk,1
+A (primary),84.0,70-85%,At risk,1
+A (primary),72.0,70-85%,At risk,1
+A (primary),73.0,70-85%,At risk,1
+A (primary),94.0,Above 85%,Not at risk,0
+A (primary),67.0,50-70%,At risk,1
+A (primary),96.0,Above 85%,Not at risk,0
+A (primary),68.0,50-70%,At risk,1
+A (primary),85.0,70-85%,At risk,1
+A (primary),61.0,50-70%,At risk,1
+A (primary),63.0,50-70%,At risk,1
+A (primary),66.0,50-70%,At risk,1
+A (primary),100.0,Above 85%,Not at risk,0
+A (primary),92.0,Above 85%,Not at risk,0
+A (primary),98.0,Above 85%,Not at risk,0
+A (primary),95.0,Above 85%,Not at risk,0
+A (primary),97.0,Above 85%,At risk,1
+A (primary),81.0,70-85%,At risk,1
+A (primary),85.0,70-85%,Not at risk,0
+A (primary),73.0,70-85%,At risk,1
+A (primary),62.0,50-70%,At risk,1
+A (primary),63.0,50-70%,At risk,1
+A (primary),79.0,70-85%,At risk,1
+A (primary),96.0,Above 85%,Not at risk,0
+A (primary),73.0,70-85%,At risk,1
+A (primary),77.0,70-85%,At risk,1
+A (primary),100.0,Above 85%,Not at risk,0
+A (primary),65.0,50-70%,At risk,1
+A (primary),88.0,Above 85%,Not at risk,0
+A (primary),71.0,70-85%,At risk,1
+A (primary),70.0,50-70%,At risk,1
+A (primary),96.0,Above 85%,Not at risk,0
+A (primary),81.0,70-85%,At risk,1
+A (primary),92.0,Above 85%,Not at risk,0
+A (primary),73.0,70-85%,At risk,1
+A (primary),93.0,Above 85%,Not at risk,0
+A (primary),90.0,Above 85%,Not at risk,0
+A (primary),74.0,70-85%,At risk,1
+A (primary),71.0,70-85%,At risk,1
+A (primary),92.0,Above 85%,Not at risk,0
+A (primary),99.0,Above 85%,Not at risk,0
+A (primary),96.0,Above 85%,Not at risk,0
+A (primary),71.0,70-85%,At risk,1
+A (primary),92.0,Above 85%,Not at risk,0
+A (primary),67.0,50-70%,At risk,1
+A (primary),74.0,70-85%,At risk,1
+A (primary),99.0,Above 85%,Not at risk,0
+A (primary),96.0,Above 85%,Not at risk,0
+A (primary),96.0,Above 85%,Not at risk,0
+A (primary),66.0,50-70%,At risk,1
+A (primary),98.0,Above 85%,Not at risk,0
+A (primary),65.0,50-70%,At risk,1
+A (primary),91.0,Above 85%,Not at risk,0
+A (primary),92.0,Above 85%,Not at risk,0
+A (primary),97.0,Above 85%,Not at risk,0
+A (primary),100.0,Above 85%,At risk,1
+A (primary),86.0,Above 85%,Not at risk,0
+A (primary),73.0,70-85%,At risk,1
+A (primary),73.0,70-85%,At risk,1
+A (primary),96.0,Above 85%,At risk,1
+A (primary),66.0,50-70%,At risk,1
+A (primary),92.0,Above 85%,Not at risk,0
+A (primary),71.0,70-85%,At risk,1
+A (primary),77.0,70-85%,At risk,1
+A (primary),73.0,70-85%,At risk,1
+A (primary),73.0,70-85%,At risk,1
+A (primary),97.0,Above 85%,Not at risk,0
+A (primary),71.0,70-85%,At risk,1
+A (primary),93.0,Above 85%,At risk,1
+A (primary),86.0,Above 85%,Not at risk,0
+A (primary),98.0,Above 85%,At risk,1
+A (primary),97.0,Above 85%,Not at risk,0
+A (primary),88.0,Above 85%,Not at risk,0
+A (primary),66.0,50-70%,At risk,1
+A (primary),95.0,Above 85%,Not at risk,0
+A (primary),87.0,Above 85%,Not at risk,0
+A (primary),97.0,Above 85%,Not at risk,0
+A (primary),71.0,70-85%,At risk,1
+A (primary),80.0,70-85%,At risk,1
+A (primary),63.0,50-70%,At risk,1
+A (primary),89.0,Above 85%,Not at risk,0
+A (primary),90.0,Above 85%,Not at risk,0
+A (primary),68.0,50-70%,At risk,1
+A (primary),92.0,Above 85%,Not at risk,0
+A (primary),68.0,50-70%,At risk,1
+A (primary),99.0,Above 85%,At risk,1
+A (primary),100.0,Above 85%,Not at risk,0
+A (primary),96.0,Above 85%,Not at risk,0
+A (primary),99.0,Above 85%,Not at risk,0
+A (primary),91.0,Above 85%,Not at risk,0
+A (primary),65.0,50-70%,At risk,1
+A (primary),95.0,Above 85%,Not at risk,0
+A (primary),73.0,70-85%,At risk,1
+A (primary),98.0,Above 85%,Not at risk,0
+A (primary),61.0,50-70%,At risk,1
+A (primary),70.0,50-70%,At risk,1
+A (primary),68.0,50-70%,At risk,1
+A (primary),73.0,70-85%,At risk,1
+A (primary),61.0,50-70%,At risk,1
+A (primary),86.0,Above 85%,Not at risk,0
+A (primary),91.0,Above 85%,At risk,1
+A (primary),90.0,Above 85%,Not at risk,0
+A (primary),99.0,Above 85%,Not at risk,0
+A (primary),91.0,Above 85%,Not at risk,0
+A (primary),63.0,50-70%,At risk,1
+A (primary),90.0,Above 85%,Not at risk,0
+A (primary),71.0,70-85%,At risk,1
+A (primary),95.0,Above 85%,Not at risk,0
+A (primary),90.0,Above 85%,Not at risk,0
+A (primary),87.0,Above 85%,Not at risk,0
+A (primary),87.0,Above 85%,Not at risk,0
+A (primary),80.0,70-85%,At risk,1
+A (primary),92.0,Above 85%,Not at risk,0
+A (primary),73.0,70-85%,At risk,1
+A (primary),67.0,50-70%,At risk,1
+A (primary),86.0,Above 85%,Not at risk,0
+A (primary),85.0,70-85%,Not at risk,0
+A (primary),93.0,Above 85%,At risk,1
+A (primary),61.0,50-70%,At risk,1
+A (primary),95.0,Above 85%,Not at risk,0
+A (primary),87.0,Above 85%,Not at risk,0
+A (primary),96.0,Above 85%,Not at risk,0
+A (primary),94.0,Above 85%,Not at risk,0
+A (primary),61.0,50-70%,At risk,1
+A (primary),90.0,Above 85%,Not at risk,0
+A (primary),87.0,Above 85%,Not at risk,0
+A (primary),90.0,Above 85%,Not at risk,0
+A (primary),76.0,70-85%,At risk,1
+A (primary),91.0,Above 85%,Not at risk,0
+A (primary),61.0,50-70%,At risk,1
+A (primary),96.0,Above 85%,Not at risk,0
+A (primary),88.0,Above 85%,Not at risk,0
+A (primary),93.0,Above 85%,Not at risk,0
+A (primary),63.0,50-70%,At risk,1
+A (primary),73.0,70-85%,At risk,1
+A (primary),95.0,Above 85%,Not at risk,0
+A (primary),83.0,70-85%,At risk,1
+A (primary),71.0,70-85%,At risk,1
+A (primary),91.0,Above 85%,Not at risk,0
+A (primary),83.0,70-85%,At risk,1
+A (primary),78.0,70-85%,At risk,1
+A (primary),94.0,Above 85%,Not at risk,0
+A (primary),88.0,Above 85%,Not at risk,0
+A (primary),89.0,Above 85%,Not at risk,0
+A (primary),67.0,50-70%,At risk,1
+A (primary),66.0,50-70%,At risk,1
+A (primary),68.0,50-70%,At risk,1
+A (primary),88.0,Above 85%,Not at risk,0
+A (primary),71.0,70-85%,At risk,1
+A (primary),94.0,Above 85%,Not at risk,0
+A (primary),63.0,50-70%,At risk,1
+A (primary),62.0,50-70%,At risk,1
+A (primary),85.0,70-85%,Not at risk,0
+A (primary),69.0,50-70%,At risk,1
+A (primary),68.0,50-70%,At risk,1
+A (primary),87.0,Above 85%,Not at risk,0
+A (primary),99.0,Above 85%,Not at risk,0
+A (primary),63.0,50-70%,At risk,1
+A (primary),94.0,Above 85%,Not at risk,0
+A (primary),99.0,Above 85%,Not at risk,0
+A (primary),96.0,Above 85%,Not at risk,0
+A (primary),65.0,50-70%,At risk,1
+A (primary),75.0,70-85%,At risk,1
+A (primary),63.0,50-70%,At risk,1
+A (primary),61.0,50-70%,At risk,1
+A (primary),98.0,Above 85%,At risk,1
+A (primary),93.0,Above 85%,Not at risk,0
+A (primary),95.0,Above 85%,Not at risk,0
+A (primary),90.0,Above 85%,Not at risk,0
+A (primary),69.0,50-70%,At risk,1
+A (primary),65.0,50-70%,At risk,1
+A (primary),71.0,70-85%,At risk,1
+A (primary),86.0,Above 85%,Not at risk,0
+A (primary),70.0,50-70%,At risk,1
+A (primary),96.0,Above 85%,Not at risk,0
+A (primary),62.0,50-70%,At risk,1
+A (primary),93.0,Above 85%,Not at risk,0
+A (primary),94.0,Above 85%,Not at risk,0
+A (primary),69.0,50-70%,At risk,1
+A (primary),88.0,Above 85%,Not at risk,0
+A (primary),79.0,70-85%,At risk,1
+A (primary),91.0,Above 85%,Not at risk,0
+A (primary),63.0,50-70%,At risk,1
+A (primary),96.0,Above 85%,At risk,1
+A (primary),95.0,Above 85%,Not at risk,0
+A (primary),90.0,Above 85%,Not at risk,0
+A (primary),91.0,Above 85%,Not at risk,0
+A (primary),71.0,70-85%,At risk,1
+A (primary),70.0,50-70%,At risk,1
+A (primary),96.0,Above 85%,Not at risk,0
+A (primary),61.0,50-70%,At risk,1
+A (primary),92.0,Above 85%,Not at risk,0
+A (primary),88.0,Above 85%,Not at risk,0
+A (primary),74.0,70-85%,At risk,1
+A (primary),98.0,Above 85%,At risk,1
+A (primary),94.0,Above 85%,Not at risk,0
+A (primary),89.0,Above 85%,Not at risk,0
+A (primary),68.0,50-70%,At risk,1
+A (primary),91.0,Above 85%,Not at risk,0
+A (primary),74.0,70-85%,At risk,1
+A (primary),68.0,50-70%,At risk,1
+A (primary),100.0,Above 85%,Not at risk,0
+A (primary),98.0,Above 85%,Not at risk,0
+A (primary),71.0,70-85%,At risk,1
+A (primary),89.0,Above 85%,At risk,1
+A (primary),66.0,50-70%,At risk,1
+A (primary),98.0,Above 85%,Not at risk,0
+A (primary),95.0,Above 85%,Not at risk,0
+A (primary),97.0,Above 85%,Not at risk,0
+A (primary),86.0,Above 85%,At risk,1
+A (primary),68.0,50-70%,At risk,1
+A (primary),90.0,Above 85%,Not at risk,0
+A (primary),93.0,Above 85%,Not at risk,0
+A (primary),98.0,Above 85%,At risk,1
+A (primary),78.0,70-85%,At risk,1
+A (primary),64.0,50-70%,At risk,1
+A (primary),90.0,Above 85%,Not at risk,0
+A (primary),97.0,Above 85%,Not at risk,0
+A (primary),74.0,70-85%,At risk,1
+A (primary),68.0,50-70%,At risk,1
+A (primary),62.0,50-70%,At risk,1
+A (primary),65.0,50-70%,At risk,1
+A (primary),71.0,70-85%,At risk,1
+A (primary),85.0,70-85%,Not at risk,0
+A (primary),87.0,Above 85%,Not at risk,0
+A (primary),63.0,50-70%,At risk,1
+A (primary),60.0,50-70%,At risk,1
+A (primary),94.0,Above 85%,Not at risk,0
+A (primary),92.0,Above 85%,Not at risk,0
+A (primary),87.0,Above 85%,Not at risk,0
+A (primary),98.0,Above 85%,Not at risk,0
+A (primary),85.0,70-85%,Not at risk,0
+A (primary),67.0,50-70%,At risk,1
+A (primary),93.0,Above 85%,Not at risk,0
+A (primary),66.0,50-70%,At risk,1
+A (primary),74.0,70-85%,At risk,1
+A (primary),89.0,Above 85%,Not at risk,0
+A (primary),86.0,Above 85%,Not at risk,0
+A (primary),79.0,70-85%,At risk,1
+A (primary),97.0,Above 85%,Not at risk,0
+A (primary),92.0,Above 85%,Not at risk,0
+A (primary),99.0,Above 85%,Not at risk,0
+A (primary),87.0,Above 85%,At risk,1
+A (primary),63.0,50-70%,At risk,1
+A (primary),84.0,70-85%,At risk,1
+A (primary),96.0,Above 85%,Not at risk,0
+A (primary),64.0,50-70%,At risk,1
+A (primary),94.0,Above 85%,Not at risk,0
+A (primary),98.0,Above 85%,Not at risk,0
+A (primary),61.0,50-70%,At risk,1
+A (primary),64.0,50-70%,At risk,1
+A (primary),97.0,Above 85%,Not at risk,0
+A (primary),63.0,50-70%,At risk,1
+A (primary),70.0,50-70%,At risk,1
+A (primary),96.0,Above 85%,Not at risk,0
+A (primary),93.0,Above 85%,At risk,1
+A (primary),72.0,70-85%,At risk,1
+A (primary),100.0,Above 85%,Not at risk,0
+A (primary),91.0,Above 85%,At risk,1
+A (primary),87.0,Above 85%,Not at risk,0
+A (primary),73.0,70-85%,At risk,1
+A (primary),97.0,Above 85%,Not at risk,0
+A (primary),98.0,Above 85%,Not at risk,0
+A (primary),95.0,Above 85%,Not at risk,0
+A (primary),86.0,Above 85%,Not at risk,0
+A (primary),70.0,50-70%,At risk,1
+A (primary),61.0,50-70%,At risk,1
+A (primary),90.0,Above 85%,At risk,1
+A (primary),70.0,50-70%,At risk,1
+A (primary),60.0,50-70%,At risk,1
+A (primary),71.0,70-85%,At risk,1
+A (primary),95.0,Above 85%,At risk,1
+A (primary),93.0,Above 85%,Not at risk,0
+A (primary),99.0,Above 85%,Not at risk,0
+A (primary),70.0,50-70%,At risk,1
+A (primary),71.0,70-85%,At risk,1
+A (primary),94.0,Above 85%,Not at risk,0
+A (primary),72.0,70-85%,At risk,1
+A (primary),69.0,50-70%,At risk,1
+A (primary),69.0,50-70%,At risk,1
+A (primary),81.0,70-85%,At risk,1
+A (primary),72.0,70-85%,At risk,1
+A (primary),69.0,50-70%,At risk,1
+A (primary),92.0,Above 85%,Not at risk,0
+A (primary),65.0,50-70%,At risk,1
+A (primary),88.0,Above 85%,Not at risk,0
+A (primary),95.0,Above 85%,At risk,1
+A (primary),71.0,70-85%,At risk,1
+A (primary),100.0,Above 85%,Not at risk,0
+A (primary),99.0,Above 85%,At risk,1
+A (primary),92.0,Above 85%,Not at risk,0
+A (primary),67.0,50-70%,At risk,1
+A (primary),72.0,70-85%,At risk,1
+A (primary),85.0,70-85%,Not at risk,0
+A (primary),68.0,50-70%,At risk,1
+A (primary),87.0,Above 85%,Not at risk,0
+A (primary),90.0,Above 85%,Not at risk,0
+A (primary),79.0,70-85%,At risk,1
+A (primary),86.0,Above 85%,Not at risk,0
+A (primary),86.0,Above 85%,Not at risk,0
+A (primary),67.0,50-70%,At risk,1
+A (primary),85.0,70-85%,Not at risk,0
+A (primary),70.0,50-70%,At risk,1
+A (primary),66.0,50-70%,At risk,1
+A (primary),72.0,70-85%,At risk,1
+A (primary),87.0,Above 85%,At risk,1
+A (primary),67.0,50-70%,At risk,1
+A (primary),95.0,Above 85%,Not at risk,0
+A (primary),77.0,70-85%,At risk,1
+A (primary),87.0,Above 85%,At risk,1
+A (primary),65.0,50-70%,At risk,1
+A (primary),95.0,Above 85%,Not at risk,0
+A (primary),75.0,70-85%,At risk,1
+A (primary),92.0,Above 85%,Not at risk,0
+A (primary),69.0,50-70%,At risk,1
+A (primary),67.0,50-70%,At risk,1
+A (primary),63.0,50-70%,At risk,1
+A (primary),93.0,Above 85%,Not at risk,0
+A (primary),89.0,Above 85%,Not at risk,0
+A (primary),78.0,70-85%,At risk,1
+A (primary),68.0,50-70%,At risk,1
+A (primary),86.0,Above 85%,Not at risk,0
+A (primary),97.0,Above 85%,Not at risk,0
+A (primary),71.0,70-85%,At risk,1
+A (primary),72.0,70-85%,At risk,1
+A (primary),68.0,50-70%,At risk,1
+A (primary),85.0,70-85%,Not at risk,0
+A (primary),61.0,50-70%,At risk,1
+A (primary),67.0,50-70%,At risk,1
+A (primary),71.0,70-85%,At risk,1
+A (primary),89.0,Above 85%,Not at risk,0
+A (primary),98.0,Above 85%,Not at risk,0
+A (primary),88.0,Above 85%,At risk,1
+A (primary),96.0,Above 85%,Not at risk,0
+A (primary),94.0,Above 85%,Not at risk,0
+A (primary),65.0,50-70%,At risk,1
+A (primary),73.0,70-85%,At risk,1
+A (primary),93.0,Above 85%,Not at risk,0
+A (primary),87.0,Above 85%,Not at risk,0
+A (primary),89.0,Above 85%,Not at risk,0
+A (primary),92.0,Above 85%,Not at risk,0
+A (primary),94.0,Above 85%,Not at risk,0
+A (primary),91.0,Above 85%,At risk,1
+A (primary),87.0,Above 85%,Not at risk,0
+A (primary),72.0,70-85%,At risk,1
+A (primary),65.0,50-70%,At risk,1
+A (primary),73.0,70-85%,At risk,1
+A (primary),66.0,50-70%,At risk,1
+A (primary),70.0,50-70%,At risk,1
+A (primary),97.0,Above 85%,Not at risk,0
+A (primary),86.0,Above 85%,At risk,1
+A (primary),91.0,Above 85%,At risk,1
+A (primary),85.0,70-85%,Not at risk,0
+A (primary),90.0,Above 85%,Not at risk,0
+A (primary),76.0,70-85%,At risk,1
+A (primary),86.0,Above 85%,Not at risk,0
+A (primary),93.0,Above 85%,Not at risk,0
+A (primary),97.0,Above 85%,Not at risk,0
+A (primary),95.0,Above 85%,Not at risk,0
+A (primary),99.0,Above 85%,At risk,1
+A (primary),63.0,50-70%,At risk,1
+A (primary),99.0,Above 85%,At risk,1
+A (primary),92.0,Above 85%,Not at risk,0
+A (primary),84.0,70-85%,At risk,1
+A (primary),97.0,Above 85%,Not at risk,0
+A (primary),72.0,70-85%,At risk,1
+A (primary),90.0,Above 85%,At risk,1
+A (primary),86.0,Above 85%,Not at risk,0
+A (primary),98.0,Above 85%,Not at risk,0
+A (primary),69.0,50-70%,At risk,1
+A (primary),91.0,Above 85%,Not at risk,0
+A (primary),64.0,50-70%,At risk,1
+A (primary),61.0,50-70%,At risk,1
+A (primary),85.0,70-85%,Not at risk,0
+A (primary),93.0,Above 85%,Not at risk,0
+A (primary),71.0,70-85%,At risk,1
+A (primary),91.0,Above 85%,Not at risk,0
+A (primary),85.0,70-85%,Not at risk,0
+A (primary),62.0,50-70%,At risk,1
+A (primary),62.0,50-70%,At risk,1
+A (primary),88.0,Above 85%,Not at risk,0
+A (primary),62.0,50-70%,At risk,1
+A (primary),62.0,50-70%,At risk,1
+A (primary),84.0,70-85%,At risk,1
+A (primary),70.0,50-70%,At risk,1
+A (primary),64.0,50-70%,At risk,1
+A (primary),100.0,Above 85%,Not at risk,0
+A (primary),74.0,70-85%,At risk,1
+A (primary),89.0,Above 85%,Not at risk,0
+A (primary),83.0,70-85%,At risk,1
+A (primary),73.0,70-85%,At risk,1
+A (primary),70.0,50-70%,At risk,1
+A (primary),65.0,50-70%,At risk,1
+A (primary),67.0,50-70%,At risk,1
+A (primary),91.0,Above 85%,Not at risk,0
+A (primary),88.0,Above 85%,Not at risk,0
+A (primary),68.0,50-70%,At risk,1
+A (primary),62.0,50-70%,At risk,1
+A (primary),64.0,50-70%,At risk,1
+A (primary),89.0,Above 85%,Not at risk,0
+A (primary),97.0,Above 85%,Not at risk,0
+A (primary),64.0,50-70%,At risk,1
+A (primary),60.0,50-70%,At risk,1
+A (primary),69.0,50-70%,At risk,1
+A (primary),68.0,50-70%,At risk,1
+A (primary),98.0,Above 85%,Not at risk,0
+A (primary),89.0,Above 85%,At risk,1
+A (primary),90.0,Above 85%,Not at risk,0
+A (primary),87.0,Above 85%,Not at risk,0
+A (primary),99.0,Above 85%,Not at risk,0
+A (primary),70.0,50-70%,At risk,1
+A (primary),99.0,Above 85%,Not at risk,0
+A (primary),90.0,Above 85%,At risk,1
+A (primary),95.0,Above 85%,Not at risk,0
+A (primary),62.0,50-70%,At risk,1
+A (primary),90.0,Above 85%,At risk,1
+A (primary),76.0,70-85%,At risk,1
+A (primary),87.0,Above 85%,Not at risk,0
+A (primary),86.0,Above 85%,Not at risk,0
+A (primary),63.0,50-70%,At risk,1
+A (primary),87.0,Above 85%,Not at risk,0
+A (primary),78.0,70-85%,At risk,1
+A (primary),63.0,50-70%,At risk,1
+A (primary),69.0,50-70%,At risk,1
+A (primary),65.0,50-70%,At risk,1
+A (primary),68.0,50-70%,At risk,1
+A (primary),87.0,Above 85%,Not at risk,0
+A (primary),92.0,Above 85%,Not at risk,0
+A (primary),77.0,70-85%,At risk,1
+A (primary),87.0,Above 85%,Not at risk,0
+A (primary),68.0,50-70%,At risk,1
+A (primary),65.0,50-70%,At risk,1
+A (primary),93.0,Above 85%,At risk,1
+A (primary),90.0,Above 85%,Not at risk,0
+A (primary),93.0,Above 85%,Not at risk,0
+A (primary),71.0,70-85%,At risk,1
+A (primary),83.0,70-85%,At risk,1
+A (primary),98.0,Above 85%,Not at risk,0
+A (primary),94.0,Above 85%,At risk,1
+A (primary),92.0,Above 85%,Not at risk,0
+A (primary),91.0,Above 85%,Not at risk,0
+A (primary),88.0,Above 85%,Not at risk,0
+A (primary),69.0,50-70%,At risk,1
+A (primary),88.0,Above 85%,At risk,1
+A (primary),88.0,Above 85%,At risk,1
+A (primary),62.0,50-70%,At risk,1
+A (primary),80.0,70-85%,At risk,1
+A (primary),97.0,Above 85%,At risk,1
+A (primary),97.0,Above 85%,Not at risk,0
+A (primary),71.0,70-85%,At risk,1
+A (primary),87.0,Above 85%,Not at risk,0
+A (primary),62.0,50-70%,At risk,1
+A (primary),60.0,50-70%,At risk,1
+A (primary),78.0,70-85%,At risk,1
+A (primary),67.0,50-70%,At risk,1
+A (primary),87.0,Above 85%,Not at risk,0
+A (primary),70.0,50-70%,At risk,1
+A (primary),63.0,50-70%,At risk,1
+A (primary),79.0,70-85%,At risk,1
+A (primary),100.0,Above 85%,Not at risk,0
+A (primary),65.0,50-70%,At risk,1
+A (primary),77.0,70-85%,At risk,1
+A (primary),70.0,50-70%,At risk,1
+A (primary),68.0,50-70%,At risk,1
+A (primary),70.0,50-70%,At risk,1
+A (primary),71.0,70-85%,At risk,1
+A (primary),66.0,50-70%,At risk,1
+A (primary),100.0,Above 85%,Not at risk,0
+A (primary),66.0,50-70%,At risk,1
+A (primary),65.0,50-70%,At risk,1
+A (primary),88.0,Above 85%,Not at risk,0
+A (primary),74.0,70-85%,At risk,1
+A (primary),70.0,50-70%,At risk,1
+A (primary),65.0,50-70%,At risk,1
+A (primary),98.0,Above 85%,Not at risk,0
+A (primary),85.0,70-85%,Not at risk,0
+A (primary),92.0,Above 85%,Not at risk,0
+A (primary),63.0,50-70%,At risk,1
+A (primary),85.0,70-85%,Not at risk,0
+A (primary),98.0,Above 85%,Not at risk,0
+A (primary),94.0,Above 85%,Not at risk,0
+A (primary),88.0,Above 85%,Not at risk,0
+A (primary),61.0,50-70%,At risk,1
+A (primary),63.0,50-70%,At risk,1
+A (primary),91.0,Above 85%,Not at risk,0
+A (primary),90.0,Above 85%,Not at risk,0
+A (primary),85.0,70-85%,Not at risk,0
+A (primary),96.0,Above 85%,At risk,1
+A (primary),85.0,70-85%,Not at risk,0
+A (primary),69.0,50-70%,At risk,1
+A (primary),73.0,70-85%,At risk,1
+A (primary),62.0,50-70%,At risk,1
+A (primary),98.0,Above 85%,At risk,1
+A (primary),70.0,50-70%,At risk,1
+A (primary),68.0,50-70%,At risk,1
+A (primary),91.0,Above 85%,Not at risk,0
+A (primary),62.0,50-70%,At risk,1
+A (primary),89.0,Above 85%,Not at risk,0
+A (primary),67.0,50-70%,At risk,1
+A (primary),94.0,Above 85%,Not at risk,0
+A (primary),69.0,50-70%,At risk,1
+A (primary),93.0,Above 85%,Not at risk,0
+A (primary),100.0,Above 85%,Not at risk,0
+A (primary),91.0,Above 85%,Not at risk,0
+A (primary),71.0,70-85%,At risk,1
+A (primary),86.0,Above 85%,Not at risk,0
+A (primary),60.0,50-70%,At risk,1
+A (primary),89.0,Above 85%,At risk,1
+A (primary),69.0,50-70%,At risk,1
+A (primary),70.0,50-70%,At risk,1
+A (primary),97.0,Above 85%,Not at risk,0
+A (primary),97.0,Above 85%,Not at risk,0
+A (primary),96.0,Above 85%,Not at risk,0
+A (primary),87.0,Above 85%,Not at risk,0
+A (primary),91.0,Above 85%,Not at risk,0
+A (primary),98.0,Above 85%,At risk,1
+A (primary),100.0,Above 85%,Not at risk,0
+A (primary),97.0,Above 85%,Not at risk,0
+A (primary),89.0,Above 85%,Not at risk,0
+A (primary),93.0,Above 85%,Not at risk,0
+A (primary),90.0,Above 85%,Not at risk,0
+A (primary),83.0,70-85%,At risk,1
+A (primary),86.0,Above 85%,At risk,1
+A (primary),73.0,70-85%,At risk,1
+A (primary),85.0,70-85%,Not at risk,0
+A (primary),62.0,50-70%,At risk,1
+A (primary),66.0,50-70%,At risk,1
+A (primary),73.0,70-85%,At risk,1
+A (primary),90.0,Above 85%,Not at risk,0
+A (primary),91.0,Above 85%,Not at risk,0
+A (primary),88.0,Above 85%,Not at risk,0
+A (primary),99.0,Above 85%,Not at risk,0
+A (primary),97.0,Above 85%,Not at risk,0
+A (primary),60.0,50-70%,At risk,1
+A (primary),89.0,Above 85%,Not at risk,0
+A (primary),66.0,50-70%,At risk,1
+A (primary),62.0,50-70%,At risk,1
+A (primary),95.0,Above 85%,Not at risk,0
+A (primary),79.0,70-85%,At risk,1
+A (primary),95.0,Above 85%,Not at risk,0
+A (primary),93.0,Above 85%,At risk,1
+A (primary),92.0,Above 85%,Not at risk,0
+A (primary),94.0,Above 85%,Not at risk,0
+A (primary),89.0,Above 85%,Not at risk,0
+A (primary),94.0,Above 85%,At risk,1
+A (primary),88.0,Above 85%,Not at risk,0
+A (primary),73.0,70-85%,At risk,1
+A (primary),91.0,Above 85%,Not at risk,0
+A (primary),93.0,Above 85%,At risk,1
+A (primary),74.0,70-85%,At risk,1
+A (primary),89.0,Above 85%,Not at risk,0
+A (primary),85.0,70-85%,Not at risk,0
+A (primary),98.0,Above 85%,Not at risk,0
+A (primary),72.0,70-85%,At risk,1
+A (primary),99.0,Above 85%,At risk,1
+A (primary),99.0,Above 85%,Not at risk,0
+A (primary),69.0,50-70%,At risk,1
+A (primary),64.0,50-70%,At risk,1
+A (primary),74.0,70-85%,At risk,1
+A (primary),74.0,70-85%,At risk,1
+A (primary),100.0,Above 85%,Not at risk,0
+A (primary),97.0,Above 85%,Not at risk,0
+A (primary),89.0,Above 85%,Not at risk,0
+A (primary),70.0,50-70%,At risk,1
+A (primary),76.0,70-85%,At risk,1
+A (primary),94.0,Above 85%,Not at risk,0
+A (primary),96.0,Above 85%,Not at risk,0
+A (primary),71.0,70-85%,At risk,1
+A (primary),72.0,70-85%,At risk,1
+A (primary),83.0,70-85%,At risk,1
+A (primary),94.0,Above 85%,Not at risk,0
+A (primary),95.0,Above 85%,Not at risk,0
+A (primary),86.0,Above 85%,Not at risk,0
+A (primary),82.0,70-85%,At risk,1
+A (primary),90.0,Above 85%,Not at risk,0
+A (primary),100.0,Above 85%,Not at risk,0
+A (primary),64.0,50-70%,At risk,1
+A (primary),63.0,50-70%,At risk,1
+A (primary),93.0,Above 85%,Not at risk,0
+A (primary),73.0,70-85%,At risk,1
+A (primary),64.0,50-70%,At risk,1
+A (primary),90.0,Above 85%,Not at risk,0
+A (primary),99.0,Above 85%,At risk,1
+A (primary),65.0,50-70%,At risk,1
+A (primary),90.0,Above 85%,Not at risk,0
+A (primary),93.0,Above 85%,At risk,1
+A (primary),65.0,50-70%,At risk,1
+A (primary),96.0,Above 85%,Not at risk,0
+A (primary),78.0,70-85%,At risk,1
+A (primary),96.0,Above 85%,Not at risk,0
+A (primary),71.0,70-85%,At risk,1
+A (primary),98.0,Above 85%,Not at risk,0
+A (primary),95.0,Above 85%,Not at risk,0
+A (primary),100.0,Above 85%,Not at risk,0
+A (primary),86.0,Above 85%,Not at risk,0
+A (primary),96.0,Above 85%,Not at risk,0
+A (primary),63.0,50-70%,At risk,1
+A (primary),67.0,50-70%,At risk,1
+A (primary),69.0,50-70%,At risk,1
+A (primary),95.0,Above 85%,At risk,1
+A (primary),68.0,50-70%,At risk,1
+A (primary),72.0,70-85%,At risk,1
+A (primary),86.0,Above 85%,Not at risk,0
+A (primary),74.0,70-85%,At risk,1
+A (primary),94.0,Above 85%,Not at risk,0
+A (primary),96.0,Above 85%,Not at risk,0
+A (primary),97.0,Above 85%,At risk,1
+A (primary),99.0,Above 85%,Not at risk,0
+A (primary),74.0,70-85%,At risk,1
+A (primary),75.0,70-85%,At risk,1
+A (primary),97.0,Above 85%,Not at risk,0
+A (primary),86.0,Above 85%,Not at risk,0
+A (primary),90.0,Above 85%,Not at risk,0
+A (primary),77.0,70-85%,At risk,1
+A (primary),78.0,70-85%,At risk,1
+A (primary),61.0,50-70%,At risk,1
+A (primary),64.0,50-70%,At risk,1
+A (primary),86.0,Above 85%,Not at risk,0
+A (primary),63.0,50-70%,At risk,1
+A (primary),86.0,Above 85%,Not at risk,0
+A (primary),85.0,70-85%,Not at risk,0
+A (primary),87.0,Above 85%,Not at risk,0
+A (primary),90.0,Above 85%,Not at risk,0
+A (primary),97.0,Above 85%,Not at risk,0
+A (primary),98.0,Above 85%,Not at risk,0
+A (primary),74.0,70-85%,At risk,1
+A (primary),96.0,Above 85%,Not at risk,0
+A (primary),92.0,Above 85%,At risk,1
+A (primary),71.0,70-85%,At risk,1
+A (primary),92.0,Above 85%,Not at risk,0
+A (primary),99.0,Above 85%,Not at risk,0
+A (primary),88.0,Above 85%,Not at risk,0
+A (primary),62.0,50-70%,At risk,1
+A (primary),84.0,70-85%,At risk,1
+A (primary),65.0,50-70%,At risk,1
+A (primary),99.0,Above 85%,Not at risk,0
+A (primary),63.0,50-70%,At risk,1
+A (primary),85.0,70-85%,Not at risk,0
+A (primary),70.0,50-70%,At risk,1
+A (primary),74.0,70-85%,At risk,1
+A (primary),62.0,50-70%,At risk,1
+A (primary),74.0,70-85%,At risk,1
+A (primary),86.0,Above 85%,Not at risk,0
+A (primary),92.0,Above 85%,Not at risk,0
+A (primary),91.0,Above 85%,Not at risk,0
+A (primary),87.0,Above 85%,Not at risk,0
+A (primary),62.0,50-70%,At risk,1
+A (primary),63.0,50-70%,At risk,1
+A (primary),62.0,50-70%,At risk,1
+A (primary),80.0,70-85%,At risk,1
+A (primary),91.0,Above 85%,At risk,1
+A (primary),62.0,50-70%,At risk,1
+A (primary),89.0,Above 85%,Not at risk,0
+A (primary),98.0,Above 85%,Not at risk,0
+A (primary),90.0,Above 85%,Not at risk,0
+A (primary),76.0,70-85%,At risk,1
+A (primary),62.0,50-70%,At risk,1
+A (primary),66.0,50-70%,At risk,1
+A (primary),69.0,50-70%,At risk,1
+A (primary),100.0,Above 85%,Not at risk,0
+A (primary),71.0,70-85%,At risk,1
+A (primary),60.0,50-70%,At risk,1
+A (primary),88.0,Above 85%,At risk,1
+A (primary),70.0,50-70%,At risk,1
+A (primary),66.0,50-70%,At risk,1
+A (primary),71.0,70-85%,At risk,1
+A (primary),67.0,50-70%,At risk,1
+A (primary),90.0,Above 85%,Not at risk,0
+A (primary),84.0,70-85%,At risk,1
+A (primary),94.0,Above 85%,Not at risk,0
+A (primary),67.0,50-70%,At risk,1
+A (primary),98.0,Above 85%,Not at risk,0
+A (primary),69.0,50-70%,At risk,1
+A (primary),96.0,Above 85%,Not at risk,0
+A (primary),93.0,Above 85%,Not at risk,0
+A (primary),60.0,50-70%,At risk,1
+A (primary),85.0,70-85%,At risk,1
+A (primary),70.0,50-70%,At risk,1
+A (primary),84.0,70-85%,At risk,1
+A (primary),99.0,Above 85%,Not at risk,0
+A (primary),96.0,Above 85%,Not at risk,0
+A (primary),99.0,Above 85%,Not at risk,0
+A (primary),71.0,70-85%,At risk,1
+A (primary),94.0,Above 85%,Not at risk,0
+A (primary),73.0,70-85%,At risk,1
+A (primary),67.0,50-70%,At risk,1
+A (primary),68.0,50-70%,At risk,1
+A (primary),98.0,Above 85%,Not at risk,0
+A (primary),74.0,70-85%,At risk,1
+A (primary),88.0,Above 85%,Not at risk,0
+A (primary),93.0,Above 85%,At risk,1
+A (primary),90.0,Above 85%,Not at risk,0
+A (primary),91.0,Above 85%,At risk,1
+A (primary),60.0,50-70%,At risk,1
+A (primary),87.0,Above 85%,Not at risk,0
+A (primary),96.0,Above 85%,At risk,1
+A (primary),98.0,Above 85%,Not at risk,0
+A (primary),62.0,50-70%,At risk,1
+A (primary),88.0,Above 85%,At risk,1
+A (primary),96.0,Above 85%,Not at risk,0
+A (primary),98.0,Above 85%,Not at risk,0
+A (primary),95.0,Above 85%,Not at risk,0
+A (primary),66.0,50-70%,At risk,1
+A (primary),87.0,Above 85%,Not at risk,0
+A (primary),60.0,50-70%,At risk,1
+A (primary),61.0,50-70%,At risk,1
+A (primary),80.0,70-85%,At risk,1
+A (primary),64.0,50-70%,At risk,1
+A (primary),78.0,70-85%,At risk,1
+A (primary),75.0,70-85%,At risk,1
+A (primary),94.0,Above 85%,Not at risk,0
+A (primary),68.0,50-70%,At risk,1
+A (primary),98.0,Above 85%,Not at risk,0
+A (primary),85.0,70-85%,Not at risk,0
+A (primary),78.0,70-85%,At risk,1
+A (primary),93.0,Above 85%,Not at risk,0
+A (primary),94.0,Above 85%,Not at risk,0
+A (primary),91.0,Above 85%,At risk,1
+A (primary),85.0,70-85%,Not at risk,0
+A (primary),92.0,Above 85%,Not at risk,0
+A (primary),65.0,50-70%,At risk,1
+A (primary),65.0,50-70%,At risk,1
+A (primary),73.0,70-85%,At risk,1
+A (primary),95.0,Above 85%,Not at risk,0
+A (primary),62.0,50-70%,At risk,1
+A (primary),79.0,70-85%,At risk,1
+A (primary),94.0,Above 85%,Not at risk,0
+A (primary),74.0,70-85%,At risk,1
+A (primary),73.0,70-85%,At risk,1
+A (primary),73.0,70-85%,At risk,1
+A (primary),85.0,70-85%,At risk,1
+A (primary),66.0,50-70%,At risk,1
+A (primary),94.0,Above 85%,Not at risk,0
+A (primary),89.0,Above 85%,Not at risk,0
+A (primary),90.0,Above 85%,Not at risk,0
+A (primary),62.0,50-70%,At risk,1
+A (primary),98.0,Above 85%,Not at risk,0
+A (primary),88.0,Above 85%,Not at risk,0
+A (primary),89.0,Above 85%,Not at risk,0
+A (primary),94.0,Above 85%,Not at risk,0
+A (primary),87.0,Above 85%,Not at risk,0
+A (primary),62.0,50-70%,At risk,1
+A (primary),87.0,Above 85%,Not at risk,0
+A (primary),96.0,Above 85%,At risk,1
+A (primary),89.0,Above 85%,At risk,1
+A (primary),74.0,70-85%,At risk,1
+A (primary),83.0,70-85%,At risk,1
+A (primary),67.0,50-70%,At risk,1
+A (primary),71.0,70-85%,At risk,1
+A (primary),65.0,50-70%,At risk,1
+A (primary),93.0,Above 85%,At risk,1
+A (primary),90.0,Above 85%,Not at risk,0
+A (primary),63.0,50-70%,At risk,1
+A (primary),94.0,Above 85%,Not at risk,0
+A (primary),71.0,70-85%,At risk,1
+A (primary),65.0,50-70%,At risk,1
+A (primary),67.0,50-70%,At risk,1
+A (primary),98.0,Above 85%,Not at risk,0
+A (primary),88.0,Above 85%,Not at risk,0
+A (primary),69.0,50-70%,At risk,1
+A (primary),94.0,Above 85%,Not at risk,0
+A (primary),72.0,70-85%,At risk,1
+A (primary),60.0,50-70%,At risk,1
+A (primary),94.0,Above 85%,Not at risk,0
+A (primary),86.0,Above 85%,Not at risk,0
+A (primary),85.0,70-85%,Not at risk,0
+A (primary),89.0,Above 85%,Not at risk,0
+A (primary),82.0,70-85%,At risk,1
+A (primary),96.0,Above 85%,Not at risk,0
+A (primary),89.0,Above 85%,Not at risk,0
+A (primary),89.0,Above 85%,Not at risk,0
+A (primary),97.0,Above 85%,At risk,1
+A (primary),95.0,Above 85%,Not at risk,0
+A (primary),72.0,70-85%,At risk,1
+A (primary),92.0,Above 85%,At risk,1
+A (primary),60.0,50-70%,At risk,1
+A (primary),86.0,Above 85%,Not at risk,0
+A (primary),86.0,Above 85%,Not at risk,0
+A (primary),85.0,70-85%,Not at risk,0
+A (primary),86.0,Above 85%,At risk,1
+A (primary),97.0,Above 85%,Not at risk,0
+B (secondary),95.6,Above 85%,Not at risk,0
+B (secondary),80.0,70-85%,Not at risk,0
+B (secondary),86.3,Above 85%,Not at risk,0
+B (secondary),70.2,70-85%,Not at risk,0
+B (secondary),81.9,70-85%,Not at risk,0
+B (secondary),65.1,50-70%,Not at risk,0
+B (secondary),81.8,70-85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),67.6,50-70%,Not at risk,0
+B (secondary),82.3,70-85%,Not at risk,0
+B (secondary),75.9,70-85%,Not at risk,0
+B (secondary),77.9,70-85%,Not at risk,0
+B (secondary),92.1,Above 85%,Not at risk,0
+B (secondary),90.7,Above 85%,At risk,1
+B (secondary),87.4,Above 85%,Not at risk,0
+B (secondary),85.9,Above 85%,Not at risk,0
+B (secondary),74.0,70-85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),91.4,Above 85%,Not at risk,0
+B (secondary),89.3,Above 85%,Not at risk,0
+B (secondary),93.5,Above 85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),74.2,70-85%,Not at risk,0
+B (secondary),96.1,Above 85%,Not at risk,0
+B (secondary),81.1,70-85%,Not at risk,0
+B (secondary),73.6,70-85%,Not at risk,0
+B (secondary),83.9,70-85%,Not at risk,0
+B (secondary),86.2,Above 85%,Not at risk,0
+B (secondary),75.0,70-85%,Not at risk,0
+B (secondary),76.6,70-85%,Not at risk,0
+B (secondary),89.2,Above 85%,Not at risk,0
+B (secondary),68.4,50-70%,Not at risk,0
+B (secondary),93.0,Above 85%,Not at risk,0
+B (secondary),85.2,Above 85%,Not at risk,0
+B (secondary),86.4,Above 85%,Not at risk,0
+B (secondary),86.8,Above 85%,Not at risk,0
+B (secondary),92.9,Above 85%,At risk,1
+B (secondary),93.4,Above 85%,Not at risk,0
+B (secondary),76.5,70-85%,Not at risk,0
+B (secondary),85.6,Above 85%,Not at risk,0
+B (secondary),84.2,70-85%,Not at risk,0
+B (secondary),76.5,70-85%,Not at risk,0
+B (secondary),78.7,70-85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),83.4,70-85%,Not at risk,0
+B (secondary),89.5,Above 85%,Not at risk,0
+B (secondary),85.9,Above 85%,Not at risk,0
+B (secondary),79.9,70-85%,Not at risk,0
+B (secondary),77.5,70-85%,At risk,1
+B (secondary),93.8,Above 85%,Not at risk,0
+B (secondary),84.6,70-85%,Not at risk,0
+B (secondary),90.3,Above 85%,Not at risk,0
+B (secondary),77.7,70-85%,Not at risk,0
+B (secondary),80.2,70-85%,Not at risk,0
+B (secondary),84.1,70-85%,Not at risk,0
+B (secondary),81.4,70-85%,Not at risk,0
+B (secondary),83.7,70-85%,Not at risk,0
+B (secondary),99.0,Above 85%,Not at risk,0
+B (secondary),94.7,Above 85%,Not at risk,0
+B (secondary),80.9,70-85%,Not at risk,0
+B (secondary),89.6,Above 85%,Not at risk,0
+B (secondary),68.3,50-70%,Not at risk,0
+B (secondary),85.3,Above 85%,Not at risk,0
+B (secondary),85.8,Above 85%,Not at risk,0
+B (secondary),82.0,70-85%,Not at risk,0
+B (secondary),73.7,70-85%,Not at risk,0
+B (secondary),85.0,70-85%,Not at risk,0
+B (secondary),83.1,70-85%,Not at risk,0
+B (secondary),91.8,Above 85%,Not at risk,0
+B (secondary),82.9,70-85%,Not at risk,0
+B (secondary),82.6,70-85%,Not at risk,0
+B (secondary),70.6,70-85%,Not at risk,0
+B (secondary),88.5,Above 85%,Not at risk,0
+B (secondary),86.4,Above 85%,At risk,1
+B (secondary),81.6,70-85%,Not at risk,0
+B (secondary),90.1,Above 85%,Not at risk,0
+B (secondary),80.4,70-85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),81.4,70-85%,At risk,1
+B (secondary),69.7,50-70%,Not at risk,0
+B (secondary),64.4,50-70%,Not at risk,0
+B (secondary),85.0,70-85%,Not at risk,0
+B (secondary),83.4,70-85%,Not at risk,0
+B (secondary),69.7,50-70%,Not at risk,0
+B (secondary),84.1,70-85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),64.7,50-70%,Not at risk,0
+B (secondary),80.9,70-85%,Not at risk,0
+B (secondary),80.6,70-85%,Not at risk,0
+B (secondary),74.6,70-85%,Not at risk,0
+B (secondary),92.7,Above 85%,Not at risk,0
+B (secondary),78.4,70-85%,Not at risk,0
+B (secondary),95.9,Above 85%,Not at risk,0
+B (secondary),70.9,70-85%,Not at risk,0
+B (secondary),79.9,70-85%,Not at risk,0
+B (secondary),76.7,70-85%,Not at risk,0
+B (secondary),95.7,Above 85%,Not at risk,0
+B (secondary),80.7,70-85%,Not at risk,0
+B (secondary),91.1,Above 85%,Not at risk,0
+B (secondary),62.6,50-70%,Not at risk,0
+B (secondary),94.3,Above 85%,Not at risk,0
+B (secondary),73.3,70-85%,Not at risk,0
+B (secondary),72.5,70-85%,Not at risk,0
+B (secondary),91.9,Above 85%,Not at risk,0
+B (secondary),74.7,70-85%,Not at risk,0
+B (secondary),97.9,Above 85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),81.5,70-85%,Not at risk,0
+B (secondary),82.3,70-85%,Not at risk,0
+B (secondary),97.0,Above 85%,At risk,1
+B (secondary),75.1,70-85%,Not at risk,0
+B (secondary),96.3,Above 85%,Not at risk,0
+B (secondary),84.4,70-85%,Not at risk,0
+B (secondary),93.3,Above 85%,Not at risk,0
+B (secondary),77.8,70-85%,Not at risk,0
+B (secondary),97.8,Above 85%,Not at risk,0
+B (secondary),70.7,70-85%,Not at risk,0
+B (secondary),99.6,Above 85%,Not at risk,0
+B (secondary),96.1,Above 85%,Not at risk,0
+B (secondary),79.3,70-85%,Not at risk,0
+B (secondary),88.4,Above 85%,Not at risk,0
+B (secondary),80.0,70-85%,Not at risk,0
+B (secondary),87.7,Above 85%,Not at risk,0
+B (secondary),79.9,70-85%,Not at risk,0
+B (secondary),75.7,70-85%,Not at risk,0
+B (secondary),88.9,Above 85%,Not at risk,0
+B (secondary),87.0,Above 85%,Not at risk,0
+B (secondary),84.9,70-85%,Not at risk,0
+B (secondary),83.8,70-85%,At risk,1
+B (secondary),92.4,Above 85%,At risk,1
+B (secondary),80.1,70-85%,Not at risk,0
+B (secondary),77.9,70-85%,Not at risk,0
+B (secondary),97.3,Above 85%,Not at risk,0
+B (secondary),80.4,70-85%,Not at risk,0
+B (secondary),77.7,70-85%,Not at risk,0
+B (secondary),79.3,70-85%,Not at risk,0
+B (secondary),78.3,70-85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),84.1,70-85%,At risk,1
+B (secondary),70.8,70-85%,Not at risk,0
+B (secondary),86.1,Above 85%,Not at risk,0
+B (secondary),71.7,70-85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),94.3,Above 85%,Not at risk,0
+B (secondary),89.3,Above 85%,Not at risk,0
+B (secondary),69.8,50-70%,Not at risk,0
+B (secondary),92.8,Above 85%,Not at risk,0
+B (secondary),82.5,70-85%,Not at risk,0
+B (secondary),74.8,70-85%,Not at risk,0
+B (secondary),70.0,50-70%,Not at risk,0
+B (secondary),88.5,Above 85%,Not at risk,0
+B (secondary),81.2,70-85%,Not at risk,0
+B (secondary),76.4,70-85%,Not at risk,0
+B (secondary),90.3,Above 85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),97.0,Above 85%,Not at risk,0
+B (secondary),89.3,Above 85%,At risk,1
+B (secondary),78.5,70-85%,Not at risk,0
+B (secondary),93.6,Above 85%,Not at risk,0
+B (secondary),96.7,Above 85%,Not at risk,0
+B (secondary),93.9,Above 85%,Not at risk,0
+B (secondary),97.0,Above 85%,Not at risk,0
+B (secondary),74.0,70-85%,Not at risk,0
+B (secondary),78.1,70-85%,Not at risk,0
+B (secondary),77.4,70-85%,Not at risk,0
+B (secondary),87.7,Above 85%,Not at risk,0
+B (secondary),83.4,70-85%,Not at risk,0
+B (secondary),80.5,70-85%,Not at risk,0
+B (secondary),95.0,Above 85%,Not at risk,0
+B (secondary),88.5,Above 85%,Not at risk,0
+B (secondary),79.3,70-85%,Not at risk,0
+B (secondary),93.7,Above 85%,Not at risk,0
+B (secondary),84.0,70-85%,Not at risk,0
+B (secondary),82.0,70-85%,Not at risk,0
+B (secondary),63.3,50-70%,Not at risk,0
+B (secondary),88.0,Above 85%,Not at risk,0
+B (secondary),79.1,70-85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),94.8,Above 85%,Not at risk,0
+B (secondary),97.2,Above 85%,Not at risk,0
+B (secondary),85.6,Above 85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),84.5,70-85%,Not at risk,0
+B (secondary),89.6,Above 85%,Not at risk,0
+B (secondary),81.9,70-85%,Not at risk,0
+B (secondary),85.6,Above 85%,Not at risk,0
+B (secondary),86.9,Above 85%,At risk,1
+B (secondary),92.4,Above 85%,Not at risk,0
+B (secondary),79.3,70-85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),75.7,70-85%,At risk,1
+B (secondary),81.8,70-85%,Not at risk,0
+B (secondary),89.0,Above 85%,Not at risk,0
+B (secondary),93.2,Above 85%,Not at risk,0
+B (secondary),82.7,70-85%,Not at risk,0
+B (secondary),68.2,50-70%,Not at risk,0
+B (secondary),78.7,70-85%,At risk,1
+B (secondary),96.8,Above 85%,Not at risk,0
+B (secondary),82.4,70-85%,Not at risk,0
+B (secondary),80.2,70-85%,Not at risk,0
+B (secondary),77.5,70-85%,Not at risk,0
+B (secondary),78.4,70-85%,Not at risk,0
+B (secondary),87.1,Above 85%,Not at risk,0
+B (secondary),98.2,Above 85%,Not at risk,0
+B (secondary),93.9,Above 85%,Not at risk,0
+B (secondary),89.0,Above 85%,Not at risk,0
+B (secondary),68.1,50-70%,Not at risk,0
+B (secondary),88.0,Above 85%,Not at risk,0
+B (secondary),79.5,70-85%,Not at risk,0
+B (secondary),98.3,Above 85%,Not at risk,0
+B (secondary),82.6,70-85%,Not at risk,0
+B (secondary),89.1,Above 85%,Not at risk,0
+B (secondary),81.4,70-85%,Not at risk,0
+B (secondary),82.6,70-85%,Not at risk,0
+B (secondary),80.9,70-85%,Not at risk,0
+B (secondary),71.3,70-85%,Not at risk,0
+B (secondary),85.3,Above 85%,Not at risk,0
+B (secondary),95.1,Above 85%,Not at risk,0
+B (secondary),78.8,70-85%,At risk,1
+B (secondary),83.0,70-85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),90.1,Above 85%,Not at risk,0
+B (secondary),73.5,70-85%,Not at risk,0
+B (secondary),97.2,Above 85%,Not at risk,0
+B (secondary),76.3,70-85%,At risk,1
+B (secondary),65.7,50-70%,Not at risk,0
+B (secondary),84.4,70-85%,Not at risk,0
+B (secondary),94.1,Above 85%,Not at risk,0
+B (secondary),99.4,Above 85%,Not at risk,0
+B (secondary),76.5,70-85%,Not at risk,0
+B (secondary),95.9,Above 85%,Not at risk,0
+B (secondary),81.2,70-85%,Not at risk,0
+B (secondary),83.3,70-85%,Not at risk,0
+B (secondary),91.0,Above 85%,At risk,1
+B (secondary),70.2,70-85%,Not at risk,0
+B (secondary),85.9,Above 85%,Not at risk,0
+B (secondary),96.9,Above 85%,Not at risk,0
+B (secondary),81.8,70-85%,Not at risk,0
+B (secondary),87.3,Above 85%,Not at risk,0
+B (secondary),86.9,Above 85%,Not at risk,0
+B (secondary),88.6,Above 85%,Not at risk,0
+B (secondary),96.5,Above 85%,Not at risk,0
+B (secondary),77.4,70-85%,Not at risk,0
+B (secondary),89.4,Above 85%,Not at risk,0
+B (secondary),79.9,70-85%,Not at risk,0
+B (secondary),97.6,Above 85%,Not at risk,0
+B (secondary),78.1,70-85%,Not at risk,0
+B (secondary),83.9,70-85%,Not at risk,0
+B (secondary),88.4,Above 85%,Not at risk,0
+B (secondary),90.6,Above 85%,Not at risk,0
+B (secondary),90.5,Above 85%,Not at risk,0
+B (secondary),83.1,70-85%,At risk,1
+B (secondary),81.8,70-85%,Not at risk,0
+B (secondary),68.3,50-70%,Not at risk,0
+B (secondary),85.0,70-85%,Not at risk,0
+B (secondary),74.1,70-85%,Not at risk,0
+B (secondary),85.1,Above 85%,Not at risk,0
+B (secondary),78.2,70-85%,Not at risk,0
+B (secondary),66.7,50-70%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),76.7,70-85%,Not at risk,0
+B (secondary),74.0,70-85%,Not at risk,0
+B (secondary),89.9,Above 85%,Not at risk,0
+B (secondary),74.0,70-85%,Not at risk,0
+B (secondary),83.2,70-85%,Not at risk,0
+B (secondary),75.7,70-85%,Not at risk,0
+B (secondary),79.9,70-85%,Not at risk,0
+B (secondary),83.8,70-85%,Not at risk,0
+B (secondary),91.8,Above 85%,Not at risk,0
+B (secondary),96.6,Above 85%,Not at risk,0
+B (secondary),72.9,70-85%,Not at risk,0
+B (secondary),81.6,70-85%,Not at risk,0
+B (secondary),72.6,70-85%,Not at risk,0
+B (secondary),82.9,70-85%,Not at risk,0
+B (secondary),77.5,70-85%,Not at risk,0
+B (secondary),74.9,70-85%,Not at risk,0
+B (secondary),74.2,70-85%,Not at risk,0
+B (secondary),74.8,70-85%,Not at risk,0
+B (secondary),88.3,Above 85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),76.6,70-85%,At risk,1
+B (secondary),81.2,70-85%,Not at risk,0
+B (secondary),82.9,70-85%,At risk,1
+B (secondary),88.5,Above 85%,Not at risk,0
+B (secondary),80.3,70-85%,Not at risk,0
+B (secondary),92.4,Above 85%,Not at risk,0
+B (secondary),83.8,70-85%,Not at risk,0
+B (secondary),92.2,Above 85%,Not at risk,0
+B (secondary),89.6,Above 85%,Not at risk,0
+B (secondary),88.2,Above 85%,Not at risk,0
+B (secondary),76.2,70-85%,Not at risk,0
+B (secondary),92.0,Above 85%,Not at risk,0
+B (secondary),90.0,Above 85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),77.6,70-85%,Not at risk,0
+B (secondary),84.6,70-85%,Not at risk,0
+B (secondary),93.6,Above 85%,Not at risk,0
+B (secondary),89.2,Above 85%,Not at risk,0
+B (secondary),90.4,Above 85%,Not at risk,0
+B (secondary),70.6,70-85%,Not at risk,0
+B (secondary),91.1,Above 85%,Not at risk,0
+B (secondary),97.7,Above 85%,Not at risk,0
+B (secondary),73.4,70-85%,Not at risk,0
+B (secondary),86.1,Above 85%,Not at risk,0
+B (secondary),80.5,70-85%,Not at risk,0
+B (secondary),87.2,Above 85%,Not at risk,0
+B (secondary),97.7,Above 85%,Not at risk,0
+B (secondary),73.9,70-85%,Not at risk,0
+B (secondary),85.4,Above 85%,Not at risk,0
+B (secondary),84.2,70-85%,Not at risk,0
+B (secondary),88.8,Above 85%,Not at risk,0
+B (secondary),80.4,70-85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),73.4,70-85%,Not at risk,0
+B (secondary),97.7,Above 85%,Not at risk,0
+B (secondary),85.2,Above 85%,Not at risk,0
+B (secondary),73.8,70-85%,Not at risk,0
+B (secondary),85.1,Above 85%,Not at risk,0
+B (secondary),74.7,70-85%,Not at risk,0
+B (secondary),70.9,70-85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),90.2,Above 85%,Not at risk,0
+B (secondary),86.0,Above 85%,Not at risk,0
+B (secondary),81.6,70-85%,Not at risk,0
+B (secondary),93.7,Above 85%,Not at risk,0
+B (secondary),87.7,Above 85%,Not at risk,0
+B (secondary),80.3,70-85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),87.3,Above 85%,At risk,1
+B (secondary),75.8,70-85%,Not at risk,0
+B (secondary),78.2,70-85%,Not at risk,0
+B (secondary),88.8,Above 85%,Not at risk,0
+B (secondary),98.7,Above 85%,Not at risk,0
+B (secondary),88.3,Above 85%,Not at risk,0
+B (secondary),94.1,Above 85%,Not at risk,0
+B (secondary),78.4,70-85%,Not at risk,0
+B (secondary),88.1,Above 85%,Not at risk,0
+B (secondary),83.7,70-85%,Not at risk,0
+B (secondary),74.9,70-85%,Not at risk,0
+B (secondary),94.9,Above 85%,Not at risk,0
+B (secondary),78.1,70-85%,Not at risk,0
+B (secondary),97.9,Above 85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),91.0,Above 85%,Not at risk,0
+B (secondary),79.5,70-85%,Not at risk,0
+B (secondary),72.0,70-85%,Not at risk,0
+B (secondary),80.0,70-85%,Not at risk,0
+B (secondary),85.4,Above 85%,Not at risk,0
+B (secondary),85.3,Above 85%,Not at risk,0
+B (secondary),73.6,70-85%,Not at risk,0
+B (secondary),65.4,50-70%,Not at risk,0
+B (secondary),87.1,Above 85%,Not at risk,0
+B (secondary),94.8,Above 85%,Not at risk,0
+B (secondary),90.4,Above 85%,Not at risk,0
+B (secondary),92.5,Above 85%,Not at risk,0
+B (secondary),90.4,Above 85%,Not at risk,0
+B (secondary),82.3,70-85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),65.4,50-70%,Not at risk,0
+B (secondary),88.1,Above 85%,Not at risk,0
+B (secondary),82.1,70-85%,Not at risk,0
+B (secondary),80.0,70-85%,Not at risk,0
+B (secondary),97.8,Above 85%,Not at risk,0
+B (secondary),89.5,Above 85%,Not at risk,0
+B (secondary),99.6,Above 85%,Not at risk,0
+B (secondary),91.3,Above 85%,Not at risk,0
+B (secondary),94.4,Above 85%,Not at risk,0
+B (secondary),88.4,Above 85%,Not at risk,0
+B (secondary),97.3,Above 85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),97.8,Above 85%,Not at risk,0
+B (secondary),99.7,Above 85%,Not at risk,0
+B (secondary),89.8,Above 85%,Not at risk,0
+B (secondary),80.3,70-85%,Not at risk,0
+B (secondary),94.9,Above 85%,Not at risk,0
+B (secondary),64.4,50-70%,Not at risk,0
+B (secondary),81.7,70-85%,Not at risk,0
+B (secondary),68.2,50-70%,Not at risk,0
+B (secondary),87.0,Above 85%,Not at risk,0
+B (secondary),100.0,Above 85%,At risk,1
+B (secondary),76.4,70-85%,Not at risk,0
+B (secondary),96.9,Above 85%,Not at risk,0
+B (secondary),76.0,70-85%,Not at risk,0
+B (secondary),76.8,70-85%,Not at risk,0
+B (secondary),77.2,70-85%,Not at risk,0
+B (secondary),85.5,Above 85%,Not at risk,0
+B (secondary),70.7,70-85%,Not at risk,0
+B (secondary),84.9,70-85%,At risk,1
+B (secondary),92.8,Above 85%,Not at risk,0
+B (secondary),88.0,Above 85%,Not at risk,0
+B (secondary),80.3,70-85%,Not at risk,0
+B (secondary),90.6,Above 85%,Not at risk,0
+B (secondary),92.7,Above 85%,Not at risk,0
+B (secondary),86.6,Above 85%,Not at risk,0
+B (secondary),85.5,Above 85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),87.9,Above 85%,Not at risk,0
+B (secondary),85.8,Above 85%,Not at risk,0
+B (secondary),88.7,Above 85%,Not at risk,0
+B (secondary),91.7,Above 85%,Not at risk,0
+B (secondary),82.9,70-85%,Not at risk,0
+B (secondary),73.2,70-85%,Not at risk,0
+B (secondary),67.1,50-70%,Not at risk,0
+B (secondary),87.5,Above 85%,Not at risk,0
+B (secondary),76.5,70-85%,Not at risk,0
+B (secondary),90.0,Above 85%,Not at risk,0
+B (secondary),87.8,Above 85%,Not at risk,0
+B (secondary),83.3,70-85%,Not at risk,0
+B (secondary),83.1,70-85%,Not at risk,0
+B (secondary),77.5,70-85%,At risk,1
+B (secondary),70.1,70-85%,Not at risk,0
+B (secondary),91.6,Above 85%,Not at risk,0
+B (secondary),94.2,Above 85%,Not at risk,0
+B (secondary),79.2,70-85%,Not at risk,0
+B (secondary),90.1,Above 85%,Not at risk,0
+B (secondary),66.9,50-70%,Not at risk,0
+B (secondary),98.2,Above 85%,Not at risk,0
+B (secondary),91.3,Above 85%,Not at risk,0
+B (secondary),83.0,70-85%,Not at risk,0
+B (secondary),75.8,70-85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),91.0,Above 85%,Not at risk,0
+B (secondary),93.6,Above 85%,Not at risk,0
+B (secondary),85.1,Above 85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),82.9,70-85%,Not at risk,0
+B (secondary),88.0,Above 85%,At risk,1
+B (secondary),90.2,Above 85%,At risk,1
+B (secondary),89.0,Above 85%,At risk,1
+B (secondary),93.6,Above 85%,Not at risk,0
+B (secondary),80.1,70-85%,Not at risk,0
+B (secondary),95.1,Above 85%,Not at risk,0
+B (secondary),91.8,Above 85%,Not at risk,0
+B (secondary),90.4,Above 85%,Not at risk,0
+B (secondary),97.0,Above 85%,Not at risk,0
+B (secondary),78.2,70-85%,Not at risk,0
+B (secondary),81.0,70-85%,Not at risk,0
+B (secondary),90.2,Above 85%,Not at risk,0
+B (secondary),95.8,Above 85%,Not at risk,0
+B (secondary),89.4,Above 85%,At risk,1
+B (secondary),97.7,Above 85%,Not at risk,0
+B (secondary),89.5,Above 85%,Not at risk,0
+B (secondary),81.0,70-85%,Not at risk,0
+B (secondary),84.0,70-85%,Not at risk,0
+B (secondary),95.8,Above 85%,Not at risk,0
+B (secondary),95.8,Above 85%,Not at risk,0
+B (secondary),61.6,50-70%,Not at risk,0
+B (secondary),92.6,Above 85%,Not at risk,0
+B (secondary),80.6,70-85%,Not at risk,0
+B (secondary),99.4,Above 85%,Not at risk,0
+B (secondary),94.1,Above 85%,Not at risk,0
+B (secondary),92.8,Above 85%,Not at risk,0
+B (secondary),88.3,Above 85%,At risk,1
+B (secondary),83.4,70-85%,Not at risk,0
+B (secondary),89.2,Above 85%,Not at risk,0
+B (secondary),76.4,70-85%,Not at risk,0
+B (secondary),99.9,Above 85%,At risk,1
+B (secondary),70.1,70-85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),78.7,70-85%,Not at risk,0
+B (secondary),81.9,70-85%,Not at risk,0
+B (secondary),96.6,Above 85%,Not at risk,0
+B (secondary),72.7,70-85%,Not at risk,0
+B (secondary),89.4,Above 85%,Not at risk,0
+B (secondary),97.7,Above 85%,Not at risk,0
+B (secondary),96.7,Above 85%,Not at risk,0
+B (secondary),82.8,70-85%,Not at risk,0
+B (secondary),97.2,Above 85%,Not at risk,0
+B (secondary),88.1,Above 85%,Not at risk,0
+B (secondary),98.7,Above 85%,Not at risk,0
+B (secondary),77.8,70-85%,Not at risk,0
+B (secondary),79.0,70-85%,Not at risk,0
+B (secondary),94.1,Above 85%,Not at risk,0
+B (secondary),98.3,Above 85%,Not at risk,0
+B (secondary),77.7,70-85%,Not at risk,0
+B (secondary),89.4,Above 85%,Not at risk,0
+B (secondary),80.7,70-85%,Not at risk,0
+B (secondary),78.0,70-85%,Not at risk,0
+B (secondary),88.3,Above 85%,Not at risk,0
+B (secondary),84.5,70-85%,Not at risk,0
+B (secondary),79.7,70-85%,Not at risk,0
+B (secondary),74.5,70-85%,Not at risk,0
+B (secondary),52.5,50-70%,Not at risk,0
+B (secondary),84.7,70-85%,Not at risk,0
+B (secondary),72.8,70-85%,Not at risk,0
+B (secondary),82.5,70-85%,Not at risk,0
+B (secondary),96.7,Above 85%,Not at risk,0
+B (secondary),78.1,70-85%,Not at risk,0
+B (secondary),70.6,70-85%,Not at risk,0
+B (secondary),90.3,Above 85%,Not at risk,0
+B (secondary),88.9,Above 85%,Not at risk,0
+B (secondary),83.2,70-85%,Not at risk,0
+B (secondary),81.4,70-85%,Not at risk,0
+B (secondary),87.0,Above 85%,Not at risk,0
+B (secondary),87.4,Above 85%,Not at risk,0
+B (secondary),74.2,70-85%,Not at risk,0
+B (secondary),99.4,Above 85%,Not at risk,0
+B (secondary),78.6,70-85%,Not at risk,0
+B (secondary),67.6,50-70%,Not at risk,0
+B (secondary),82.7,70-85%,Not at risk,0
+B (secondary),73.6,70-85%,Not at risk,0
+B (secondary),98.6,Above 85%,Not at risk,0
+B (secondary),83.9,70-85%,Not at risk,0
+B (secondary),92.6,Above 85%,Not at risk,0
+B (secondary),94.6,Above 85%,Not at risk,0
+B (secondary),87.1,Above 85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),91.1,Above 85%,Not at risk,0
+B (secondary),85.4,Above 85%,Not at risk,0
+B (secondary),88.3,Above 85%,Not at risk,0
+B (secondary),76.1,70-85%,Not at risk,0
+B (secondary),75.4,70-85%,Not at risk,0
+B (secondary),93.7,Above 85%,Not at risk,0
+B (secondary),85.4,Above 85%,Not at risk,0
+B (secondary),94.4,Above 85%,Not at risk,0
+B (secondary),98.4,Above 85%,Not at risk,0
+B (secondary),90.4,Above 85%,Not at risk,0
+B (secondary),98.8,Above 85%,Not at risk,0
+B (secondary),60.2,50-70%,Not at risk,0
+B (secondary),85.9,Above 85%,Not at risk,0
+B (secondary),85.1,Above 85%,Not at risk,0
+B (secondary),77.1,70-85%,Not at risk,0
+B (secondary),86.1,Above 85%,Not at risk,0
+B (secondary),76.4,70-85%,Not at risk,0
+B (secondary),91.0,Above 85%,Not at risk,0
+B (secondary),83.1,70-85%,Not at risk,0
+B (secondary),77.4,70-85%,Not at risk,0
+B (secondary),90.9,Above 85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),81.6,70-85%,At risk,1
+B (secondary),83.7,70-85%,Not at risk,0
+B (secondary),88.2,Above 85%,Not at risk,0
+B (secondary),82.4,70-85%,Not at risk,0
+B (secondary),86.8,Above 85%,Not at risk,0
+B (secondary),74.0,70-85%,Not at risk,0
+B (secondary),73.6,70-85%,Not at risk,0
+B (secondary),81.3,70-85%,Not at risk,0
+B (secondary),81.6,70-85%,Not at risk,0
+B (secondary),87.9,Above 85%,Not at risk,0
+B (secondary),90.6,Above 85%,Not at risk,0
+B (secondary),75.7,70-85%,At risk,1
+B (secondary),84.1,70-85%,Not at risk,0
+B (secondary),80.5,70-85%,Not at risk,0
+B (secondary),94.1,Above 85%,Not at risk,0
+B (secondary),74.9,70-85%,Not at risk,0
+B (secondary),94.3,Above 85%,Not at risk,0
+B (secondary),90.9,Above 85%,Not at risk,0
+B (secondary),86.3,Above 85%,Not at risk,0
+B (secondary),82.3,70-85%,Not at risk,0
+B (secondary),78.2,70-85%,Not at risk,0
+B (secondary),75.7,70-85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),89.1,Above 85%,Not at risk,0
+B (secondary),80.6,70-85%,Not at risk,0
+B (secondary),73.9,70-85%,Not at risk,0
+B (secondary),67.1,50-70%,Not at risk,0
+B (secondary),79.1,70-85%,Not at risk,0
+B (secondary),94.1,Above 85%,Not at risk,0
+B (secondary),79.6,70-85%,Not at risk,0
+B (secondary),76.7,70-85%,Not at risk,0
+B (secondary),84.8,70-85%,Not at risk,0
+B (secondary),80.1,70-85%,Not at risk,0
+B (secondary),94.0,Above 85%,Not at risk,0
+B (secondary),68.0,50-70%,Not at risk,0
+B (secondary),97.1,Above 85%,Not at risk,0
+B (secondary),88.3,Above 85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),76.0,70-85%,Not at risk,0
+B (secondary),76.1,70-85%,Not at risk,0
+B (secondary),79.3,70-85%,Not at risk,0
+B (secondary),77.4,70-85%,Not at risk,0
+B (secondary),82.6,70-85%,Not at risk,0
+B (secondary),75.8,70-85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),75.5,70-85%,Not at risk,0
+B (secondary),93.0,Above 85%,Not at risk,0
+B (secondary),92.8,Above 85%,Not at risk,0
+B (secondary),75.1,70-85%,Not at risk,0
+B (secondary),89.4,Above 85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),74.3,70-85%,Not at risk,0
+B (secondary),79.0,70-85%,Not at risk,0
+B (secondary),89.6,Above 85%,Not at risk,0
+B (secondary),80.8,70-85%,Not at risk,0
+B (secondary),80.6,70-85%,Not at risk,0
+B (secondary),85.2,Above 85%,Not at risk,0
+B (secondary),81.6,70-85%,Not at risk,0
+B (secondary),77.2,70-85%,Not at risk,0
+B (secondary),79.1,70-85%,Not at risk,0
+B (secondary),98.2,Above 85%,Not at risk,0
+B (secondary),91.5,Above 85%,Not at risk,0
+B (secondary),87.0,Above 85%,Not at risk,0
+B (secondary),63.1,50-70%,Not at risk,0
+B (secondary),84.5,70-85%,Not at risk,0
+B (secondary),65.9,50-70%,Not at risk,0
+B (secondary),93.8,Above 85%,Not at risk,0
+B (secondary),69.7,50-70%,Not at risk,0
+B (secondary),81.2,70-85%,Not at risk,0
+B (secondary),99.7,Above 85%,Not at risk,0
+B (secondary),80.9,70-85%,Not at risk,0
+B (secondary),80.6,70-85%,Not at risk,0
+B (secondary),97.7,Above 85%,Not at risk,0
+B (secondary),83.5,70-85%,Not at risk,0
+B (secondary),78.5,70-85%,At risk,1
+B (secondary),94.0,Above 85%,At risk,1
+B (secondary),80.4,70-85%,Not at risk,0
+B (secondary),75.5,70-85%,Not at risk,0
+B (secondary),72.6,70-85%,Not at risk,0
+B (secondary),93.8,Above 85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),78.9,70-85%,Not at risk,0
+B (secondary),90.2,Above 85%,Not at risk,0
+B (secondary),92.5,Above 85%,Not at risk,0
+B (secondary),79.0,70-85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),91.6,Above 85%,Not at risk,0
+B (secondary),79.8,70-85%,Not at risk,0
+B (secondary),89.0,Above 85%,Not at risk,0
+B (secondary),78.6,70-85%,Not at risk,0
+B (secondary),92.7,Above 85%,Not at risk,0
+B (secondary),77.9,70-85%,Not at risk,0
+B (secondary),90.2,Above 85%,Not at risk,0
+B (secondary),77.5,70-85%,Not at risk,0
+B (secondary),85.0,70-85%,Not at risk,0
+B (secondary),82.3,70-85%,Not at risk,0
+B (secondary),89.6,Above 85%,Not at risk,0
+B (secondary),86.8,Above 85%,Not at risk,0
+B (secondary),94.9,Above 85%,Not at risk,0
+B (secondary),80.0,70-85%,Not at risk,0
+B (secondary),92.4,Above 85%,Not at risk,0
+B (secondary),71.9,70-85%,Not at risk,0
+B (secondary),77.7,70-85%,Not at risk,0
+B (secondary),87.1,Above 85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),91.7,Above 85%,At risk,1
+B (secondary),74.6,70-85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),85.6,Above 85%,Not at risk,0
+B (secondary),73.1,70-85%,Not at risk,0
+B (secondary),70.8,70-85%,Not at risk,0
+B (secondary),90.4,Above 85%,Not at risk,0
+B (secondary),80.5,70-85%,At risk,1
+B (secondary),91.4,Above 85%,Not at risk,0
+B (secondary),91.3,Above 85%,Not at risk,0
+B (secondary),94.1,Above 85%,Not at risk,0
+B (secondary),74.4,70-85%,Not at risk,0
+B (secondary),89.2,Above 85%,Not at risk,0
+B (secondary),75.2,70-85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),85.3,Above 85%,Not at risk,0
+B (secondary),76.3,70-85%,Not at risk,0
+B (secondary),77.8,70-85%,Not at risk,0
+B (secondary),89.0,Above 85%,Not at risk,0
+B (secondary),86.7,Above 85%,Not at risk,0
+B (secondary),85.6,Above 85%,Not at risk,0
+B (secondary),84.3,70-85%,Not at risk,0
+B (secondary),79.6,70-85%,Not at risk,0
+B (secondary),89.5,Above 85%,Not at risk,0
+B (secondary),93.5,Above 85%,Not at risk,0
+B (secondary),75.6,70-85%,Not at risk,0
+B (secondary),93.5,Above 85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),81.7,70-85%,Not at risk,0
+B (secondary),86.4,Above 85%,At risk,1
+B (secondary),83.7,70-85%,Not at risk,0
+B (secondary),84.7,70-85%,Not at risk,0
+B (secondary),82.0,70-85%,At risk,1
+B (secondary),77.7,70-85%,Not at risk,0
+B (secondary),90.0,Above 85%,Not at risk,0
+B (secondary),88.4,Above 85%,Not at risk,0
+B (secondary),78.0,70-85%,Not at risk,0
+B (secondary),81.4,70-85%,Not at risk,0
+B (secondary),88.2,Above 85%,Not at risk,0
+B (secondary),81.2,70-85%,Not at risk,0
+B (secondary),74.2,70-85%,Not at risk,0
+B (secondary),82.8,70-85%,Not at risk,0
+B (secondary),91.7,Above 85%,Not at risk,0
+B (secondary),90.3,Above 85%,Not at risk,0
+B (secondary),90.2,Above 85%,Not at risk,0
+B (secondary),69.1,50-70%,At risk,1
+B (secondary),84.5,70-85%,Not at risk,0
+B (secondary),57.2,50-70%,Not at risk,0
+B (secondary),78.5,70-85%,Not at risk,0
+B (secondary),84.6,70-85%,Not at risk,0
+B (secondary),75.7,70-85%,Not at risk,0
+B (secondary),64.0,50-70%,Not at risk,0
+B (secondary),80.8,70-85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),97.0,Above 85%,Not at risk,0
+B (secondary),84.3,70-85%,Not at risk,0
+B (secondary),94.0,Above 85%,Not at risk,0
+B (secondary),75.5,70-85%,Not at risk,0
+B (secondary),82.5,70-85%,Not at risk,0
+B (secondary),71.9,70-85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),78.9,70-85%,Not at risk,0
+B (secondary),94.6,Above 85%,Not at risk,0
+B (secondary),81.0,70-85%,Not at risk,0
+B (secondary),68.5,50-70%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),62.4,50-70%,Not at risk,0
+B (secondary),89.8,Above 85%,Not at risk,0
+B (secondary),91.7,Above 85%,At risk,1
+B (secondary),74.4,70-85%,Not at risk,0
+B (secondary),88.5,Above 85%,Not at risk,0
+B (secondary),93.9,Above 85%,Not at risk,0
+B (secondary),89.9,Above 85%,Not at risk,0
+B (secondary),82.3,70-85%,Not at risk,0
+B (secondary),91.2,Above 85%,Not at risk,0
+B (secondary),79.3,70-85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),82.9,70-85%,Not at risk,0
+B (secondary),81.4,70-85%,Not at risk,0
+B (secondary),99.6,Above 85%,Not at risk,0
+B (secondary),91.5,Above 85%,At risk,1
+B (secondary),68.4,50-70%,Not at risk,0
+B (secondary),95.3,Above 85%,Not at risk,0
+B (secondary),71.3,70-85%,Not at risk,0
+B (secondary),69.9,50-70%,Not at risk,0
+B (secondary),92.9,Above 85%,Not at risk,0
+B (secondary),64.5,50-70%,Not at risk,0
+B (secondary),98.2,Above 85%,Not at risk,0
+B (secondary),96.0,Above 85%,Not at risk,0
+B (secondary),91.7,Above 85%,Not at risk,0
+B (secondary),93.2,Above 85%,Not at risk,0
+B (secondary),80.8,70-85%,Not at risk,0
+B (secondary),88.7,Above 85%,At risk,1
+B (secondary),91.4,Above 85%,Not at risk,0
+B (secondary),88.2,Above 85%,Not at risk,0
+B (secondary),95.6,Above 85%,Not at risk,0
+B (secondary),86.5,Above 85%,Not at risk,0
+B (secondary),60.0,50-70%,Not at risk,0
+B (secondary),94.4,Above 85%,Not at risk,0
+B (secondary),70.4,70-85%,Not at risk,0
+B (secondary),71.4,70-85%,Not at risk,0
+B (secondary),70.8,70-85%,Not at risk,0
+B (secondary),80.8,70-85%,Not at risk,0
+B (secondary),88.3,Above 85%,Not at risk,0
+B (secondary),75.0,70-85%,Not at risk,0
+B (secondary),64.5,50-70%,Not at risk,0
+B (secondary),85.6,Above 85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),87.8,Above 85%,Not at risk,0
+B (secondary),82.2,70-85%,Not at risk,0
+B (secondary),64.4,50-70%,Not at risk,0
+B (secondary),93.4,Above 85%,Not at risk,0
+B (secondary),77.3,70-85%,Not at risk,0
+B (secondary),79.1,70-85%,Not at risk,0
+B (secondary),78.4,70-85%,Not at risk,0
+B (secondary),80.7,70-85%,Not at risk,0
+B (secondary),69.5,50-70%,Not at risk,0
+B (secondary),96.7,Above 85%,Not at risk,0
+B (secondary),81.7,70-85%,Not at risk,0
+B (secondary),92.9,Above 85%,Not at risk,0
+B (secondary),80.6,70-85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),88.0,Above 85%,Not at risk,0
+B (secondary),89.2,Above 85%,Not at risk,0
+B (secondary),63.8,50-70%,Not at risk,0
+B (secondary),86.9,Above 85%,Not at risk,0
+B (secondary),82.0,70-85%,Not at risk,0
+B (secondary),76.3,70-85%,Not at risk,0
+B (secondary),73.8,70-85%,Not at risk,0
+B (secondary),78.6,70-85%,Not at risk,0
+B (secondary),83.8,70-85%,Not at risk,0
+B (secondary),81.4,70-85%,Not at risk,0
+B (secondary),88.7,Above 85%,Not at risk,0
+B (secondary),78.6,70-85%,Not at risk,0
+B (secondary),92.1,Above 85%,Not at risk,0
+B (secondary),95.3,Above 85%,Not at risk,0
+B (secondary),91.1,Above 85%,Not at risk,0
+B (secondary),86.2,Above 85%,Not at risk,0
+B (secondary),83.8,70-85%,Not at risk,0
+B (secondary),93.9,Above 85%,Not at risk,0
+B (secondary),91.7,Above 85%,Not at risk,0
+B (secondary),84.4,70-85%,Not at risk,0
+B (secondary),80.6,70-85%,Not at risk,0
+B (secondary),89.0,Above 85%,Not at risk,0
+B (secondary),84.4,70-85%,Not at risk,0
+B (secondary),88.2,Above 85%,Not at risk,0
+B (secondary),78.9,70-85%,Not at risk,0
+B (secondary),75.0,70-85%,Not at risk,0
+B (secondary),91.5,Above 85%,Not at risk,0
+B (secondary),69.9,50-70%,Not at risk,0
+B (secondary),95.8,Above 85%,Not at risk,0
+B (secondary),90.6,Above 85%,Not at risk,0
+B (secondary),94.1,Above 85%,Not at risk,0
+B (secondary),97.7,Above 85%,Not at risk,0
+B (secondary),86.4,Above 85%,Not at risk,0
+B (secondary),82.6,70-85%,Not at risk,0
+B (secondary),73.6,70-85%,Not at risk,0
+B (secondary),81.7,70-85%,Not at risk,0
+B (secondary),72.5,70-85%,Not at risk,0
+B (secondary),73.2,70-85%,Not at risk,0
+B (secondary),74.1,70-85%,Not at risk,0
+B (secondary),93.0,Above 85%,Not at risk,0
+B (secondary),83.6,70-85%,Not at risk,0
+B (secondary),86.6,Above 85%,Not at risk,0
+B (secondary),77.6,70-85%,Not at risk,0
+B (secondary),72.1,70-85%,Not at risk,0
+B (secondary),79.2,70-85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),90.1,Above 85%,Not at risk,0
+B (secondary),95.7,Above 85%,Not at risk,0
+B (secondary),85.8,Above 85%,Not at risk,0
+B (secondary),84.2,70-85%,Not at risk,0
+B (secondary),85.6,Above 85%,Not at risk,0
+B (secondary),57.4,50-70%,Not at risk,0
+B (secondary),93.4,Above 85%,At risk,1
+B (secondary),64.0,50-70%,Not at risk,0
+B (secondary),81.8,70-85%,Not at risk,0
+B (secondary),65.4,50-70%,Not at risk,0
+B (secondary),91.4,Above 85%,Not at risk,0
+B (secondary),79.3,70-85%,Not at risk,0
+B (secondary),97.8,Above 85%,Not at risk,0
+B (secondary),86.7,Above 85%,Not at risk,0
+B (secondary),92.7,Above 85%,Not at risk,0
+B (secondary),78.9,70-85%,Not at risk,0
+B (secondary),68.0,50-70%,Not at risk,0
+B (secondary),92.7,Above 85%,Not at risk,0
+B (secondary),81.2,70-85%,Not at risk,0
+B (secondary),98.9,Above 85%,Not at risk,0
+B (secondary),64.2,50-70%,Not at risk,0
+B (secondary),76.0,70-85%,Not at risk,0
+B (secondary),59.9,50-70%,Not at risk,0
+B (secondary),79.4,70-85%,Not at risk,0
+B (secondary),89.3,Above 85%,Not at risk,0
+B (secondary),83.7,70-85%,Not at risk,0
+B (secondary),88.9,Above 85%,Not at risk,0
+B (secondary),86.2,Above 85%,Not at risk,0
+B (secondary),68.7,50-70%,Not at risk,0
+B (secondary),87.9,Above 85%,Not at risk,0
+B (secondary),94.0,Above 85%,Not at risk,0
+B (secondary),79.6,70-85%,Not at risk,0
+B (secondary),85.9,Above 85%,Not at risk,0
+B (secondary),75.0,70-85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),67.9,50-70%,Not at risk,0
+B (secondary),77.4,70-85%,Not at risk,0
+B (secondary),85.8,Above 85%,Not at risk,0
+B (secondary),90.5,Above 85%,Not at risk,0
+B (secondary),77.8,70-85%,Not at risk,0
+B (secondary),79.8,70-85%,Not at risk,0
+B (secondary),89.2,Above 85%,Not at risk,0
+B (secondary),69.4,50-70%,Not at risk,0
+B (secondary),91.0,Above 85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),88.9,Above 85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),79.4,70-85%,Not at risk,0
+B (secondary),96.1,Above 85%,Not at risk,0
+B (secondary),90.0,Above 85%,Not at risk,0
+B (secondary),77.9,70-85%,Not at risk,0
+B (secondary),83.3,70-85%,Not at risk,0
+B (secondary),82.0,70-85%,Not at risk,0
+B (secondary),75.6,70-85%,Not at risk,0
+B (secondary),95.7,Above 85%,Not at risk,0
+B (secondary),75.4,70-85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),79.6,70-85%,Not at risk,0
+B (secondary),87.5,Above 85%,Not at risk,0
+B (secondary),76.0,70-85%,Not at risk,0
+B (secondary),92.6,Above 85%,Not at risk,0
+B (secondary),77.4,70-85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),96.7,Above 85%,Not at risk,0
+B (secondary),97.1,Above 85%,Not at risk,0
+B (secondary),88.1,Above 85%,Not at risk,0
+B (secondary),86.1,Above 85%,Not at risk,0
+B (secondary),95.3,Above 85%,Not at risk,0
+B (secondary),94.2,Above 85%,Not at risk,0
+B (secondary),75.6,70-85%,Not at risk,0
+B (secondary),84.4,70-85%,Not at risk,0
+B (secondary),81.8,70-85%,Not at risk,0
+B (secondary),89.6,Above 85%,Not at risk,0
+B (secondary),96.5,Above 85%,Not at risk,0
+B (secondary),85.6,Above 85%,Not at risk,0
+B (secondary),87.6,Above 85%,Not at risk,0
+B (secondary),96.3,Above 85%,Not at risk,0
+B (secondary),70.0,50-70%,Not at risk,0
+B (secondary),73.1,70-85%,Not at risk,0
+B (secondary),97.6,Above 85%,Not at risk,0
+B (secondary),79.9,70-85%,Not at risk,0
+B (secondary),92.7,Above 85%,Not at risk,0
+B (secondary),78.7,70-85%,Not at risk,0
+B (secondary),93.6,Above 85%,Not at risk,0
+B (secondary),84.2,70-85%,Not at risk,0
+B (secondary),76.6,70-85%,Not at risk,0
+B (secondary),96.5,Above 85%,Not at risk,0
+B (secondary),89.4,Above 85%,Not at risk,0
+B (secondary),79.2,70-85%,Not at risk,0
+B (secondary),87.4,Above 85%,Not at risk,0
+B (secondary),71.1,70-85%,Not at risk,0
+B (secondary),78.6,70-85%,Not at risk,0
+B (secondary),72.3,70-85%,Not at risk,0
+B (secondary),87.1,Above 85%,Not at risk,0
+B (secondary),72.9,70-85%,Not at risk,0
+B (secondary),73.1,70-85%,Not at risk,0
+B (secondary),87.0,Above 85%,Not at risk,0
+B (secondary),79.6,70-85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),78.9,70-85%,Not at risk,0
+B (secondary),81.8,70-85%,Not at risk,0
+B (secondary),77.0,70-85%,Not at risk,0
+B (secondary),81.7,70-85%,Not at risk,0
+B (secondary),83.5,70-85%,Not at risk,0
+B (secondary),73.8,70-85%,Not at risk,0
+B (secondary),78.7,70-85%,Not at risk,0
+B (secondary),75.6,70-85%,Not at risk,0
+B (secondary),87.4,Above 85%,Not at risk,0
+B (secondary),84.3,70-85%,Not at risk,0
+B (secondary),69.5,50-70%,Not at risk,0
+B (secondary),90.4,Above 85%,Not at risk,0
+B (secondary),80.7,70-85%,Not at risk,0
+B (secondary),90.0,Above 85%,Not at risk,0
+B (secondary),76.5,70-85%,Not at risk,0
+B (secondary),92.1,Above 85%,Not at risk,0
+B (secondary),89.3,Above 85%,Not at risk,0
+B (secondary),80.2,70-85%,Not at risk,0
+B (secondary),93.1,Above 85%,Not at risk,0
+B (secondary),69.1,50-70%,Not at risk,0
+B (secondary),88.0,Above 85%,Not at risk,0
+B (secondary),85.7,Above 85%,Not at risk,0
+B (secondary),60.5,50-70%,Not at risk,0
+B (secondary),91.5,Above 85%,Not at risk,0
+B (secondary),67.1,50-70%,At risk,1
+B (secondary),86.7,Above 85%,At risk,1
+B (secondary),87.1,Above 85%,Not at risk,0
+B (secondary),93.0,Above 85%,Not at risk,0
+B (secondary),87.5,Above 85%,Not at risk,0
+B (secondary),68.2,50-70%,Not at risk,0
+B (secondary),98.6,Above 85%,Not at risk,0
+B (secondary),80.3,70-85%,Not at risk,0
+B (secondary),90.4,Above 85%,At risk,1
+B (secondary),76.8,70-85%,Not at risk,0
+B (secondary),70.4,70-85%,Not at risk,0
+B (secondary),99.1,Above 85%,Not at risk,0
+B (secondary),87.7,Above 85%,Not at risk,0
+B (secondary),88.7,Above 85%,Not at risk,0
+B (secondary),97.0,Above 85%,Not at risk,0
+B (secondary),80.3,70-85%,Not at risk,0
+B (secondary),83.8,70-85%,Not at risk,0
+B (secondary),83.1,70-85%,Not at risk,0
+B (secondary),91.7,Above 85%,Not at risk,0
+B (secondary),78.2,70-85%,Not at risk,0
+B (secondary),70.0,50-70%,Not at risk,0
+B (secondary),92.8,Above 85%,Not at risk,0
+B (secondary),82.7,70-85%,Not at risk,0
+B (secondary),68.9,50-70%,Not at risk,0
+B (secondary),97.6,Above 85%,Not at risk,0
+B (secondary),91.0,Above 85%,Not at risk,0
+B (secondary),70.0,50-70%,Not at risk,0
+B (secondary),91.5,Above 85%,Not at risk,0
+B (secondary),70.3,70-85%,Not at risk,0
+B (secondary),95.4,Above 85%,Not at risk,0
+B (secondary),90.9,Above 85%,Not at risk,0
+B (secondary),80.8,70-85%,Not at risk,0
+B (secondary),96.9,Above 85%,Not at risk,0
+B (secondary),80.3,70-85%,Not at risk,0
+B (secondary),81.8,70-85%,At risk,1
+B (secondary),87.4,Above 85%,Not at risk,0
+B (secondary),75.3,70-85%,Not at risk,0
+B (secondary),82.1,70-85%,Not at risk,0
+B (secondary),91.3,Above 85%,Not at risk,0
+B (secondary),94.7,Above 85%,Not at risk,0
+B (secondary),87.2,Above 85%,Not at risk,0
+B (secondary),75.6,70-85%,Not at risk,0
+B (secondary),79.5,70-85%,Not at risk,0
+B (secondary),77.2,70-85%,Not at risk,0
+B (secondary),67.7,50-70%,Not at risk,0
+B (secondary),95.6,Above 85%,At risk,1
+B (secondary),68.8,50-70%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),78.1,70-85%,Not at risk,0
+B (secondary),69.7,50-70%,Not at risk,0
+B (secondary),75.1,70-85%,Not at risk,0
+B (secondary),95.3,Above 85%,Not at risk,0
+B (secondary),86.3,Above 85%,Not at risk,0
+B (secondary),85.0,70-85%,Not at risk,0
+B (secondary),88.4,Above 85%,Not at risk,0
+B (secondary),86.6,Above 85%,Not at risk,0
+B (secondary),80.5,70-85%,Not at risk,0
+B (secondary),77.9,70-85%,Not at risk,0
+B (secondary),50.0,Below 50%,Not at risk,0
+B (secondary),97.8,Above 85%,Not at risk,0
+B (secondary),92.4,Above 85%,Not at risk,0
+B (secondary),77.6,70-85%,Not at risk,0
+B (secondary),94.0,Above 85%,Not at risk,0
+B (secondary),72.5,70-85%,Not at risk,0
+B (secondary),92.9,Above 85%,Not at risk,0
+B (secondary),70.2,70-85%,Not at risk,0
+B (secondary),76.0,70-85%,Not at risk,0
+B (secondary),86.8,Above 85%,Not at risk,0
+B (secondary),70.7,70-85%,Not at risk,0
+B (secondary),96.1,Above 85%,Not at risk,0
+B (secondary),93.3,Above 85%,Not at risk,0
+B (secondary),91.3,Above 85%,Not at risk,0
+B (secondary),87.4,Above 85%,Not at risk,0
+B (secondary),93.2,Above 85%,Not at risk,0
+B (secondary),83.7,70-85%,Not at risk,0
+B (secondary),70.4,70-85%,Not at risk,0
+B (secondary),72.9,70-85%,Not at risk,0
+B (secondary),89.8,Above 85%,Not at risk,0
+B (secondary),97.8,Above 85%,Not at risk,0
+B (secondary),92.7,Above 85%,Not at risk,0
+B (secondary),67.6,50-70%,Not at risk,0
+B (secondary),88.6,Above 85%,Not at risk,0
+B (secondary),83.8,70-85%,Not at risk,0
+B (secondary),99.6,Above 85%,Not at risk,0
+B (secondary),79.5,70-85%,Not at risk,0
+B (secondary),88.9,Above 85%,Not at risk,0
+B (secondary),94.2,Above 85%,Not at risk,0
+B (secondary),73.6,70-85%,Not at risk,0
+B (secondary),68.3,50-70%,Not at risk,0
+B (secondary),70.8,70-85%,Not at risk,0
+B (secondary),58.4,50-70%,Not at risk,0
+B (secondary),80.3,70-85%,Not at risk,0
+B (secondary),93.7,Above 85%,Not at risk,0
+B (secondary),82.9,70-85%,Not at risk,0
+B (secondary),93.7,Above 85%,Not at risk,0
+B (secondary),77.8,70-85%,Not at risk,0
+B (secondary),78.3,70-85%,Not at risk,0
+B (secondary),65.5,50-70%,Not at risk,0
+B (secondary),85.6,Above 85%,Not at risk,0
+B (secondary),85.1,Above 85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),86.0,Above 85%,Not at risk,0
+B (secondary),75.9,70-85%,Not at risk,0
+B (secondary),70.0,50-70%,Not at risk,0
+B (secondary),89.1,Above 85%,Not at risk,0
+B (secondary),96.1,Above 85%,Not at risk,0
+B (secondary),86.3,Above 85%,Not at risk,0
+B (secondary),88.3,Above 85%,Not at risk,0
+B (secondary),82.3,70-85%,Not at risk,0
+B (secondary),77.2,70-85%,Not at risk,0
+B (secondary),83.5,70-85%,Not at risk,0
+B (secondary),94.2,Above 85%,Not at risk,0
+B (secondary),95.0,Above 85%,Not at risk,0
+B (secondary),78.0,70-85%,Not at risk,0
+B (secondary),96.3,Above 85%,Not at risk,0
+B (secondary),89.6,Above 85%,At risk,1
+B (secondary),82.1,70-85%,Not at risk,0
+B (secondary),84.9,70-85%,Not at risk,0
+B (secondary),79.9,70-85%,Not at risk,0
+B (secondary),88.9,Above 85%,Not at risk,0
+B (secondary),79.7,70-85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),79.4,70-85%,Not at risk,0
+B (secondary),74.9,70-85%,Not at risk,0
+B (secondary),87.7,Above 85%,Not at risk,0
+B (secondary),94.7,Above 85%,Not at risk,0
+B (secondary),82.1,70-85%,Not at risk,0
+B (secondary),85.4,Above 85%,Not at risk,0
+B (secondary),83.7,70-85%,Not at risk,0
+B (secondary),83.7,70-85%,Not at risk,0
+B (secondary),77.5,70-85%,Not at risk,0
+B (secondary),75.9,70-85%,At risk,1
+B (secondary),79.1,70-85%,Not at risk,0
+B (secondary),73.1,70-85%,Not at risk,0
+B (secondary),76.5,70-85%,Not at risk,0
+B (secondary),86.6,Above 85%,Not at risk,0
+B (secondary),84.9,70-85%,Not at risk,0
+B (secondary),74.3,70-85%,Not at risk,0
+B (secondary),77.4,70-85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),86.2,Above 85%,Not at risk,0
+B (secondary),81.1,70-85%,Not at risk,0
+B (secondary),94.7,Above 85%,Not at risk,0
+B (secondary),86.2,Above 85%,Not at risk,0
+B (secondary),82.3,70-85%,At risk,1
+B (secondary),71.2,70-85%,Not at risk,0
+B (secondary),88.1,Above 85%,Not at risk,0
+B (secondary),87.2,Above 85%,Not at risk,0
+B (secondary),67.5,50-70%,Not at risk,0
+B (secondary),77.1,70-85%,Not at risk,0
+B (secondary),90.6,Above 85%,Not at risk,0
+B (secondary),62.3,50-70%,Not at risk,0
+B (secondary),97.5,Above 85%,Not at risk,0
+B (secondary),78.2,70-85%,Not at risk,0
+B (secondary),78.7,70-85%,Not at risk,0
+B (secondary),95.4,Above 85%,Not at risk,0
+B (secondary),76.1,70-85%,Not at risk,0
+B (secondary),80.6,70-85%,Not at risk,0
+B (secondary),83.3,70-85%,Not at risk,0
+B (secondary),94.9,Above 85%,Not at risk,0
+B (secondary),88.8,Above 85%,Not at risk,0
+B (secondary),64.1,50-70%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),69.9,50-70%,Not at risk,0
+B (secondary),91.3,Above 85%,Not at risk,0
+B (secondary),95.3,Above 85%,At risk,1
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),68.2,50-70%,Not at risk,0
+B (secondary),77.3,70-85%,Not at risk,0
+B (secondary),84.2,70-85%,Not at risk,0
+B (secondary),76.6,70-85%,Not at risk,0
+B (secondary),85.9,Above 85%,Not at risk,0
+B (secondary),74.6,70-85%,Not at risk,0
+B (secondary),87.2,Above 85%,Not at risk,0
+B (secondary),85.3,Above 85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),92.6,Above 85%,Not at risk,0
+B (secondary),95.9,Above 85%,Not at risk,0
+B (secondary),88.6,Above 85%,Not at risk,0
+B (secondary),80.4,70-85%,Not at risk,0
+B (secondary),90.5,Above 85%,Not at risk,0
+B (secondary),80.2,70-85%,Not at risk,0
+B (secondary),75.1,70-85%,Not at risk,0
+B (secondary),89.7,Above 85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),91.0,Above 85%,Not at risk,0
+B (secondary),99.3,Above 85%,Not at risk,0
+B (secondary),90.7,Above 85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),97.4,Above 85%,Not at risk,0
+B (secondary),98.5,Above 85%,Not at risk,0
+B (secondary),87.0,Above 85%,Not at risk,0
+B (secondary),91.1,Above 85%,Not at risk,0
+B (secondary),82.7,70-85%,Not at risk,0
+B (secondary),76.6,70-85%,Not at risk,0
+B (secondary),80.0,70-85%,Not at risk,0
+B (secondary),81.9,70-85%,Not at risk,0
+B (secondary),76.8,70-85%,Not at risk,0
+B (secondary),85.0,70-85%,Not at risk,0
+B (secondary),97.4,Above 85%,Not at risk,0
+B (secondary),84.8,70-85%,Not at risk,0
+B (secondary),63.2,50-70%,Not at risk,0
+B (secondary),79.3,70-85%,Not at risk,0
+B (secondary),83.5,70-85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),78.2,70-85%,Not at risk,0
+B (secondary),77.6,70-85%,Not at risk,0
+B (secondary),83.4,70-85%,Not at risk,0
+B (secondary),88.0,Above 85%,Not at risk,0
+B (secondary),72.8,70-85%,Not at risk,0
+B (secondary),88.2,Above 85%,Not at risk,0
+B (secondary),89.2,Above 85%,Not at risk,0
+B (secondary),78.1,70-85%,Not at risk,0
+B (secondary),88.2,Above 85%,Not at risk,0
+B (secondary),73.5,70-85%,Not at risk,0
+B (secondary),76.9,70-85%,At risk,1
+B (secondary),77.9,70-85%,Not at risk,0
+B (secondary),78.6,70-85%,Not at risk,0
+B (secondary),82.3,70-85%,Not at risk,0
+B (secondary),80.9,70-85%,At risk,1
+B (secondary),74.2,70-85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),81.4,70-85%,Not at risk,0
+B (secondary),82.3,70-85%,Not at risk,0
+B (secondary),99.0,Above 85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),85.9,Above 85%,Not at risk,0
+B (secondary),90.9,Above 85%,Not at risk,0
+B (secondary),81.8,70-85%,At risk,1
+B (secondary),75.3,70-85%,Not at risk,0
+B (secondary),84.1,70-85%,Not at risk,0
+B (secondary),85.3,Above 85%,At risk,1
+B (secondary),85.9,Above 85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),83.0,70-85%,Not at risk,0
+B (secondary),73.6,70-85%,Not at risk,0
+B (secondary),76.3,70-85%,Not at risk,0
+B (secondary),82.6,70-85%,Not at risk,0
+B (secondary),64.2,50-70%,Not at risk,0
+B (secondary),63.0,50-70%,Not at risk,0
+B (secondary),84.6,70-85%,Not at risk,0
+B (secondary),82.9,70-85%,Not at risk,0
+B (secondary),80.8,70-85%,Not at risk,0
+B (secondary),82.7,70-85%,Not at risk,0
+B (secondary),84.6,70-85%,Not at risk,0
+B (secondary),68.9,50-70%,Not at risk,0
+B (secondary),81.5,70-85%,Not at risk,0
+B (secondary),86.5,Above 85%,Not at risk,0
+B (secondary),90.9,Above 85%,Not at risk,0
+B (secondary),72.3,70-85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),83.4,70-85%,Not at risk,0
+B (secondary),83.5,70-85%,Not at risk,0
+B (secondary),99.4,Above 85%,Not at risk,0
+B (secondary),70.6,70-85%,Not at risk,0
+B (secondary),81.3,70-85%,Not at risk,0
+B (secondary),90.2,Above 85%,Not at risk,0
+B (secondary),74.7,70-85%,Not at risk,0
+B (secondary),78.3,70-85%,Not at risk,0
+B (secondary),76.5,70-85%,Not at risk,0
+B (secondary),90.0,Above 85%,Not at risk,0
+B (secondary),92.3,Above 85%,Not at risk,0
+B (secondary),78.0,70-85%,At risk,1
+B (secondary),74.9,70-85%,Not at risk,0
+B (secondary),89.1,Above 85%,Not at risk,0
+B (secondary),85.3,Above 85%,Not at risk,0
+B (secondary),91.9,Above 85%,Not at risk,0
+B (secondary),85.5,Above 85%,Not at risk,0
+B (secondary),65.4,50-70%,Not at risk,0
+B (secondary),88.3,Above 85%,Not at risk,0
+B (secondary),86.1,Above 85%,Not at risk,0
+B (secondary),88.2,Above 85%,Not at risk,0
+B (secondary),93.1,Above 85%,Not at risk,0
+B (secondary),94.5,Above 85%,Not at risk,0
+B (secondary),85.0,70-85%,Not at risk,0
+B (secondary),92.5,Above 85%,Not at risk,0
+B (secondary),76.8,70-85%,Not at risk,0
+B (secondary),69.4,50-70%,Not at risk,0
+B (secondary),76.2,70-85%,At risk,1
+B (secondary),64.0,50-70%,Not at risk,0
+B (secondary),82.2,70-85%,Not at risk,0
+B (secondary),71.8,70-85%,Not at risk,0
+B (secondary),88.2,Above 85%,Not at risk,0
+B (secondary),71.5,70-85%,Not at risk,0
+B (secondary),68.5,50-70%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),82.7,70-85%,Not at risk,0
+B (secondary),82.2,70-85%,Not at risk,0
+B (secondary),95.7,Above 85%,Not at risk,0
+B (secondary),66.8,50-70%,Not at risk,0
+B (secondary),69.8,50-70%,Not at risk,0
+B (secondary),79.5,70-85%,Not at risk,0
+B (secondary),81.3,70-85%,Not at risk,0
+B (secondary),89.7,Above 85%,Not at risk,0
+B (secondary),72.0,70-85%,Not at risk,0
+B (secondary),87.3,Above 85%,Not at risk,0
+B (secondary),71.2,70-85%,Not at risk,0
+B (secondary),82.5,70-85%,Not at risk,0
+B (secondary),93.1,Above 85%,Not at risk,0
+B (secondary),64.8,50-70%,At risk,1
+B (secondary),77.9,70-85%,Not at risk,0
+B (secondary),66.0,50-70%,Not at risk,0
+B (secondary),94.7,Above 85%,Not at risk,0
+B (secondary),88.1,Above 85%,Not at risk,0
+B (secondary),89.2,Above 85%,Not at risk,0
+B (secondary),92.0,Above 85%,Not at risk,0
+B (secondary),78.4,70-85%,Not at risk,0
+B (secondary),74.4,70-85%,Not at risk,0
+B (secondary),91.8,Above 85%,Not at risk,0
+B (secondary),71.8,70-85%,Not at risk,0
+B (secondary),82.3,70-85%,Not at risk,0
+B (secondary),84.7,70-85%,Not at risk,0
+B (secondary),68.3,50-70%,Not at risk,0
+B (secondary),94.4,Above 85%,Not at risk,0
+B (secondary),89.1,Above 85%,Not at risk,0
+B (secondary),66.3,50-70%,Not at risk,0
+B (secondary),85.1,Above 85%,Not at risk,0
+B (secondary),87.9,Above 85%,At risk,1
+B (secondary),93.4,Above 85%,Not at risk,0
+B (secondary),90.3,Above 85%,Not at risk,0
+B (secondary),74.2,70-85%,Not at risk,0
+B (secondary),61.9,50-70%,Not at risk,0
+B (secondary),97.3,Above 85%,Not at risk,0
+B (secondary),73.7,70-85%,At risk,1
+B (secondary),73.7,70-85%,At risk,1
+B (secondary),81.0,70-85%,Not at risk,0
+B (secondary),80.3,70-85%,Not at risk,0
+B (secondary),72.3,70-85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),66.1,50-70%,Not at risk,0
+B (secondary),73.5,70-85%,Not at risk,0
+B (secondary),71.4,70-85%,Not at risk,0
+B (secondary),85.2,Above 85%,Not at risk,0
+B (secondary),86.4,Above 85%,Not at risk,0
+B (secondary),85.0,70-85%,Not at risk,0
+B (secondary),88.9,Above 85%,Not at risk,0
+B (secondary),58.9,50-70%,Not at risk,0
+B (secondary),89.7,Above 85%,Not at risk,0
+B (secondary),91.0,Above 85%,Not at risk,0
+B (secondary),98.0,Above 85%,Not at risk,0
+B (secondary),62.9,50-70%,Not at risk,0
+B (secondary),86.9,Above 85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),86.4,Above 85%,Not at risk,0
+B (secondary),94.6,Above 85%,Not at risk,0
+B (secondary),92.7,Above 85%,Not at risk,0
+B (secondary),90.5,Above 85%,Not at risk,0
+B (secondary),76.4,70-85%,Not at risk,0
+B (secondary),77.8,70-85%,Not at risk,0
+B (secondary),88.4,Above 85%,Not at risk,0
+B (secondary),82.8,70-85%,Not at risk,0
+B (secondary),81.1,70-85%,Not at risk,0
+B (secondary),80.9,70-85%,Not at risk,0
+B (secondary),78.1,70-85%,Not at risk,0
+B (secondary),90.1,Above 85%,Not at risk,0
+B (secondary),86.1,Above 85%,Not at risk,0
+B (secondary),94.2,Above 85%,Not at risk,0
+B (secondary),93.6,Above 85%,Not at risk,0
+B (secondary),86.4,Above 85%,At risk,1
+B (secondary),86.2,Above 85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),78.6,70-85%,Not at risk,0
+B (secondary),76.5,70-85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),77.1,70-85%,Not at risk,0
+B (secondary),89.4,Above 85%,Not at risk,0
+B (secondary),76.6,70-85%,Not at risk,0
+B (secondary),87.9,Above 85%,Not at risk,0
+B (secondary),85.1,Above 85%,Not at risk,0
+B (secondary),91.2,Above 85%,Not at risk,0
+B (secondary),81.3,70-85%,Not at risk,0
+B (secondary),93.5,Above 85%,Not at risk,0
+B (secondary),60.6,50-70%,Not at risk,0
+B (secondary),81.6,70-85%,Not at risk,0
+B (secondary),79.2,70-85%,Not at risk,0
+B (secondary),83.5,70-85%,Not at risk,0
+B (secondary),70.8,70-85%,Not at risk,0
+B (secondary),73.8,70-85%,Not at risk,0
+B (secondary),69.4,50-70%,Not at risk,0
+B (secondary),87.1,Above 85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),75.2,70-85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),84.1,70-85%,Not at risk,0
+B (secondary),80.0,70-85%,Not at risk,0
+B (secondary),81.2,70-85%,Not at risk,0
+B (secondary),96.3,Above 85%,Not at risk,0
+B (secondary),83.4,70-85%,Not at risk,0
+B (secondary),92.8,Above 85%,Not at risk,0
+B (secondary),86.3,Above 85%,Not at risk,0
+B (secondary),81.3,70-85%,Not at risk,0
+B (secondary),80.5,70-85%,Not at risk,0
+B (secondary),74.7,70-85%,Not at risk,0
+B (secondary),81.8,70-85%,At risk,1
+B (secondary),85.2,Above 85%,Not at risk,0
+B (secondary),89.7,Above 85%,Not at risk,0
+B (secondary),91.1,Above 85%,Not at risk,0
+B (secondary),85.1,Above 85%,Not at risk,0
+B (secondary),78.9,70-85%,Not at risk,0
+B (secondary),96.4,Above 85%,Not at risk,0
+B (secondary),77.4,70-85%,Not at risk,0
+B (secondary),68.5,50-70%,Not at risk,0
+B (secondary),85.2,Above 85%,Not at risk,0
+B (secondary),63.7,50-70%,Not at risk,0
+B (secondary),98.2,Above 85%,Not at risk,0
+B (secondary),88.6,Above 85%,Not at risk,0
+B (secondary),93.8,Above 85%,Not at risk,0
+B (secondary),87.2,Above 85%,Not at risk,0
+B (secondary),89.6,Above 85%,Not at risk,0
+B (secondary),73.7,70-85%,Not at risk,0
+B (secondary),89.6,Above 85%,Not at risk,0
+B (secondary),62.7,50-70%,Not at risk,0
+B (secondary),91.0,Above 85%,Not at risk,0
+B (secondary),83.3,70-85%,Not at risk,0
+B (secondary),75.1,70-85%,At risk,1
+B (secondary),80.4,70-85%,Not at risk,0
+B (secondary),84.4,70-85%,Not at risk,0
+B (secondary),88.2,Above 85%,Not at risk,0
+B (secondary),79.0,70-85%,Not at risk,0
+B (secondary),97.4,Above 85%,At risk,1
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),75.6,70-85%,Not at risk,0
+B (secondary),70.3,70-85%,Not at risk,0
+B (secondary),76.9,70-85%,Not at risk,0
+B (secondary),84.6,70-85%,Not at risk,0
+B (secondary),91.4,Above 85%,Not at risk,0
+B (secondary),82.9,70-85%,Not at risk,0
+B (secondary),86.5,Above 85%,Not at risk,0
+B (secondary),78.7,70-85%,Not at risk,0
+B (secondary),83.8,70-85%,Not at risk,0
+B (secondary),82.4,70-85%,Not at risk,0
+B (secondary),71.8,70-85%,At risk,1
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),83.0,70-85%,Not at risk,0
+B (secondary),95.5,Above 85%,Not at risk,0
+B (secondary),75.9,70-85%,Not at risk,0
+B (secondary),78.6,70-85%,Not at risk,0
+B (secondary),94.5,Above 85%,Not at risk,0
+B (secondary),77.9,70-85%,Not at risk,0
+B (secondary),92.7,Above 85%,Not at risk,0
+B (secondary),80.8,70-85%,Not at risk,0
+B (secondary),90.2,Above 85%,At risk,1
+B (secondary),72.9,70-85%,Not at risk,0
+B (secondary),83.6,70-85%,Not at risk,0
+B (secondary),95.6,Above 85%,Not at risk,0
+B (secondary),78.0,70-85%,Not at risk,0
+B (secondary),89.4,Above 85%,Not at risk,0
+B (secondary),89.7,Above 85%,Not at risk,0
+B (secondary),87.9,Above 85%,Not at risk,0
+B (secondary),91.0,Above 85%,Not at risk,0
+B (secondary),72.7,70-85%,Not at risk,0
+B (secondary),64.0,50-70%,Not at risk,0
+B (secondary),91.0,Above 85%,Not at risk,0
+B (secondary),87.8,Above 85%,Not at risk,0
+B (secondary),71.3,70-85%,Not at risk,0
+B (secondary),88.4,Above 85%,Not at risk,0
+B (secondary),85.9,Above 85%,Not at risk,0
+B (secondary),83.7,70-85%,Not at risk,0
+B (secondary),84.6,70-85%,Not at risk,0
+B (secondary),83.2,70-85%,Not at risk,0
+B (secondary),75.4,70-85%,Not at risk,0
+B (secondary),79.7,70-85%,Not at risk,0
+B (secondary),83.4,70-85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),99.2,Above 85%,At risk,1
+B (secondary),99.3,Above 85%,At risk,1
+B (secondary),88.8,Above 85%,Not at risk,0
+B (secondary),96.5,Above 85%,Not at risk,0
+B (secondary),56.1,50-70%,Not at risk,0
+B (secondary),76.8,70-85%,Not at risk,0
+B (secondary),84.2,70-85%,Not at risk,0
+B (secondary),90.9,Above 85%,Not at risk,0
+B (secondary),84.2,70-85%,Not at risk,0
+B (secondary),64.4,50-70%,At risk,1
+B (secondary),96.4,Above 85%,Not at risk,0
+B (secondary),74.8,70-85%,Not at risk,0
+B (secondary),84.8,70-85%,Not at risk,0
+B (secondary),87.9,Above 85%,Not at risk,0
+B (secondary),91.8,Above 85%,Not at risk,0
+B (secondary),88.8,Above 85%,Not at risk,0
+B (secondary),82.0,70-85%,Not at risk,0
+B (secondary),76.2,70-85%,Not at risk,0
+B (secondary),89.7,Above 85%,Not at risk,0
+B (secondary),81.2,70-85%,Not at risk,0
+B (secondary),86.5,Above 85%,Not at risk,0
+B (secondary),67.8,50-70%,Not at risk,0
+B (secondary),89.7,Above 85%,Not at risk,0
+B (secondary),81.2,70-85%,Not at risk,0
+B (secondary),74.1,70-85%,Not at risk,0
+B (secondary),90.8,Above 85%,Not at risk,0
+B (secondary),79.7,70-85%,Not at risk,0
+B (secondary),78.7,70-85%,At risk,1
+B (secondary),72.6,70-85%,Not at risk,0
+B (secondary),90.6,Above 85%,At risk,1
+B (secondary),93.1,Above 85%,Not at risk,0
+B (secondary),76.8,70-85%,Not at risk,0
+B (secondary),90.5,Above 85%,Not at risk,0
+B (secondary),69.1,50-70%,Not at risk,0
+B (secondary),83.6,70-85%,Not at risk,0
+B (secondary),79.2,70-85%,Not at risk,0
+B (secondary),78.9,70-85%,Not at risk,0
+B (secondary),97.9,Above 85%,Not at risk,0
+B (secondary),90.3,Above 85%,Not at risk,0
+B (secondary),76.4,70-85%,Not at risk,0
+B (secondary),83.3,70-85%,Not at risk,0
+B (secondary),91.1,Above 85%,Not at risk,0
+B (secondary),91.5,Above 85%,Not at risk,0
+B (secondary),81.6,70-85%,Not at risk,0
+B (secondary),87.7,Above 85%,Not at risk,0
+B (secondary),89.9,Above 85%,Not at risk,0
+B (secondary),70.5,70-85%,Not at risk,0
+B (secondary),79.7,70-85%,Not at risk,0
+B (secondary),90.4,Above 85%,Not at risk,0
+B (secondary),68.1,50-70%,At risk,1
+B (secondary),92.5,Above 85%,Not at risk,0
+B (secondary),81.6,70-85%,Not at risk,0
+B (secondary),82.8,70-85%,Not at risk,0
+B (secondary),79.0,70-85%,Not at risk,0
+B (secondary),74.2,70-85%,Not at risk,0
+B (secondary),92.5,Above 85%,Not at risk,0
+B (secondary),69.9,50-70%,Not at risk,0
+B (secondary),70.7,70-85%,Not at risk,0
+B (secondary),79.9,70-85%,Not at risk,0
+B (secondary),85.9,Above 85%,At risk,1
+B (secondary),93.5,Above 85%,Not at risk,0
+B (secondary),84.8,70-85%,Not at risk,0
+B (secondary),83.5,70-85%,Not at risk,0
+B (secondary),78.6,70-85%,Not at risk,0
+B (secondary),86.1,Above 85%,Not at risk,0
+B (secondary),73.6,70-85%,Not at risk,0
+B (secondary),73.8,70-85%,Not at risk,0
+B (secondary),78.0,70-85%,Not at risk,0
+B (secondary),92.4,Above 85%,Not at risk,0
+B (secondary),79.3,70-85%,Not at risk,0
+B (secondary),75.8,70-85%,Not at risk,0
+B (secondary),93.2,Above 85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),81.3,70-85%,Not at risk,0
+B (secondary),84.8,70-85%,Not at risk,0
+B (secondary),76.6,70-85%,Not at risk,0
+B (secondary),88.1,Above 85%,Not at risk,0
+B (secondary),71.9,70-85%,Not at risk,0
+B (secondary),93.9,Above 85%,Not at risk,0
+B (secondary),80.8,70-85%,Not at risk,0
+B (secondary),81.4,70-85%,Not at risk,0
+B (secondary),79.7,70-85%,Not at risk,0
+B (secondary),87.3,Above 85%,Not at risk,0
+B (secondary),84.9,70-85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),91.1,Above 85%,Not at risk,0
+B (secondary),68.4,50-70%,Not at risk,0
+B (secondary),77.8,70-85%,Not at risk,0
+B (secondary),87.7,Above 85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),75.6,70-85%,At risk,1
+B (secondary),99.9,Above 85%,Not at risk,0
+B (secondary),73.1,70-85%,At risk,1
+B (secondary),89.7,Above 85%,Not at risk,0
+B (secondary),91.4,Above 85%,Not at risk,0
+B (secondary),91.6,Above 85%,Not at risk,0
+B (secondary),96.0,Above 85%,Not at risk,0
+B (secondary),86.0,Above 85%,Not at risk,0
+B (secondary),89.2,Above 85%,Not at risk,0
+B (secondary),85.5,Above 85%,Not at risk,0
+B (secondary),81.1,70-85%,Not at risk,0
+B (secondary),96.0,Above 85%,Not at risk,0
+B (secondary),74.0,70-85%,Not at risk,0
+B (secondary),84.3,70-85%,Not at risk,0
+B (secondary),80.5,70-85%,Not at risk,0
+B (secondary),81.1,70-85%,Not at risk,0
+B (secondary),70.3,70-85%,Not at risk,0
+B (secondary),74.3,70-85%,Not at risk,0
+B (secondary),79.8,70-85%,Not at risk,0
+B (secondary),86.8,Above 85%,At risk,1
+B (secondary),78.5,70-85%,Not at risk,0
+B (secondary),83.3,70-85%,Not at risk,0
+B (secondary),80.6,70-85%,Not at risk,0
+B (secondary),86.2,Above 85%,Not at risk,0
+B (secondary),78.2,70-85%,Not at risk,0
+B (secondary),86.6,Above 85%,Not at risk,0
+B (secondary),79.7,70-85%,Not at risk,0
+B (secondary),98.3,Above 85%,Not at risk,0
+B (secondary),94.3,Above 85%,Not at risk,0
+B (secondary),82.2,70-85%,Not at risk,0
+B (secondary),96.1,Above 85%,Not at risk,0
+B (secondary),73.1,70-85%,Not at risk,0
+B (secondary),91.0,Above 85%,Not at risk,0
+B (secondary),87.5,Above 85%,Not at risk,0
+B (secondary),76.3,70-85%,Not at risk,0
+B (secondary),89.2,Above 85%,Not at risk,0
+B (secondary),87.3,Above 85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),96.5,Above 85%,Not at risk,0
+B (secondary),83.2,70-85%,Not at risk,0
+B (secondary),99.1,Above 85%,Not at risk,0
+B (secondary),70.0,50-70%,Not at risk,0
+B (secondary),86.2,Above 85%,Not at risk,0
+B (secondary),74.6,70-85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),100.0,Above 85%,At risk,1
+B (secondary),81.9,70-85%,Not at risk,0
+B (secondary),82.8,70-85%,Not at risk,0
+B (secondary),81.3,70-85%,Not at risk,0
+B (secondary),88.5,Above 85%,Not at risk,0
+B (secondary),72.4,70-85%,Not at risk,0
+B (secondary),94.1,Above 85%,Not at risk,0
+B (secondary),80.0,70-85%,Not at risk,0
+B (secondary),96.5,Above 85%,At risk,1
+B (secondary),73.9,70-85%,Not at risk,0
+B (secondary),73.9,70-85%,Not at risk,0
+B (secondary),96.1,Above 85%,Not at risk,0
+B (secondary),98.8,Above 85%,Not at risk,0
+B (secondary),80.2,70-85%,Not at risk,0
+B (secondary),82.7,70-85%,Not at risk,0
+B (secondary),83.5,70-85%,Not at risk,0
+B (secondary),93.2,Above 85%,Not at risk,0
+B (secondary),84.9,70-85%,Not at risk,0
+B (secondary),76.9,70-85%,Not at risk,0
+B (secondary),87.3,Above 85%,Not at risk,0
+B (secondary),98.4,Above 85%,Not at risk,0
+B (secondary),93.2,Above 85%,Not at risk,0
+B (secondary),92.9,Above 85%,Not at risk,0
+B (secondary),83.3,70-85%,Not at risk,0
+B (secondary),66.4,50-70%,Not at risk,0
+B (secondary),98.4,Above 85%,Not at risk,0
+B (secondary),83.4,70-85%,Not at risk,0
+B (secondary),92.3,Above 85%,Not at risk,0
+B (secondary),58.2,50-70%,Not at risk,0
+B (secondary),90.7,Above 85%,Not at risk,0
+B (secondary),96.7,Above 85%,Not at risk,0
+B (secondary),81.6,70-85%,At risk,1
+B (secondary),79.2,70-85%,Not at risk,0
+B (secondary),91.1,Above 85%,Not at risk,0
+B (secondary),80.9,70-85%,Not at risk,0
+B (secondary),70.1,70-85%,Not at risk,0
+B (secondary),93.0,Above 85%,Not at risk,0
+B (secondary),96.1,Above 85%,Not at risk,0
+B (secondary),96.4,Above 85%,Not at risk,0
+B (secondary),93.5,Above 85%,Not at risk,0
+B (secondary),86.6,Above 85%,Not at risk,0
+B (secondary),83.2,70-85%,Not at risk,0
+B (secondary),91.4,Above 85%,Not at risk,0
+B (secondary),98.6,Above 85%,Not at risk,0
+B (secondary),74.3,70-85%,Not at risk,0
+B (secondary),77.0,70-85%,At risk,1
+B (secondary),80.2,70-85%,Not at risk,0
+B (secondary),88.3,Above 85%,Not at risk,0
+B (secondary),84.5,70-85%,Not at risk,0
+B (secondary),94.6,Above 85%,Not at risk,0
+B (secondary),88.6,Above 85%,Not at risk,0
+B (secondary),69.6,50-70%,Not at risk,0
+B (secondary),66.3,50-70%,Not at risk,0
+B (secondary),91.5,Above 85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),76.4,70-85%,Not at risk,0
+B (secondary),90.8,Above 85%,Not at risk,0
+B (secondary),84.7,70-85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),86.0,Above 85%,Not at risk,0
+B (secondary),84.6,70-85%,Not at risk,0
+B (secondary),93.5,Above 85%,Not at risk,0
+B (secondary),94.0,Above 85%,Not at risk,0
+B (secondary),90.0,Above 85%,Not at risk,0
+B (secondary),98.5,Above 85%,At risk,1
+B (secondary),93.8,Above 85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),71.5,70-85%,Not at risk,0
+B (secondary),74.8,70-85%,Not at risk,0
+B (secondary),86.5,Above 85%,Not at risk,0
+B (secondary),72.5,70-85%,Not at risk,0
+B (secondary),82.5,70-85%,Not at risk,0
+B (secondary),79.1,70-85%,Not at risk,0
+B (secondary),88.6,Above 85%,Not at risk,0
+B (secondary),78.8,70-85%,At risk,1
+B (secondary),78.5,70-85%,Not at risk,0
+B (secondary),84.8,70-85%,Not at risk,0
+B (secondary),86.7,Above 85%,Not at risk,0
+B (secondary),63.8,50-70%,Not at risk,0
+B (secondary),92.8,Above 85%,Not at risk,0
+B (secondary),85.3,Above 85%,Not at risk,0
+B (secondary),91.2,Above 85%,Not at risk,0
+B (secondary),90.2,Above 85%,Not at risk,0
+B (secondary),70.3,70-85%,Not at risk,0
+B (secondary),81.5,70-85%,Not at risk,0
+B (secondary),84.6,70-85%,Not at risk,0
+B (secondary),83.4,70-85%,Not at risk,0
+B (secondary),75.3,70-85%,Not at risk,0
+B (secondary),74.3,70-85%,Not at risk,0
+B (secondary),86.2,Above 85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),75.7,70-85%,Not at risk,0
+B (secondary),88.6,Above 85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),86.2,Above 85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),91.9,Above 85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),91.1,Above 85%,Not at risk,0
+B (secondary),98.7,Above 85%,Not at risk,0
+B (secondary),81.1,70-85%,Not at risk,0
+B (secondary),96.3,Above 85%,Not at risk,0
+B (secondary),89.5,Above 85%,Not at risk,0
+B (secondary),78.8,70-85%,Not at risk,0
+B (secondary),76.3,70-85%,Not at risk,0
+B (secondary),89.0,Above 85%,Not at risk,0
+B (secondary),97.4,Above 85%,Not at risk,0
+B (secondary),87.7,Above 85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),81.6,70-85%,Not at risk,0
+B (secondary),79.3,70-85%,Not at risk,0
+B (secondary),74.7,70-85%,Not at risk,0
+B (secondary),92.4,Above 85%,Not at risk,0
+B (secondary),93.3,Above 85%,Not at risk,0
+B (secondary),89.4,Above 85%,Not at risk,0
+B (secondary),95.7,Above 85%,Not at risk,0
+B (secondary),83.8,70-85%,Not at risk,0
+B (secondary),85.9,Above 85%,Not at risk,0
+B (secondary),96.9,Above 85%,Not at risk,0
+B (secondary),86.6,Above 85%,Not at risk,0
+B (secondary),83.6,70-85%,Not at risk,0
+B (secondary),72.5,70-85%,Not at risk,0
+B (secondary),81.0,70-85%,Not at risk,0
+B (secondary),81.5,70-85%,Not at risk,0
+B (secondary),76.0,70-85%,Not at risk,0
+B (secondary),93.1,Above 85%,Not at risk,0
+B (secondary),70.4,70-85%,Not at risk,0
+B (secondary),95.8,Above 85%,Not at risk,0
+B (secondary),77.0,70-85%,Not at risk,0
+B (secondary),91.9,Above 85%,Not at risk,0
+B (secondary),80.2,70-85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),97.9,Above 85%,Not at risk,0
+B (secondary),87.4,Above 85%,Not at risk,0
+B (secondary),100.0,Above 85%,At risk,1
+B (secondary),94.1,Above 85%,Not at risk,0
+B (secondary),92.9,Above 85%,Not at risk,0
+B (secondary),98.6,Above 85%,Not at risk,0
+B (secondary),54.1,50-70%,Not at risk,0
+B (secondary),90.9,Above 85%,Not at risk,0
+B (secondary),88.7,Above 85%,Not at risk,0
+B (secondary),97.3,Above 85%,Not at risk,0
+B (secondary),77.8,70-85%,Not at risk,0
+B (secondary),86.6,Above 85%,Not at risk,0
+B (secondary),90.8,Above 85%,Not at risk,0
+B (secondary),68.6,50-70%,Not at risk,0
+B (secondary),90.8,Above 85%,Not at risk,0
+B (secondary),70.8,70-85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),85.8,Above 85%,At risk,1
+B (secondary),69.7,50-70%,Not at risk,0
+B (secondary),86.2,Above 85%,Not at risk,0
+B (secondary),90.6,Above 85%,Not at risk,0
+B (secondary),90.7,Above 85%,Not at risk,0
+B (secondary),83.4,70-85%,Not at risk,0
+B (secondary),64.4,50-70%,Not at risk,0
+B (secondary),73.0,70-85%,Not at risk,0
+B (secondary),89.7,Above 85%,Not at risk,0
+B (secondary),84.4,70-85%,Not at risk,0
+B (secondary),75.8,70-85%,Not at risk,0
+B (secondary),80.4,70-85%,Not at risk,0
+B (secondary),84.2,70-85%,Not at risk,0
+B (secondary),80.6,70-85%,Not at risk,0
+B (secondary),60.6,50-70%,Not at risk,0
+B (secondary),71.1,70-85%,Not at risk,0
+B (secondary),79.3,70-85%,Not at risk,0
+B (secondary),85.5,Above 85%,Not at risk,0
+B (secondary),78.7,70-85%,Not at risk,0
+B (secondary),87.0,Above 85%,Not at risk,0
+B (secondary),93.9,Above 85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),78.2,70-85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),77.3,70-85%,Not at risk,0
+B (secondary),90.9,Above 85%,Not at risk,0
+B (secondary),90.5,Above 85%,Not at risk,0
+B (secondary),85.4,Above 85%,Not at risk,0
+B (secondary),75.3,70-85%,Not at risk,0
+B (secondary),78.3,70-85%,Not at risk,0
+B (secondary),96.4,Above 85%,At risk,1
+B (secondary),95.2,Above 85%,Not at risk,0
+B (secondary),81.3,70-85%,Not at risk,0
+B (secondary),75.6,70-85%,Not at risk,0
+B (secondary),85.7,Above 85%,Not at risk,0
+B (secondary),94.2,Above 85%,Not at risk,0
+B (secondary),67.3,50-70%,Not at risk,0
+B (secondary),91.6,Above 85%,Not at risk,0
+B (secondary),83.2,70-85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),75.4,70-85%,Not at risk,0
+B (secondary),79.0,70-85%,Not at risk,0
+B (secondary),87.3,Above 85%,Not at risk,0
+B (secondary),84.8,70-85%,Not at risk,0
+B (secondary),87.5,Above 85%,Not at risk,0
+B (secondary),94.1,Above 85%,Not at risk,0
+B (secondary),90.8,Above 85%,Not at risk,0
+B (secondary),76.9,70-85%,Not at risk,0
+B (secondary),79.5,70-85%,Not at risk,0
+B (secondary),92.8,Above 85%,Not at risk,0
+B (secondary),83.5,70-85%,Not at risk,0
+B (secondary),91.3,Above 85%,Not at risk,0
+B (secondary),70.8,70-85%,Not at risk,0
+B (secondary),79.8,70-85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),76.5,70-85%,Not at risk,0
+B (secondary),75.5,70-85%,Not at risk,0
+B (secondary),82.3,70-85%,Not at risk,0
+B (secondary),87.6,Above 85%,Not at risk,0
+B (secondary),88.2,Above 85%,Not at risk,0
+B (secondary),92.9,Above 85%,Not at risk,0
+B (secondary),72.5,70-85%,Not at risk,0
+B (secondary),73.4,70-85%,Not at risk,0
+B (secondary),75.5,70-85%,Not at risk,0
+B (secondary),91.5,Above 85%,Not at risk,0
+B (secondary),77.0,70-85%,Not at risk,0
+B (secondary),95.0,Above 85%,Not at risk,0
+B (secondary),67.2,50-70%,Not at risk,0
+B (secondary),89.0,Above 85%,Not at risk,0
+B (secondary),84.5,70-85%,Not at risk,0
+B (secondary),98.1,Above 85%,Not at risk,0
+B (secondary),95.2,Above 85%,At risk,1
+B (secondary),89.1,Above 85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),86.1,Above 85%,Not at risk,0
+B (secondary),95.7,Above 85%,Not at risk,0
+B (secondary),82.3,70-85%,Not at risk,0
+B (secondary),91.9,Above 85%,Not at risk,0
+B (secondary),74.2,70-85%,Not at risk,0
+B (secondary),80.6,70-85%,Not at risk,0
+B (secondary),82.4,70-85%,Not at risk,0
+B (secondary),74.1,70-85%,At risk,1
+B (secondary),73.5,70-85%,Not at risk,0
+B (secondary),75.5,70-85%,At risk,1
+B (secondary),82.7,70-85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),88.6,Above 85%,Not at risk,0
+B (secondary),93.9,Above 85%,Not at risk,0
+B (secondary),84.0,70-85%,Not at risk,0
+B (secondary),98.0,Above 85%,Not at risk,0
+B (secondary),93.7,Above 85%,Not at risk,0
+B (secondary),76.6,70-85%,Not at risk,0
+B (secondary),86.9,Above 85%,Not at risk,0
+B (secondary),79.0,70-85%,Not at risk,0
+B (secondary),95.6,Above 85%,Not at risk,0
+B (secondary),77.1,70-85%,Not at risk,0
+B (secondary),90.2,Above 85%,Not at risk,0
+B (secondary),88.0,Above 85%,Not at risk,0
+B (secondary),91.5,Above 85%,Not at risk,0
+B (secondary),90.9,Above 85%,Not at risk,0
+B (secondary),100.0,Above 85%,At risk,1
+B (secondary),85.2,Above 85%,Not at risk,0
+B (secondary),79.0,70-85%,Not at risk,0
+B (secondary),81.4,70-85%,Not at risk,0
+B (secondary),79.9,70-85%,Not at risk,0
+B (secondary),72.4,70-85%,Not at risk,0
+B (secondary),88.7,Above 85%,Not at risk,0
+B (secondary),70.3,70-85%,Not at risk,0
+B (secondary),95.8,Above 85%,Not at risk,0
+B (secondary),87.0,Above 85%,Not at risk,0
+B (secondary),84.6,70-85%,Not at risk,0
+B (secondary),93.1,Above 85%,Not at risk,0
+B (secondary),67.3,50-70%,Not at risk,0
+B (secondary),74.4,70-85%,At risk,1
+B (secondary),77.3,70-85%,Not at risk,0
+B (secondary),72.9,70-85%,Not at risk,0
+B (secondary),98.7,Above 85%,Not at risk,0
+B (secondary),88.1,Above 85%,Not at risk,0
+B (secondary),81.9,70-85%,Not at risk,0
+B (secondary),80.0,70-85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),78.7,70-85%,Not at risk,0
+B (secondary),84.3,70-85%,Not at risk,0
+B (secondary),86.4,Above 85%,Not at risk,0
+B (secondary),74.5,70-85%,Not at risk,0
+B (secondary),84.5,70-85%,Not at risk,0
+B (secondary),79.3,70-85%,Not at risk,0
+B (secondary),89.9,Above 85%,Not at risk,0
+B (secondary),98.8,Above 85%,Not at risk,0
+B (secondary),86.7,Above 85%,Not at risk,0
+B (secondary),81.8,70-85%,Not at risk,0
+B (secondary),84.6,70-85%,Not at risk,0
+B (secondary),85.4,Above 85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),81.5,70-85%,At risk,1
+B (secondary),96.0,Above 85%,Not at risk,0
+B (secondary),78.5,70-85%,Not at risk,0
+B (secondary),79.3,70-85%,Not at risk,0
+B (secondary),86.8,Above 85%,Not at risk,0
+B (secondary),80.9,70-85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),87.7,Above 85%,Not at risk,0
+B (secondary),83.0,70-85%,Not at risk,0
+B (secondary),74.5,70-85%,Not at risk,0
+B (secondary),90.6,Above 85%,Not at risk,0
+B (secondary),74.3,70-85%,Not at risk,0
+B (secondary),86.8,Above 85%,Not at risk,0
+B (secondary),78.4,70-85%,Not at risk,0
+B (secondary),82.1,70-85%,Not at risk,0
+B (secondary),71.8,70-85%,Not at risk,0
+B (secondary),79.6,70-85%,Not at risk,0
+B (secondary),83.6,70-85%,Not at risk,0
+B (secondary),79.5,70-85%,Not at risk,0
+B (secondary),74.1,70-85%,Not at risk,0
+B (secondary),87.2,Above 85%,Not at risk,0
+B (secondary),90.9,Above 85%,Not at risk,0
+B (secondary),85.1,Above 85%,Not at risk,0
+B (secondary),83.9,70-85%,Not at risk,0
+B (secondary),93.0,Above 85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),77.5,70-85%,Not at risk,0
+B (secondary),80.8,70-85%,Not at risk,0
+B (secondary),73.7,70-85%,Not at risk,0
+B (secondary),80.9,70-85%,Not at risk,0
+B (secondary),86.4,Above 85%,Not at risk,0
+B (secondary),74.5,70-85%,Not at risk,0
+B (secondary),86.8,Above 85%,Not at risk,0
+B (secondary),79.1,70-85%,Not at risk,0
+B (secondary),67.7,50-70%,Not at risk,0
+B (secondary),96.8,Above 85%,Not at risk,0
+B (secondary),82.3,70-85%,Not at risk,0
+B (secondary),80.9,70-85%,Not at risk,0
+B (secondary),80.1,70-85%,Not at risk,0
+B (secondary),81.4,70-85%,Not at risk,0
+B (secondary),80.7,70-85%,Not at risk,0
+B (secondary),88.4,Above 85%,Not at risk,0
+B (secondary),82.5,70-85%,Not at risk,0
+B (secondary),77.7,70-85%,Not at risk,0
+B (secondary),87.7,Above 85%,Not at risk,0
+B (secondary),80.2,70-85%,Not at risk,0
+B (secondary),95.9,Above 85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),88.3,Above 85%,Not at risk,0
+B (secondary),62.3,50-70%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),99.8,Above 85%,Not at risk,0
+B (secondary),93.1,Above 85%,Not at risk,0
+B (secondary),91.6,Above 85%,Not at risk,0
+B (secondary),84.6,70-85%,Not at risk,0
+B (secondary),83.4,70-85%,Not at risk,0
+B (secondary),96.2,Above 85%,Not at risk,0
+B (secondary),89.0,Above 85%,Not at risk,0
+B (secondary),89.7,Above 85%,Not at risk,0
+B (secondary),73.7,70-85%,Not at risk,0
+B (secondary),91.9,Above 85%,Not at risk,0
+B (secondary),82.3,70-85%,Not at risk,0
+B (secondary),87.9,Above 85%,Not at risk,0
+B (secondary),85.2,Above 85%,Not at risk,0
+B (secondary),83.8,70-85%,Not at risk,0
+B (secondary),73.9,70-85%,Not at risk,0
+B (secondary),82.7,70-85%,Not at risk,0
+B (secondary),97.3,Above 85%,Not at risk,0
+B (secondary),87.0,Above 85%,Not at risk,0
+B (secondary),92.7,Above 85%,Not at risk,0
+B (secondary),93.5,Above 85%,Not at risk,0
+B (secondary),82.5,70-85%,Not at risk,0
+B (secondary),66.2,50-70%,Not at risk,0
+B (secondary),90.9,Above 85%,Not at risk,0
+B (secondary),84.2,70-85%,Not at risk,0
+B (secondary),80.8,70-85%,Not at risk,0
+B (secondary),96.8,Above 85%,Not at risk,0
+B (secondary),80.2,70-85%,Not at risk,0
+B (secondary),91.6,Above 85%,Not at risk,0
+B (secondary),80.8,70-85%,Not at risk,0
+B (secondary),91.3,Above 85%,Not at risk,0
+B (secondary),89.7,Above 85%,Not at risk,0
+B (secondary),87.0,Above 85%,Not at risk,0
+B (secondary),84.7,70-85%,Not at risk,0
+B (secondary),84.6,70-85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),80.7,70-85%,Not at risk,0
+B (secondary),63.4,50-70%,Not at risk,0
+B (secondary),77.6,70-85%,Not at risk,0
+B (secondary),72.0,70-85%,Not at risk,0
+B (secondary),94.2,Above 85%,Not at risk,0
+B (secondary),88.8,Above 85%,Not at risk,0
+B (secondary),86.7,Above 85%,Not at risk,0
+B (secondary),90.4,Above 85%,Not at risk,0
+B (secondary),96.5,Above 85%,Not at risk,0
+B (secondary),81.1,70-85%,Not at risk,0
+B (secondary),78.9,70-85%,Not at risk,0
+B (secondary),77.0,70-85%,Not at risk,0
+B (secondary),100.0,Above 85%,At risk,1
+B (secondary),88.2,Above 85%,Not at risk,0
+B (secondary),83.7,70-85%,Not at risk,0
+B (secondary),92.3,Above 85%,Not at risk,0
+B (secondary),64.7,50-70%,Not at risk,0
+B (secondary),82.7,70-85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),89.9,Above 85%,Not at risk,0
+B (secondary),81.2,70-85%,Not at risk,0
+B (secondary),68.4,50-70%,Not at risk,0
+B (secondary),91.7,Above 85%,Not at risk,0
+B (secondary),83.0,70-85%,Not at risk,0
+B (secondary),73.1,70-85%,Not at risk,0
+B (secondary),70.0,50-70%,Not at risk,0
+B (secondary),84.0,70-85%,Not at risk,0
+B (secondary),68.5,50-70%,Not at risk,0
+B (secondary),70.8,70-85%,Not at risk,0
+B (secondary),84.0,70-85%,Not at risk,0
+B (secondary),87.0,Above 85%,Not at risk,0
+B (secondary),67.8,50-70%,Not at risk,0
+B (secondary),74.4,70-85%,Not at risk,0
+B (secondary),88.7,Above 85%,Not at risk,0
+B (secondary),79.4,70-85%,Not at risk,0
+B (secondary),97.2,Above 85%,Not at risk,0
+B (secondary),65.9,50-70%,Not at risk,0
+B (secondary),87.4,Above 85%,Not at risk,0
+B (secondary),72.0,70-85%,Not at risk,0
+B (secondary),94.9,Above 85%,Not at risk,0
+B (secondary),87.4,Above 85%,Not at risk,0
+B (secondary),77.0,70-85%,Not at risk,0
+B (secondary),93.2,Above 85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),83.9,70-85%,Not at risk,0
+B (secondary),93.7,Above 85%,Not at risk,0
+B (secondary),73.5,70-85%,Not at risk,0
+B (secondary),95.7,Above 85%,Not at risk,0
+B (secondary),89.9,Above 85%,At risk,1
+B (secondary),78.1,70-85%,Not at risk,0
+B (secondary),77.7,70-85%,Not at risk,0
+B (secondary),80.2,70-85%,Not at risk,0
+B (secondary),95.8,Above 85%,Not at risk,0
+B (secondary),85.6,Above 85%,Not at risk,0
+B (secondary),90.4,Above 85%,At risk,1
+B (secondary),86.8,Above 85%,Not at risk,0
+B (secondary),96.4,Above 85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),75.1,70-85%,Not at risk,0
+B (secondary),94.9,Above 85%,Not at risk,0
+B (secondary),79.0,70-85%,Not at risk,0
+B (secondary),92.4,Above 85%,Not at risk,0
+B (secondary),71.9,70-85%,Not at risk,0
+B (secondary),76.6,70-85%,Not at risk,0
+B (secondary),98.4,Above 85%,Not at risk,0
+B (secondary),89.1,Above 85%,Not at risk,0
+B (secondary),90.2,Above 85%,Not at risk,0
+B (secondary),84.4,70-85%,Not at risk,0
+B (secondary),82.5,70-85%,Not at risk,0
+B (secondary),93.4,Above 85%,At risk,1
+B (secondary),88.1,Above 85%,Not at risk,0
+B (secondary),86.5,Above 85%,Not at risk,0
+B (secondary),77.7,70-85%,Not at risk,0
+B (secondary),79.7,70-85%,Not at risk,0
+B (secondary),71.4,70-85%,Not at risk,0
+B (secondary),81.0,70-85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),85.7,Above 85%,Not at risk,0
+B (secondary),100.0,Above 85%,At risk,1
+B (secondary),86.4,Above 85%,At risk,1
+B (secondary),96.3,Above 85%,Not at risk,0
+B (secondary),69.1,50-70%,Not at risk,0
+B (secondary),75.6,70-85%,Not at risk,0
+B (secondary),91.9,Above 85%,Not at risk,0
+B (secondary),86.5,Above 85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),87.7,Above 85%,Not at risk,0
+B (secondary),83.0,70-85%,Not at risk,0
+B (secondary),83.5,70-85%,Not at risk,0
+B (secondary),91.6,Above 85%,Not at risk,0
+B (secondary),83.1,70-85%,Not at risk,0
+B (secondary),74.2,70-85%,Not at risk,0
+B (secondary),87.7,Above 85%,Not at risk,0
+B (secondary),81.5,70-85%,Not at risk,0
+B (secondary),98.0,Above 85%,Not at risk,0
+B (secondary),92.5,Above 85%,At risk,1
+B (secondary),90.2,Above 85%,Not at risk,0
+B (secondary),89.0,Above 85%,Not at risk,0
+B (secondary),88.1,Above 85%,Not at risk,0
+B (secondary),81.4,70-85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),86.5,Above 85%,Not at risk,0
+B (secondary),93.0,Above 85%,At risk,1
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),87.6,Above 85%,Not at risk,0
+B (secondary),79.6,70-85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),89.4,Above 85%,Not at risk,0
+B (secondary),91.4,Above 85%,At risk,1
+B (secondary),95.4,Above 85%,Not at risk,0
+B (secondary),94.2,Above 85%,Not at risk,0
+B (secondary),100.0,Above 85%,At risk,1
+B (secondary),75.3,70-85%,Not at risk,0
+B (secondary),77.6,70-85%,Not at risk,0
+B (secondary),86.0,Above 85%,Not at risk,0
+B (secondary),100.0,Above 85%,At risk,1
+B (secondary),86.2,Above 85%,Not at risk,0
+B (secondary),82.7,70-85%,Not at risk,0
+B (secondary),90.4,Above 85%,Not at risk,0
+B (secondary),81.1,70-85%,Not at risk,0
+B (secondary),78.9,70-85%,Not at risk,0
+B (secondary),70.2,70-85%,Not at risk,0
+B (secondary),100.0,Above 85%,At risk,1
+B (secondary),65.4,50-70%,Not at risk,0
+B (secondary),87.9,Above 85%,Not at risk,0
+B (secondary),93.6,Above 85%,Not at risk,0
+B (secondary),88.6,Above 85%,Not at risk,0
+B (secondary),85.1,Above 85%,Not at risk,0
+B (secondary),70.2,70-85%,Not at risk,0
+B (secondary),72.7,70-85%,Not at risk,0
+B (secondary),83.9,70-85%,Not at risk,0
+B (secondary),68.3,50-70%,Not at risk,0
+B (secondary),65.6,50-70%,Not at risk,0
+B (secondary),81.6,70-85%,Not at risk,0
+B (secondary),77.9,70-85%,Not at risk,0
+B (secondary),82.7,70-85%,Not at risk,0
+B (secondary),67.7,50-70%,Not at risk,0
+B (secondary),62.5,50-70%,Not at risk,0
+B (secondary),82.4,70-85%,Not at risk,0
+B (secondary),76.2,70-85%,Not at risk,0
+B (secondary),94.0,Above 85%,Not at risk,0
+B (secondary),76.9,70-85%,Not at risk,0
+B (secondary),94.6,Above 85%,Not at risk,0
+B (secondary),62.2,50-70%,Not at risk,0
+B (secondary),84.6,70-85%,Not at risk,0
+B (secondary),75.8,70-85%,Not at risk,0
+B (secondary),97.4,Above 85%,Not at risk,0
+B (secondary),81.8,70-85%,Not at risk,0
+B (secondary),89.0,Above 85%,Not at risk,0
+B (secondary),77.9,70-85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),71.2,70-85%,Not at risk,0
+B (secondary),88.1,Above 85%,Not at risk,0
+B (secondary),88.2,Above 85%,Not at risk,0
+B (secondary),95.5,Above 85%,Not at risk,0
+B (secondary),97.1,Above 85%,Not at risk,0
+B (secondary),87.9,Above 85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),86.7,Above 85%,Not at risk,0
+B (secondary),89.7,Above 85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),75.0,70-85%,Not at risk,0
+B (secondary),82.9,70-85%,Not at risk,0
+B (secondary),82.0,70-85%,Not at risk,0
+B (secondary),93.4,Above 85%,At risk,1
+B (secondary),91.2,Above 85%,Not at risk,0
+B (secondary),84.6,70-85%,Not at risk,0
+B (secondary),91.6,Above 85%,Not at risk,0
+B (secondary),84.0,70-85%,Not at risk,0
+B (secondary),88.0,Above 85%,Not at risk,0
+B (secondary),90.3,Above 85%,Not at risk,0
+B (secondary),60.0,50-70%,Not at risk,0
+B (secondary),92.4,Above 85%,Not at risk,0
+B (secondary),82.4,70-85%,Not at risk,0
+B (secondary),91.4,Above 85%,Not at risk,0
+B (secondary),68.5,50-70%,Not at risk,0
+B (secondary),88.6,Above 85%,Not at risk,0
+B (secondary),80.5,70-85%,Not at risk,0
+B (secondary),89.0,Above 85%,Not at risk,0
+B (secondary),86.1,Above 85%,Not at risk,0
+B (secondary),74.2,70-85%,Not at risk,0
+B (secondary),77.9,70-85%,At risk,1
+B (secondary),90.0,Above 85%,Not at risk,0
+B (secondary),83.8,70-85%,Not at risk,0
+B (secondary),85.6,Above 85%,Not at risk,0
+B (secondary),60.5,50-70%,Not at risk,0
+B (secondary),84.1,70-85%,Not at risk,0
+B (secondary),88.8,Above 85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),88.6,Above 85%,Not at risk,0
+B (secondary),78.0,70-85%,Not at risk,0
+B (secondary),92.8,Above 85%,Not at risk,0
+B (secondary),98.7,Above 85%,Not at risk,0
+B (secondary),95.5,Above 85%,Not at risk,0
+B (secondary),80.7,70-85%,Not at risk,0
+B (secondary),97.1,Above 85%,Not at risk,0
+B (secondary),82.0,70-85%,Not at risk,0
+B (secondary),76.0,70-85%,Not at risk,0
+B (secondary),98.9,Above 85%,Not at risk,0
+B (secondary),85.8,Above 85%,Not at risk,0
+B (secondary),74.9,70-85%,Not at risk,0
+B (secondary),86.8,Above 85%,Not at risk,0
+B (secondary),75.7,70-85%,Not at risk,0
+B (secondary),81.7,70-85%,Not at risk,0
+B (secondary),95.7,Above 85%,Not at risk,0
+B (secondary),83.3,70-85%,Not at risk,0
+B (secondary),80.9,70-85%,Not at risk,0
+B (secondary),98.8,Above 85%,Not at risk,0
+B (secondary),74.3,70-85%,Not at risk,0
+B (secondary),89.7,Above 85%,Not at risk,0
+B (secondary),79.7,70-85%,Not at risk,0
+B (secondary),83.5,70-85%,Not at risk,0
+B (secondary),79.8,70-85%,Not at risk,0
+B (secondary),65.3,50-70%,Not at risk,0
+B (secondary),94.2,Above 85%,Not at risk,0
+B (secondary),72.7,70-85%,Not at risk,0
+B (secondary),79.8,70-85%,At risk,1
+B (secondary),82.1,70-85%,Not at risk,0
+B (secondary),81.8,70-85%,Not at risk,0
+B (secondary),71.7,70-85%,Not at risk,0
+B (secondary),83.0,70-85%,Not at risk,0
+B (secondary),85.0,70-85%,Not at risk,0
+B (secondary),87.5,Above 85%,Not at risk,0
+B (secondary),82.0,70-85%,Not at risk,0
+B (secondary),87.1,Above 85%,Not at risk,0
+B (secondary),86.8,Above 85%,Not at risk,0
+B (secondary),82.6,70-85%,Not at risk,0
+B (secondary),99.6,Above 85%,Not at risk,0
+B (secondary),64.5,50-70%,Not at risk,0
+B (secondary),74.6,70-85%,Not at risk,0
+B (secondary),89.8,Above 85%,Not at risk,0
+B (secondary),83.1,70-85%,Not at risk,0
+B (secondary),76.3,70-85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),97.2,Above 85%,Not at risk,0
+B (secondary),69.6,50-70%,Not at risk,0
+B (secondary),82.7,70-85%,Not at risk,0
+B (secondary),90.7,Above 85%,Not at risk,0
+B (secondary),86.9,Above 85%,Not at risk,0
+B (secondary),78.8,70-85%,Not at risk,0
+B (secondary),87.8,Above 85%,Not at risk,0
+B (secondary),72.9,70-85%,Not at risk,0
+B (secondary),92.3,Above 85%,Not at risk,0
+B (secondary),94.0,Above 85%,Not at risk,0
+B (secondary),90.2,Above 85%,Not at risk,0
+B (secondary),91.3,Above 85%,Not at risk,0
+B (secondary),92.0,Above 85%,Not at risk,0
+B (secondary),82.6,70-85%,At risk,1
+B (secondary),91.6,Above 85%,Not at risk,0
+B (secondary),88.0,Above 85%,Not at risk,0
+B (secondary),88.5,Above 85%,Not at risk,0
+B (secondary),85.4,Above 85%,Not at risk,0
+B (secondary),93.6,Above 85%,Not at risk,0
+B (secondary),76.0,70-85%,Not at risk,0
+B (secondary),72.5,70-85%,Not at risk,0
+B (secondary),77.7,70-85%,Not at risk,0
+B (secondary),99.3,Above 85%,Not at risk,0
+B (secondary),76.9,70-85%,Not at risk,0
+B (secondary),86.7,Above 85%,Not at risk,0
+B (secondary),88.6,Above 85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),71.9,70-85%,Not at risk,0
+B (secondary),79.3,70-85%,Not at risk,0
+B (secondary),78.0,70-85%,Not at risk,0
+B (secondary),81.3,70-85%,Not at risk,0
+B (secondary),84.3,70-85%,Not at risk,0
+B (secondary),97.8,Above 85%,Not at risk,0
+B (secondary),78.1,70-85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),86.9,Above 85%,Not at risk,0
+B (secondary),71.4,70-85%,Not at risk,0
+B (secondary),72.7,70-85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),93.9,Above 85%,Not at risk,0
+B (secondary),72.3,70-85%,Not at risk,0
+B (secondary),69.0,50-70%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),79.1,70-85%,Not at risk,0
+B (secondary),91.3,Above 85%,Not at risk,0
+B (secondary),83.6,70-85%,Not at risk,0
+B (secondary),80.5,70-85%,Not at risk,0
+B (secondary),94.4,Above 85%,Not at risk,0
+B (secondary),74.9,70-85%,At risk,1
+B (secondary),96.2,Above 85%,Not at risk,0
+B (secondary),91.3,Above 85%,Not at risk,0
+B (secondary),65.4,50-70%,Not at risk,0
+B (secondary),92.0,Above 85%,Not at risk,0
+B (secondary),91.7,Above 85%,Not at risk,0
+B (secondary),85.1,Above 85%,At risk,1
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),89.1,Above 85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),85.1,Above 85%,Not at risk,0
+B (secondary),96.6,Above 85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),72.0,70-85%,Not at risk,0
+B (secondary),98.5,Above 85%,Not at risk,0
+B (secondary),96.8,Above 85%,Not at risk,0
+B (secondary),90.0,Above 85%,Not at risk,0
+B (secondary),74.0,70-85%,Not at risk,0
+B (secondary),84.0,70-85%,Not at risk,0
+B (secondary),87.8,Above 85%,Not at risk,0
+B (secondary),97.4,Above 85%,Not at risk,0
+B (secondary),91.9,Above 85%,Not at risk,0
+B (secondary),95.6,Above 85%,Not at risk,0
+B (secondary),77.0,70-85%,Not at risk,0
+B (secondary),75.6,70-85%,Not at risk,0
+B (secondary),67.0,50-70%,Not at risk,0
+B (secondary),88.8,Above 85%,Not at risk,0
+B (secondary),77.1,70-85%,Not at risk,0
+B (secondary),69.9,50-70%,Not at risk,0
+B (secondary),73.0,70-85%,Not at risk,0
+B (secondary),76.9,70-85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),86.7,Above 85%,Not at risk,0
+B (secondary),91.3,Above 85%,Not at risk,0
+B (secondary),88.7,Above 85%,Not at risk,0
+B (secondary),87.7,Above 85%,Not at risk,0
+B (secondary),67.7,50-70%,Not at risk,0
+B (secondary),83.4,70-85%,Not at risk,0
+B (secondary),86.8,Above 85%,Not at risk,0
+B (secondary),80.0,70-85%,Not at risk,0
+B (secondary),80.7,70-85%,Not at risk,0
+B (secondary),81.3,70-85%,Not at risk,0
+B (secondary),83.7,70-85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),78.1,70-85%,Not at risk,0
+B (secondary),89.0,Above 85%,Not at risk,0
+B (secondary),75.8,70-85%,Not at risk,0
+B (secondary),63.4,50-70%,Not at risk,0
+B (secondary),96.8,Above 85%,Not at risk,0
+B (secondary),75.3,70-85%,Not at risk,0
+B (secondary),71.4,70-85%,Not at risk,0
+B (secondary),79.7,70-85%,Not at risk,0
+B (secondary),95.6,Above 85%,Not at risk,0
+B (secondary),87.9,Above 85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),95.1,Above 85%,Not at risk,0
+B (secondary),71.4,70-85%,Not at risk,0
+B (secondary),80.5,70-85%,Not at risk,0
+B (secondary),76.6,70-85%,Not at risk,0
+B (secondary),72.7,70-85%,Not at risk,0
+B (secondary),95.9,Above 85%,Not at risk,0
+B (secondary),68.8,50-70%,Not at risk,0
+B (secondary),82.5,70-85%,Not at risk,0
+B (secondary),91.4,Above 85%,At risk,1
+B (secondary),71.5,70-85%,Not at risk,0
+B (secondary),86.7,Above 85%,Not at risk,0
+B (secondary),93.7,Above 85%,Not at risk,0
+B (secondary),65.5,50-70%,Not at risk,0
+B (secondary),93.1,Above 85%,Not at risk,0
+B (secondary),82.8,70-85%,Not at risk,0
+B (secondary),80.9,70-85%,Not at risk,0
+B (secondary),93.5,Above 85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),70.5,70-85%,Not at risk,0
+B (secondary),95.4,Above 85%,At risk,1
+B (secondary),90.5,Above 85%,Not at risk,0
+B (secondary),81.9,70-85%,Not at risk,0
+B (secondary),87.4,Above 85%,Not at risk,0
+B (secondary),78.4,70-85%,Not at risk,0
+B (secondary),71.1,70-85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),98.3,Above 85%,Not at risk,0
+B (secondary),74.4,70-85%,Not at risk,0
+B (secondary),88.0,Above 85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),75.8,70-85%,Not at risk,0
+B (secondary),84.2,70-85%,Not at risk,0
+B (secondary),84.9,70-85%,Not at risk,0
+B (secondary),82.0,70-85%,Not at risk,0
+B (secondary),69.4,50-70%,Not at risk,0
+B (secondary),80.3,70-85%,Not at risk,0
+B (secondary),91.3,Above 85%,Not at risk,0
+B (secondary),95.2,Above 85%,Not at risk,0
+B (secondary),91.4,Above 85%,Not at risk,0
+B (secondary),83.7,70-85%,Not at risk,0
+B (secondary),89.5,Above 85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),99.1,Above 85%,Not at risk,0
+B (secondary),96.1,Above 85%,Not at risk,0
+B (secondary),93.6,Above 85%,Not at risk,0
+B (secondary),95.7,Above 85%,Not at risk,0
+B (secondary),66.7,50-70%,Not at risk,0
+B (secondary),71.5,70-85%,Not at risk,0
+B (secondary),86.1,Above 85%,Not at risk,0
+B (secondary),80.8,70-85%,Not at risk,0
+B (secondary),95.3,Above 85%,Not at risk,0
+B (secondary),81.4,70-85%,Not at risk,0
+B (secondary),62.4,50-70%,Not at risk,0
+B (secondary),78.8,70-85%,Not at risk,0
+B (secondary),91.3,Above 85%,Not at risk,0
+B (secondary),93.7,Above 85%,Not at risk,0
+B (secondary),80.0,70-85%,Not at risk,0
+B (secondary),66.8,50-70%,Not at risk,0
+B (secondary),90.6,Above 85%,Not at risk,0
+B (secondary),88.6,Above 85%,At risk,1
+B (secondary),88.3,Above 85%,Not at risk,0
+B (secondary),88.3,Above 85%,Not at risk,0
+B (secondary),79.9,70-85%,Not at risk,0
+B (secondary),79.8,70-85%,Not at risk,0
+B (secondary),81.3,70-85%,Not at risk,0
+B (secondary),81.0,70-85%,Not at risk,0
+B (secondary),81.9,70-85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),78.1,70-85%,Not at risk,0
+B (secondary),90.1,Above 85%,Not at risk,0
+B (secondary),79.6,70-85%,Not at risk,0
+B (secondary),93.5,Above 85%,Not at risk,0
+B (secondary),74.8,70-85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),98.4,Above 85%,Not at risk,0
+B (secondary),88.3,Above 85%,Not at risk,0
+B (secondary),80.0,70-85%,Not at risk,0
+B (secondary),67.2,50-70%,Not at risk,0
+B (secondary),88.0,Above 85%,Not at risk,0
+B (secondary),85.7,Above 85%,Not at risk,0
+B (secondary),76.7,70-85%,Not at risk,0
+B (secondary),85.9,Above 85%,Not at risk,0
+B (secondary),68.6,50-70%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),83.2,70-85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),66.1,50-70%,Not at risk,0
+B (secondary),82.7,70-85%,Not at risk,0
+B (secondary),68.5,50-70%,Not at risk,0
+B (secondary),75.0,70-85%,Not at risk,0
+B (secondary),96.6,Above 85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),91.9,Above 85%,Not at risk,0
+B (secondary),79.6,70-85%,Not at risk,0
+B (secondary),88.7,Above 85%,Not at risk,0
+B (secondary),86.9,Above 85%,Not at risk,0
+B (secondary),92.0,Above 85%,Not at risk,0
+B (secondary),83.1,70-85%,Not at risk,0
+B (secondary),73.4,70-85%,Not at risk,0
+B (secondary),79.4,70-85%,Not at risk,0
+B (secondary),81.3,70-85%,Not at risk,0
+B (secondary),89.0,Above 85%,Not at risk,0
+B (secondary),82.1,70-85%,Not at risk,0
+B (secondary),95.9,Above 85%,Not at risk,0
+B (secondary),88.2,Above 85%,At risk,1
+B (secondary),94.9,Above 85%,Not at risk,0
+B (secondary),80.9,70-85%,Not at risk,0
+B (secondary),67.2,50-70%,Not at risk,0
+B (secondary),87.2,Above 85%,Not at risk,0
+B (secondary),67.5,50-70%,Not at risk,0
+B (secondary),94.0,Above 85%,Not at risk,0
+B (secondary),93.4,Above 85%,Not at risk,0
+B (secondary),81.2,70-85%,Not at risk,0
+B (secondary),92.5,Above 85%,Not at risk,0
+B (secondary),94.8,Above 85%,Not at risk,0
+B (secondary),81.4,70-85%,Not at risk,0
+B (secondary),87.5,Above 85%,Not at risk,0
+B (secondary),73.3,70-85%,Not at risk,0
+B (secondary),96.8,Above 85%,Not at risk,0
+B (secondary),69.7,50-70%,Not at risk,0
+B (secondary),78.3,70-85%,Not at risk,0
+B (secondary),93.1,Above 85%,Not at risk,0
+B (secondary),83.7,70-85%,Not at risk,0
+B (secondary),98.7,Above 85%,Not at risk,0
+B (secondary),100.0,Above 85%,At risk,1
+B (secondary),75.3,70-85%,Not at risk,0
+B (secondary),66.6,50-70%,Not at risk,0
+B (secondary),100.0,Above 85%,At risk,1
+B (secondary),89.3,Above 85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),92.0,Above 85%,Not at risk,0
+B (secondary),93.5,Above 85%,Not at risk,0
+B (secondary),92.7,Above 85%,Not at risk,0
+B (secondary),92.2,Above 85%,Not at risk,0
+B (secondary),80.0,70-85%,Not at risk,0
+B (secondary),97.9,Above 85%,Not at risk,0
+B (secondary),85.7,Above 85%,Not at risk,0
+B (secondary),90.0,Above 85%,Not at risk,0
+B (secondary),86.3,Above 85%,Not at risk,0
+B (secondary),93.9,Above 85%,Not at risk,0
+B (secondary),90.3,Above 85%,Not at risk,0
+B (secondary),87.8,Above 85%,Not at risk,0
+B (secondary),75.5,70-85%,Not at risk,0
+B (secondary),81.9,70-85%,Not at risk,0
+B (secondary),86.0,Above 85%,Not at risk,0
+B (secondary),79.8,70-85%,Not at risk,0
+B (secondary),90.7,Above 85%,Not at risk,0
+B (secondary),92.5,Above 85%,Not at risk,0
+B (secondary),62.8,50-70%,Not at risk,0
+B (secondary),72.9,70-85%,At risk,1
+B (secondary),76.0,70-85%,Not at risk,0
+B (secondary),80.6,70-85%,At risk,1
+B (secondary),80.2,70-85%,Not at risk,0
+B (secondary),81.7,70-85%,Not at risk,0
+B (secondary),86.5,Above 85%,At risk,1
+B (secondary),89.2,Above 85%,Not at risk,0
+B (secondary),91.9,Above 85%,Not at risk,0
+B (secondary),79.7,70-85%,Not at risk,0
+B (secondary),75.6,70-85%,Not at risk,0
+B (secondary),98.5,Above 85%,Not at risk,0
+B (secondary),99.6,Above 85%,Not at risk,0
+B (secondary),71.3,70-85%,Not at risk,0
+B (secondary),83.1,70-85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),85.4,Above 85%,Not at risk,0
+B (secondary),68.2,50-70%,Not at risk,0
+B (secondary),74.3,70-85%,Not at risk,0
+B (secondary),82.4,70-85%,Not at risk,0
+B (secondary),76.2,70-85%,Not at risk,0
+B (secondary),92.1,Above 85%,Not at risk,0
+B (secondary),86.8,Above 85%,Not at risk,0
+B (secondary),87.5,Above 85%,Not at risk,0
+B (secondary),70.9,70-85%,Not at risk,0
+B (secondary),71.9,70-85%,Not at risk,0
+B (secondary),81.2,70-85%,Not at risk,0
+B (secondary),80.3,70-85%,Not at risk,0
+B (secondary),88.7,Above 85%,Not at risk,0
+B (secondary),87.5,Above 85%,Not at risk,0
+B (secondary),93.2,Above 85%,Not at risk,0
+B (secondary),86.5,Above 85%,Not at risk,0
+B (secondary),84.9,70-85%,Not at risk,0
+B (secondary),83.4,70-85%,Not at risk,0
+B (secondary),84.0,70-85%,Not at risk,0
+B (secondary),86.8,Above 85%,Not at risk,0
+B (secondary),92.0,Above 85%,Not at risk,0
+B (secondary),93.3,Above 85%,Not at risk,0
+B (secondary),88.4,Above 85%,Not at risk,0
+B (secondary),78.6,70-85%,Not at risk,0
+B (secondary),75.1,70-85%,Not at risk,0
+B (secondary),77.2,70-85%,Not at risk,0
+B (secondary),86.9,Above 85%,Not at risk,0
+B (secondary),93.6,Above 85%,Not at risk,0
+B (secondary),63.9,50-70%,Not at risk,0
+B (secondary),69.1,50-70%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),84.1,70-85%,Not at risk,0
+B (secondary),86.9,Above 85%,Not at risk,0
+B (secondary),71.1,70-85%,Not at risk,0
+B (secondary),76.6,70-85%,Not at risk,0
+B (secondary),81.0,70-85%,Not at risk,0
+B (secondary),74.3,70-85%,Not at risk,0
+B (secondary),68.7,50-70%,At risk,1
+B (secondary),93.4,Above 85%,Not at risk,0
+B (secondary),85.0,70-85%,Not at risk,0
+B (secondary),80.1,70-85%,Not at risk,0
+B (secondary),93.0,Above 85%,Not at risk,0
+B (secondary),93.0,Above 85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),84.9,70-85%,Not at risk,0
+B (secondary),75.9,70-85%,Not at risk,0
+B (secondary),80.9,70-85%,Not at risk,0
+B (secondary),99.8,Above 85%,Not at risk,0
+B (secondary),77.8,70-85%,Not at risk,0
+B (secondary),80.1,70-85%,Not at risk,0
+B (secondary),96.4,Above 85%,Not at risk,0
+B (secondary),83.7,70-85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),98.6,Above 85%,Not at risk,0
+B (secondary),90.5,Above 85%,Not at risk,0
+B (secondary),92.4,Above 85%,Not at risk,0
+B (secondary),80.5,70-85%,Not at risk,0
+B (secondary),80.8,70-85%,Not at risk,0
+B (secondary),98.5,Above 85%,Not at risk,0
+B (secondary),93.9,Above 85%,Not at risk,0
+B (secondary),96.2,Above 85%,Not at risk,0
+B (secondary),88.6,Above 85%,Not at risk,0
+B (secondary),84.5,70-85%,Not at risk,0
+B (secondary),78.6,70-85%,Not at risk,0
+B (secondary),91.2,Above 85%,Not at risk,0
+B (secondary),73.5,70-85%,Not at risk,0
+B (secondary),95.8,Above 85%,Not at risk,0
+B (secondary),84.5,70-85%,Not at risk,0
+B (secondary),93.9,Above 85%,Not at risk,0
+B (secondary),95.6,Above 85%,Not at risk,0
+B (secondary),80.0,70-85%,Not at risk,0
+B (secondary),87.9,Above 85%,Not at risk,0
+B (secondary),87.3,Above 85%,Not at risk,0
+B (secondary),76.4,70-85%,Not at risk,0
+B (secondary),99.9,Above 85%,Not at risk,0
+B (secondary),90.2,Above 85%,Not at risk,0
+B (secondary),78.4,70-85%,Not at risk,0
+B (secondary),85.8,Above 85%,Not at risk,0
+B (secondary),76.1,70-85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),89.9,Above 85%,Not at risk,0
+B (secondary),86.3,Above 85%,Not at risk,0
+B (secondary),78.3,70-85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),85.8,Above 85%,Not at risk,0
+B (secondary),96.8,Above 85%,Not at risk,0
+B (secondary),87.3,Above 85%,Not at risk,0
+B (secondary),90.3,Above 85%,Not at risk,0
+B (secondary),82.7,70-85%,Not at risk,0
+B (secondary),83.0,70-85%,Not at risk,0
+B (secondary),90.4,Above 85%,Not at risk,0
+B (secondary),69.2,50-70%,Not at risk,0
+B (secondary),79.6,70-85%,Not at risk,0
+B (secondary),83.9,70-85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),86.3,Above 85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),67.7,50-70%,Not at risk,0
+B (secondary),75.9,70-85%,Not at risk,0
+B (secondary),92.1,Above 85%,Not at risk,0
+B (secondary),71.3,70-85%,Not at risk,0
+B (secondary),81.4,70-85%,Not at risk,0
+B (secondary),88.3,Above 85%,Not at risk,0
+B (secondary),78.4,70-85%,Not at risk,0
+B (secondary),83.9,70-85%,Not at risk,0
+B (secondary),75.5,70-85%,Not at risk,0
+B (secondary),96.3,Above 85%,Not at risk,0
+B (secondary),80.6,70-85%,Not at risk,0
+B (secondary),69.9,50-70%,Not at risk,0
+B (secondary),77.0,70-85%,Not at risk,0
+B (secondary),66.1,50-70%,Not at risk,0
+B (secondary),71.7,70-85%,Not at risk,0
+B (secondary),85.5,Above 85%,At risk,1
+B (secondary),86.9,Above 85%,Not at risk,0
+B (secondary),80.4,70-85%,Not at risk,0
+B (secondary),90.3,Above 85%,Not at risk,0
+B (secondary),98.7,Above 85%,Not at risk,0
+B (secondary),89.8,Above 85%,Not at risk,0
+B (secondary),80.0,70-85%,Not at risk,0
+B (secondary),87.6,Above 85%,Not at risk,0
+B (secondary),84.1,70-85%,Not at risk,0
+B (secondary),92.1,Above 85%,Not at risk,0
+B (secondary),88.9,Above 85%,Not at risk,0
+B (secondary),79.5,70-85%,Not at risk,0
+B (secondary),75.0,70-85%,Not at risk,0
+B (secondary),88.8,Above 85%,Not at risk,0
+B (secondary),94.5,Above 85%,Not at risk,0
+B (secondary),99.1,Above 85%,Not at risk,0
+B (secondary),83.8,70-85%,Not at risk,0
+B (secondary),88.9,Above 85%,Not at risk,0
+B (secondary),98.4,Above 85%,Not at risk,0
+B (secondary),94.0,Above 85%,Not at risk,0
+B (secondary),81.6,70-85%,Not at risk,0
+B (secondary),88.8,Above 85%,Not at risk,0
+B (secondary),85.1,Above 85%,Not at risk,0
+B (secondary),79.9,70-85%,Not at risk,0
+B (secondary),80.7,70-85%,Not at risk,0
+B (secondary),85.7,Above 85%,Not at risk,0
+B (secondary),79.3,70-85%,Not at risk,0
+B (secondary),81.0,70-85%,Not at risk,0
+B (secondary),95.7,Above 85%,Not at risk,0
+B (secondary),69.2,50-70%,At risk,1
+B (secondary),85.4,Above 85%,Not at risk,0
+B (secondary),83.8,70-85%,Not at risk,0
+B (secondary),74.9,70-85%,Not at risk,0
+B (secondary),86.9,Above 85%,Not at risk,0
+B (secondary),79.9,70-85%,At risk,1
+B (secondary),95.0,Above 85%,Not at risk,0
+B (secondary),87.7,Above 85%,Not at risk,0
+B (secondary),90.7,Above 85%,Not at risk,0
+B (secondary),69.2,50-70%,Not at risk,0
+B (secondary),72.4,70-85%,At risk,1
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),89.7,Above 85%,Not at risk,0
+B (secondary),78.6,70-85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),84.8,70-85%,Not at risk,0
+B (secondary),80.7,70-85%,Not at risk,0
+B (secondary),80.3,70-85%,Not at risk,0
+B (secondary),70.9,70-85%,Not at risk,0
+B (secondary),90.8,Above 85%,Not at risk,0
+B (secondary),94.6,Above 85%,Not at risk,0
+B (secondary),97.1,Above 85%,Not at risk,0
+B (secondary),76.7,70-85%,Not at risk,0
+B (secondary),85.3,Above 85%,Not at risk,0
+B (secondary),79.0,70-85%,Not at risk,0
+B (secondary),85.0,70-85%,Not at risk,0
+B (secondary),79.7,70-85%,Not at risk,0
+B (secondary),70.9,70-85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),85.6,Above 85%,Not at risk,0
+B (secondary),91.6,Above 85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),86.5,Above 85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),91.5,Above 85%,Not at risk,0
+B (secondary),61.1,50-70%,Not at risk,0
+B (secondary),80.0,70-85%,Not at risk,0
+B (secondary),67.2,50-70%,Not at risk,0
+B (secondary),80.6,70-85%,Not at risk,0
+B (secondary),73.9,70-85%,At risk,1
+B (secondary),94.8,Above 85%,At risk,1
+B (secondary),84.5,70-85%,Not at risk,0
+B (secondary),76.8,70-85%,Not at risk,0
+B (secondary),95.4,Above 85%,Not at risk,0
+B (secondary),82.4,70-85%,Not at risk,0
+B (secondary),89.0,Above 85%,Not at risk,0
+B (secondary),73.5,70-85%,Not at risk,0
+B (secondary),81.3,70-85%,Not at risk,0
+B (secondary),92.4,Above 85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),85.5,Above 85%,Not at risk,0
+B (secondary),90.0,Above 85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),66.9,50-70%,Not at risk,0
+B (secondary),83.8,70-85%,Not at risk,0
+B (secondary),90.6,Above 85%,Not at risk,0
+B (secondary),79.6,70-85%,Not at risk,0
+B (secondary),78.6,70-85%,Not at risk,0
+B (secondary),65.5,50-70%,Not at risk,0
+B (secondary),97.7,Above 85%,Not at risk,0
+B (secondary),68.1,50-70%,Not at risk,0
+B (secondary),89.4,Above 85%,At risk,1
+B (secondary),88.0,Above 85%,Not at risk,0
+B (secondary),76.3,70-85%,Not at risk,0
+B (secondary),78.0,70-85%,Not at risk,0
+B (secondary),93.7,Above 85%,Not at risk,0
+B (secondary),87.3,Above 85%,Not at risk,0
+B (secondary),81.5,70-85%,Not at risk,0
+B (secondary),80.8,70-85%,Not at risk,0
+B (secondary),76.7,70-85%,Not at risk,0
+B (secondary),92.5,Above 85%,Not at risk,0
+B (secondary),94.3,Above 85%,Not at risk,0
+B (secondary),87.8,Above 85%,Not at risk,0
+B (secondary),93.1,Above 85%,Not at risk,0
+B (secondary),81.8,70-85%,Not at risk,0
+B (secondary),88.2,Above 85%,Not at risk,0
+B (secondary),75.9,70-85%,Not at risk,0
+B (secondary),85.0,70-85%,Not at risk,0
+B (secondary),98.2,Above 85%,Not at risk,0
+B (secondary),83.5,70-85%,Not at risk,0
+B (secondary),87.0,Above 85%,Not at risk,0
+B (secondary),84.4,70-85%,Not at risk,0
+B (secondary),94.1,Above 85%,Not at risk,0
+B (secondary),84.0,70-85%,Not at risk,0
+B (secondary),75.5,70-85%,Not at risk,0
+B (secondary),83.1,70-85%,Not at risk,0
+B (secondary),95.7,Above 85%,Not at risk,0
+B (secondary),83.8,70-85%,Not at risk,0
+B (secondary),85.7,Above 85%,Not at risk,0
+B (secondary),76.4,70-85%,Not at risk,0
+B (secondary),66.0,50-70%,Not at risk,0
+B (secondary),95.2,Above 85%,Not at risk,0
+B (secondary),75.3,70-85%,Not at risk,0
+B (secondary),95.7,Above 85%,Not at risk,0
+B (secondary),85.9,Above 85%,Not at risk,0
+B (secondary),78.7,70-85%,Not at risk,0
+B (secondary),75.4,70-85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),88.3,Above 85%,Not at risk,0
+B (secondary),91.5,Above 85%,Not at risk,0
+B (secondary),93.1,Above 85%,Not at risk,0
+B (secondary),80.4,70-85%,Not at risk,0
+B (secondary),82.7,70-85%,Not at risk,0
+B (secondary),88.5,Above 85%,Not at risk,0
+B (secondary),72.2,70-85%,Not at risk,0
+B (secondary),61.8,50-70%,Not at risk,0
+B (secondary),88.9,Above 85%,Not at risk,0
+B (secondary),89.4,Above 85%,Not at risk,0
+B (secondary),98.8,Above 85%,Not at risk,0
+B (secondary),97.0,Above 85%,Not at risk,0
+B (secondary),83.3,70-85%,At risk,1
+B (secondary),90.7,Above 85%,Not at risk,0
+B (secondary),68.1,50-70%,Not at risk,0
+B (secondary),69.1,50-70%,Not at risk,0
+B (secondary),92.0,Above 85%,Not at risk,0
+B (secondary),86.5,Above 85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),95.4,Above 85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),83.9,70-85%,Not at risk,0
+B (secondary),89.8,Above 85%,Not at risk,0
+B (secondary),86.5,Above 85%,At risk,1
+B (secondary),92.1,Above 85%,Not at risk,0
+B (secondary),89.5,Above 85%,Not at risk,0
+B (secondary),78.6,70-85%,Not at risk,0
+B (secondary),70.4,70-85%,Not at risk,0
+B (secondary),92.1,Above 85%,Not at risk,0
+B (secondary),85.0,70-85%,Not at risk,0
+B (secondary),86.8,Above 85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),93.5,Above 85%,Not at risk,0
+B (secondary),82.4,70-85%,Not at risk,0
+B (secondary),85.8,Above 85%,Not at risk,0
+B (secondary),98.1,Above 85%,Not at risk,0
+B (secondary),88.6,Above 85%,Not at risk,0
+B (secondary),93.0,Above 85%,Not at risk,0
+B (secondary),75.0,70-85%,Not at risk,0
+B (secondary),80.8,70-85%,Not at risk,0
+B (secondary),81.7,70-85%,Not at risk,0
+B (secondary),91.4,Above 85%,Not at risk,0
+B (secondary),98.4,Above 85%,Not at risk,0
+B (secondary),92.9,Above 85%,Not at risk,0
+B (secondary),92.2,Above 85%,Not at risk,0
+B (secondary),88.9,Above 85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),91.2,Above 85%,Not at risk,0
+B (secondary),81.6,70-85%,Not at risk,0
+B (secondary),83.0,70-85%,Not at risk,0
+B (secondary),77.8,70-85%,Not at risk,0
+B (secondary),80.7,70-85%,Not at risk,0
+B (secondary),77.5,70-85%,Not at risk,0
+B (secondary),75.5,70-85%,Not at risk,0
+B (secondary),89.2,Above 85%,Not at risk,0
+B (secondary),92.5,Above 85%,Not at risk,0
+B (secondary),73.8,70-85%,Not at risk,0
+B (secondary),82.7,70-85%,Not at risk,0
+B (secondary),74.5,70-85%,Not at risk,0
+B (secondary),95.2,Above 85%,Not at risk,0
+B (secondary),77.9,70-85%,Not at risk,0
+B (secondary),70.2,70-85%,Not at risk,0
+B (secondary),93.5,Above 85%,Not at risk,0
+B (secondary),94.6,Above 85%,Not at risk,0
+B (secondary),69.1,50-70%,Not at risk,0
+B (secondary),78.8,70-85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),71.3,70-85%,Not at risk,0
+B (secondary),71.3,70-85%,Not at risk,0
+B (secondary),74.5,70-85%,Not at risk,0
+B (secondary),72.8,70-85%,Not at risk,0
+B (secondary),90.7,Above 85%,At risk,1
+B (secondary),94.7,Above 85%,Not at risk,0
+B (secondary),71.4,70-85%,Not at risk,0
+B (secondary),99.7,Above 85%,Not at risk,0
+B (secondary),70.0,50-70%,Not at risk,0
+B (secondary),87.1,Above 85%,Not at risk,0
+B (secondary),91.7,Above 85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),78.0,70-85%,Not at risk,0
+B (secondary),90.9,Above 85%,Not at risk,0
+B (secondary),81.3,70-85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),72.6,70-85%,Not at risk,0
+B (secondary),80.0,70-85%,Not at risk,0
+B (secondary),72.3,70-85%,Not at risk,0
+B (secondary),80.9,70-85%,Not at risk,0
+B (secondary),78.2,70-85%,Not at risk,0
+B (secondary),71.4,70-85%,Not at risk,0
+B (secondary),87.2,Above 85%,Not at risk,0
+B (secondary),84.9,70-85%,Not at risk,0
+B (secondary),97.7,Above 85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),85.2,Above 85%,Not at risk,0
+B (secondary),74.6,70-85%,Not at risk,0
+B (secondary),87.6,Above 85%,Not at risk,0
+B (secondary),77.8,70-85%,Not at risk,0
+B (secondary),79.2,70-85%,Not at risk,0
+B (secondary),71.3,70-85%,Not at risk,0
+B (secondary),83.4,70-85%,Not at risk,0
+B (secondary),79.2,70-85%,Not at risk,0
+B (secondary),78.3,70-85%,Not at risk,0
+B (secondary),85.3,Above 85%,Not at risk,0
+B (secondary),99.5,Above 85%,Not at risk,0
+B (secondary),69.5,50-70%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),78.2,70-85%,Not at risk,0
+B (secondary),94.8,Above 85%,Not at risk,0
+B (secondary),77.0,70-85%,Not at risk,0
+B (secondary),97.1,Above 85%,Not at risk,0
+B (secondary),74.1,70-85%,Not at risk,0
+B (secondary),90.3,Above 85%,Not at risk,0
+B (secondary),78.6,70-85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),86.9,Above 85%,Not at risk,0
+B (secondary),80.6,70-85%,Not at risk,0
+B (secondary),98.6,Above 85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),88.6,Above 85%,Not at risk,0
+B (secondary),88.3,Above 85%,Not at risk,0
+B (secondary),86.5,Above 85%,Not at risk,0
+B (secondary),84.0,70-85%,Not at risk,0
+B (secondary),94.9,Above 85%,Not at risk,0
+B (secondary),97.7,Above 85%,Not at risk,0
+B (secondary),74.7,70-85%,Not at risk,0
+B (secondary),72.7,70-85%,Not at risk,0
+B (secondary),76.3,70-85%,Not at risk,0
+B (secondary),97.5,Above 85%,Not at risk,0
+B (secondary),97.1,Above 85%,Not at risk,0
+B (secondary),80.0,70-85%,Not at risk,0
+B (secondary),81.8,70-85%,Not at risk,0
+B (secondary),69.4,50-70%,Not at risk,0
+B (secondary),83.2,70-85%,Not at risk,0
+B (secondary),92.3,Above 85%,Not at risk,0
+B (secondary),96.3,Above 85%,Not at risk,0
+B (secondary),73.7,70-85%,Not at risk,0
+B (secondary),80.1,70-85%,Not at risk,0
+B (secondary),76.8,70-85%,Not at risk,0
+B (secondary),94.9,Above 85%,Not at risk,0
+B (secondary),82.0,70-85%,Not at risk,0
+B (secondary),90.6,Above 85%,Not at risk,0
+B (secondary),83.6,70-85%,Not at risk,0
+B (secondary),99.1,Above 85%,Not at risk,0
+B (secondary),83.9,70-85%,Not at risk,0
+B (secondary),83.7,70-85%,Not at risk,0
+B (secondary),88.4,Above 85%,Not at risk,0
+B (secondary),86.7,Above 85%,Not at risk,0
+B (secondary),78.7,70-85%,Not at risk,0
+B (secondary),96.2,Above 85%,Not at risk,0
+B (secondary),76.3,70-85%,Not at risk,0
+B (secondary),82.4,70-85%,Not at risk,0
+B (secondary),79.7,70-85%,Not at risk,0
+B (secondary),73.6,70-85%,Not at risk,0
+B (secondary),74.8,70-85%,Not at risk,0
+B (secondary),95.1,Above 85%,Not at risk,0
+B (secondary),93.2,Above 85%,Not at risk,0
+B (secondary),72.7,70-85%,Not at risk,0
+B (secondary),77.4,70-85%,Not at risk,0
+B (secondary),80.0,70-85%,Not at risk,0
+B (secondary),87.4,Above 85%,Not at risk,0
+B (secondary),89.2,Above 85%,At risk,1
+B (secondary),81.1,70-85%,Not at risk,0
+B (secondary),82.4,70-85%,Not at risk,0
+B (secondary),79.1,70-85%,Not at risk,0
+B (secondary),72.8,70-85%,Not at risk,0
+B (secondary),82.0,70-85%,Not at risk,0
+B (secondary),70.4,70-85%,Not at risk,0
+B (secondary),67.2,50-70%,Not at risk,0
+B (secondary),83.9,70-85%,Not at risk,0
+B (secondary),72.7,70-85%,Not at risk,0
+B (secondary),77.3,70-85%,Not at risk,0
+B (secondary),81.4,70-85%,Not at risk,0
+B (secondary),78.1,70-85%,Not at risk,0
+B (secondary),97.9,Above 85%,Not at risk,0
+B (secondary),98.3,Above 85%,At risk,1
+B (secondary),66.0,50-70%,Not at risk,0
+B (secondary),85.7,Above 85%,Not at risk,0
+B (secondary),97.1,Above 85%,Not at risk,0
+B (secondary),83.7,70-85%,Not at risk,0
+B (secondary),69.8,50-70%,Not at risk,0
+B (secondary),68.8,50-70%,Not at risk,0
+B (secondary),80.8,70-85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),84.5,70-85%,Not at risk,0
+B (secondary),76.9,70-85%,Not at risk,0
+B (secondary),90.1,Above 85%,At risk,1
+B (secondary),98.0,Above 85%,Not at risk,0
+B (secondary),74.0,70-85%,Not at risk,0
+B (secondary),87.0,Above 85%,Not at risk,0
+B (secondary),96.1,Above 85%,Not at risk,0
+B (secondary),81.4,70-85%,Not at risk,0
+B (secondary),73.9,70-85%,Not at risk,0
+B (secondary),63.1,50-70%,Not at risk,0
+B (secondary),83.3,70-85%,Not at risk,0
+B (secondary),86.7,Above 85%,Not at risk,0
+B (secondary),80.1,70-85%,Not at risk,0
+B (secondary),89.9,Above 85%,Not at risk,0
+B (secondary),82.6,70-85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),85.7,Above 85%,Not at risk,0
+B (secondary),93.4,Above 85%,Not at risk,0
+B (secondary),95.3,Above 85%,Not at risk,0
+B (secondary),79.2,70-85%,Not at risk,0
+B (secondary),73.4,70-85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),65.4,50-70%,Not at risk,0
+B (secondary),76.7,70-85%,Not at risk,0
+B (secondary),88.0,Above 85%,Not at risk,0
+B (secondary),96.1,Above 85%,Not at risk,0
+B (secondary),91.9,Above 85%,Not at risk,0
+B (secondary),76.5,70-85%,Not at risk,0
+B (secondary),90.1,Above 85%,Not at risk,0
+B (secondary),71.6,70-85%,Not at risk,0
+B (secondary),72.5,70-85%,Not at risk,0
+B (secondary),78.4,70-85%,Not at risk,0
+B (secondary),74.0,70-85%,Not at risk,0
+B (secondary),88.8,Above 85%,Not at risk,0
+B (secondary),86.8,Above 85%,At risk,1
+B (secondary),79.9,70-85%,Not at risk,0
+B (secondary),88.5,Above 85%,Not at risk,0
+B (secondary),96.3,Above 85%,Not at risk,0
+B (secondary),75.6,70-85%,Not at risk,0
+B (secondary),78.5,70-85%,Not at risk,0
+B (secondary),79.5,70-85%,Not at risk,0
+B (secondary),91.9,Above 85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),93.5,Above 85%,Not at risk,0
+B (secondary),82.7,70-85%,At risk,1
+B (secondary),83.5,70-85%,Not at risk,0
+B (secondary),83.7,70-85%,Not at risk,0
+B (secondary),66.2,50-70%,Not at risk,0
+B (secondary),80.4,70-85%,Not at risk,0
+B (secondary),80.2,70-85%,Not at risk,0
+B (secondary),71.6,70-85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),73.6,70-85%,At risk,1
+B (secondary),85.5,Above 85%,Not at risk,0
+B (secondary),87.4,Above 85%,Not at risk,0
+B (secondary),81.8,70-85%,Not at risk,0
+B (secondary),91.1,Above 85%,Not at risk,0
+B (secondary),75.7,70-85%,Not at risk,0
+B (secondary),74.9,70-85%,Not at risk,0
+B (secondary),88.8,Above 85%,Not at risk,0
+B (secondary),84.3,70-85%,Not at risk,0
+B (secondary),74.0,70-85%,Not at risk,0
+B (secondary),91.8,Above 85%,Not at risk,0
+B (secondary),75.7,70-85%,At risk,1
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),68.7,50-70%,Not at risk,0
+B (secondary),83.9,70-85%,Not at risk,0
+B (secondary),75.7,70-85%,Not at risk,0
+B (secondary),98.6,Above 85%,At risk,1
+B (secondary),82.2,70-85%,Not at risk,0
+B (secondary),97.8,Above 85%,Not at risk,0
+B (secondary),69.1,50-70%,Not at risk,0
+B (secondary),97.7,Above 85%,Not at risk,0
+B (secondary),99.3,Above 85%,Not at risk,0
+B (secondary),77.6,70-85%,Not at risk,0
+B (secondary),93.5,Above 85%,Not at risk,0
+B (secondary),81.6,70-85%,At risk,1
+B (secondary),97.0,Above 85%,Not at risk,0
+B (secondary),75.6,70-85%,Not at risk,0
+B (secondary),85.1,Above 85%,Not at risk,0
+B (secondary),78.3,70-85%,Not at risk,0
+B (secondary),83.7,70-85%,Not at risk,0
+B (secondary),92.9,Above 85%,Not at risk,0
+B (secondary),84.3,70-85%,Not at risk,0
+B (secondary),97.2,Above 85%,Not at risk,0
+B (secondary),81.9,70-85%,Not at risk,0
+B (secondary),88.0,Above 85%,Not at risk,0
+B (secondary),87.7,Above 85%,Not at risk,0
+B (secondary),75.9,70-85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),86.9,Above 85%,Not at risk,0
+B (secondary),87.8,Above 85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),83.2,70-85%,Not at risk,0
+B (secondary),90.3,Above 85%,Not at risk,0
+B (secondary),86.0,Above 85%,Not at risk,0
+B (secondary),70.8,70-85%,Not at risk,0
+B (secondary),87.8,Above 85%,Not at risk,0
+B (secondary),85.0,70-85%,Not at risk,0
+B (secondary),75.8,70-85%,Not at risk,0
+B (secondary),85.6,Above 85%,Not at risk,0
+B (secondary),65.3,50-70%,Not at risk,0
+B (secondary),95.6,Above 85%,Not at risk,0
+B (secondary),80.5,70-85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),93.2,Above 85%,Not at risk,0
+B (secondary),94.3,Above 85%,Not at risk,0
+B (secondary),86.4,Above 85%,Not at risk,0
+B (secondary),87.6,Above 85%,Not at risk,0
+B (secondary),75.4,70-85%,Not at risk,0
+B (secondary),77.3,70-85%,Not at risk,0
+B (secondary),81.7,70-85%,Not at risk,0
+B (secondary),82.1,70-85%,Not at risk,0
+B (secondary),95.7,Above 85%,Not at risk,0
+B (secondary),86.5,Above 85%,Not at risk,0
+B (secondary),65.5,50-70%,Not at risk,0
+B (secondary),77.0,70-85%,At risk,1
+B (secondary),94.4,Above 85%,Not at risk,0
+B (secondary),74.3,70-85%,Not at risk,0
+B (secondary),78.0,70-85%,Not at risk,0
+B (secondary),83.3,70-85%,Not at risk,0
+B (secondary),93.5,Above 85%,Not at risk,0
+B (secondary),82.0,70-85%,Not at risk,0
+B (secondary),81.6,70-85%,Not at risk,0
+B (secondary),69.3,50-70%,Not at risk,0
+B (secondary),75.0,70-85%,Not at risk,0
+B (secondary),92.7,Above 85%,Not at risk,0
+B (secondary),87.1,Above 85%,Not at risk,0
+B (secondary),89.4,Above 85%,Not at risk,0
+B (secondary),67.6,50-70%,Not at risk,0
+B (secondary),85.2,Above 85%,Not at risk,0
+B (secondary),84.5,70-85%,Not at risk,0
+B (secondary),82.2,70-85%,Not at risk,0
+B (secondary),72.3,70-85%,Not at risk,0
+B (secondary),79.6,70-85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),92.0,Above 85%,Not at risk,0
+B (secondary),77.5,70-85%,Not at risk,0
+B (secondary),84.0,70-85%,Not at risk,0
+B (secondary),63.1,50-70%,Not at risk,0
+B (secondary),80.5,70-85%,Not at risk,0
+B (secondary),80.9,70-85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),74.6,70-85%,Not at risk,0
+B (secondary),96.4,Above 85%,Not at risk,0
+B (secondary),86.4,Above 85%,Not at risk,0
+B (secondary),71.8,70-85%,Not at risk,0
+B (secondary),96.3,Above 85%,Not at risk,0
+B (secondary),82.7,70-85%,Not at risk,0
+B (secondary),90.8,Above 85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),76.8,70-85%,Not at risk,0
+B (secondary),93.8,Above 85%,Not at risk,0
+B (secondary),77.1,70-85%,Not at risk,0
+B (secondary),88.1,Above 85%,Not at risk,0
+B (secondary),86.8,Above 85%,Not at risk,0
+B (secondary),85.6,Above 85%,Not at risk,0
+B (secondary),79.7,70-85%,Not at risk,0
+B (secondary),91.0,Above 85%,Not at risk,0
+B (secondary),83.3,70-85%,Not at risk,0
+B (secondary),100.0,Above 85%,Not at risk,0
+B (secondary),90.1,Above 85%,Not at risk,0
+B (secondary),81.7,70-85%,Not at risk,0
+B (secondary),85.7,Above 85%,Not at risk,0
+B (secondary),82.7,70-85%,Not at risk,0
+B (secondary),89.0,Above 85%,Not at risk,0
+B (secondary),98.2,Above 85%,Not at risk,0
+B (secondary),86.5,Above 85%,Not at risk,0
+B (secondary),88.8,Above 85%,Not at risk,0
+B (secondary),73.9,70-85%,Not at risk,0
+B (secondary),74.7,70-85%,Not at risk,0
+B (secondary),84.8,70-85%,Not at risk,0
+B (secondary),84.0,70-85%,Not at risk,0
+B (secondary),84.2,70-85%,Not at risk,0
+B (secondary),69.6,50-70%,Not at risk,0
+B (secondary),99.4,Above 85%,Not at risk,0
+B (secondary),93.4,Above 85%,Not at risk,0
+B (secondary),94.5,Above 85%,Not at risk,0
+B (secondary),88.0,Above 85%,At risk,1
+B (secondary),93.2,Above 85%,Not at risk,0
+B (secondary),98.3,Above 85%,Not at risk,0
+B (secondary),82.4,70-85%,Not at risk,0
+B (secondary),85.5,Above 85%,Not at risk,0
+B (secondary),84.0,70-85%,Not at risk,0
+B (secondary),91.6,Above 85%,Not at risk,0
+B (secondary),89.0,Above 85%,Not at risk,0
