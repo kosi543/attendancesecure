@@ -185,6 +185,10 @@ def _scan(user):
         qr_ok, qr_msg = qr_engine.validate_token(payload)
         ip = st.session_state.get("ip", "102.89.0.10")
 
+        # One phone cannot stand in for several students in one class.
+        device_reused = att.device_used_in_session(sid, device_id,
+                                                   user["matric"])
+
         # short, specific reasons, not one vague label
         flags = []
         if not qr_ok:
@@ -193,19 +197,16 @@ def _scan(user):
             flags.append(geo.reason)
         if not device_known:
             flags.append("device fingerprint could not be read")
-        device_reused = att.device_used_in_session(sid, device_id,
-                                                   user["matric"])
         if device_reused:
             flags.append("this device already scanned for another student "
                          "in this session")
 
         att.record_scan(session, user, device_id, ip, gps_lat, gps_lon,
                         geo.distance_m, geo.inside, qr_ok, location_shared,
-                        reason="; ".join(flags), device_known=device_known)
-        reason="; ".join(flags), device_known=device_known,
+                        reason="; ".join(flags), device_known=device_known,
                         device_reused=device_reused)
 
-        if qr_ok and geo.inside and device_known:
+        if qr_ok and geo.inside and device_known and not device_reused:
             st.success(f"Attendance recorded. You were {geo.distance_m:.0f} m "
                        f"from the class centre.")
         else:
